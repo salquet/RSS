@@ -1,0 +1,44 @@
+name: Update RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Daily at 07:00 UTC (09:00 CET)
+  workflow_dispatch:      # Allow manual trigger from GitHub UI
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run RSS generators
+        run: |
+          python generate_rss.py || true
+          python generate_rss_beinsure.py || true
+          python generate_rss_businesstoday.py || true
+          python generate_rss_caracol.py || true
+          python generate_rss_ejeprime.py || true
+          python generate_rss_elconfidencial.py || true
+          python generate_rss_indiatoday.py || true
+          python generate_rss_larepublica.py || true
+          python generate_rss_latinoinsurance.py || true
+          python generate_rss_livemint.py || true
+          python generate_rss_observatorio.py || true
+
+      - name: Commit and push updated feeds
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add *.xml
+          git diff --staged --quiet || git commit -m "chore: update RSS feeds $(date -u '+%Y-%m-%d')"
+          git push
