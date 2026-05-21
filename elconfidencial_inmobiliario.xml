@@ -5,14 +5,21 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Wed, 20 May 2026 10:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:43:05 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
     <item>
-      <title>Batalla legal entre el restaurante más antiguo de Glasgow y el imperio de Amancio Ortega</title>
-      <link>https://www.elconfidencial.com/inmobiliario/comercial/2026-05-20/pontegadea-juicio-restaurante-mas-antiguo-glasgow_4357594/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/comercial/2026-05-20/pontegadea-juicio-restaurante-mas-antiguo-glasgow_4357594/</guid>
+      <title>"Reivindico mi manera de alcanzar acuerdos": Vivienda anuncia un pacto con todas las CCAA</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-21/acuerdo-plan-estatal-de-vivienda_4358936/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-21/acuerdo-plan-estatal-de-vivienda_4358936/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>La ministra de Vivienda, Isabel Rodríguez, ha anticipado un acuerdo con los presidentes de todas las CCAA para dar luz verde a los 7.000M del Plan Estatal de Vivienda 2026-2030</description>
+    </item>
+    <item>
+      <title>Anatomía del coloso residencial de Benidorm que soportará el peso de 8,5 Torres Eiffel</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-20/benidorm-rascacielos-pisos-costa-tm-grupo-precios_4358528/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-20/benidorm-rascacielos-pisos-costa-tm-grupo-precios_4358528/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>El Tribunal Supremo británico dilucida esta semana la disputa entre Rogano, un icónico restaurante, y la patrimonial del multimillonario gallego. La sentencia puede redefinir la responsabilidad entre propietarios y arrendadores en causas de fuerza mayo</description>
+      <description>Más de 5.00 metros cúbicos de hormigón, 245 toneladas de acero, 355 pilotes estructurales a una profundidad de hasta 16 metros y más de 3.500 metros lineales de perforación</description>
     </item>
     <item>
       <title>La 'Milla de Oro' de Benidorm pulveriza récords: pisos de 3,5 M y más de 6.000 €/m²</title>
@@ -22,11 +29,11 @@
       <description>Una pequeña zona dentro de todo el municipio en donde los precios parecen sacados de otro lugar, por ejemplo, de las afueras del barrio de Salamanca. Una pequeña extensión de terreno dentro de la Playa de Poniente</description>
     </item>
     <item>
-      <title>Vente al Caribe, Pepe: los promotores buscan negocio fuera, en pleno 'boom' del ladrillo patrio</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-05-20/sima-2026-expansion-internacional_4357786/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-20/sima-2026-expansion-internacional_4357786/</guid>
+      <title>Batalla legal entre el restaurante más antiguo de Glasgow y el imperio de Amancio Ortega</title>
+      <link>https://www.elconfidencial.com/inmobiliario/comercial/2026-05-20/pontegadea-juicio-restaurante-mas-antiguo-glasgow_4357594/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/comercial/2026-05-20/pontegadea-juicio-restaurante-mas-antiguo-glasgow_4357594/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Este miércoles arranca una nueva edición del SIMA, la gran feria del sector promotor, con una nutrida representación de proyectos internacionales que buscan capital patrio</description>
+      <description>El Tribunal Supremo británico dilucida esta semana la disputa entre Rogano, un icónico restaurante, y la patrimonial del multimillonario gallego. La sentencia puede redefinir la responsabilidad entre propietarios y arrendadores en causas de fuerza mayo</description>
     </item>
     <item>
       <title>Cerberus tira de ingeniería financiera para llevarse otros 106 M de su socimi de alquileres</title>
@@ -34,6 +41,13 @@
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-20/cerberus-dividendo-106-millones_4356995/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>El fondo estadounidense sigue avanzando en la estrategia financiera que ha diseñado para poder sacar el máximo beneficio de su filial de pisos de alquiler, Macc, antes de venderla</description>
+    </item>
+    <item>
+      <title>Vente al Caribe, Pepe: los promotores buscan negocio fuera, en pleno 'boom' del ladrillo patrio</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-05-20/sima-2026-expansion-internacional_4357786/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-20/sima-2026-expansion-internacional_4357786/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Este miércoles arranca una nueva edición del SIMA, la gran feria del sector promotor, con una nutrida representación de proyectos internacionales que buscan capital patrio</description>
     </item>
     <item>
       <title>Rockfield hará una residencia de estudiantes en el Colegio Corpus Christi de Madrid</title>
@@ -54,20 +68,18 @@
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-16/declaracion-de-la-renta-irpf-alquiler-morosos-okupacion_4355365/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-16/declaracion-de-la-renta-irpf-alquiler-morosos-okupacion_4355365/</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <description>Con la Campaña de Renta 2026 ya en marcha, vuelve a primer plano una de las cuestiones más controvertidas relacionadas con la fiscalidad del alquiler: la obligación de tributar en el IRPF por rentas no percibidas</description>
-    </item>
-    <item>
-      <title>El Gobierno y Junts negocian bonificar a hipotecados y a caseros para salvar la prórroga de alquiler</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-15/gobierno-junts-bonificar-hipotecas-deducciones-caseros-prorroga-alquiler_4355526/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-15/gobierno-junts-bonificar-hipotecas-deducciones-caseros-prorroga-alquiler_4355526/</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <description>El Ejecutivo sigue peleando un acuerdo con los catalanes que permita recuperar la prórroga obligatoria de alquileres. La moneda de cambio sería una batería de medidas fiscales</description>
     </item>
     <item>
       <title>Da igual el culpable: no va a haber conciertos en el Bernabéu con la ley actual</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-05-14/conciertos-bernabeu-denuncia-vecinos_4355023/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-05-14/conciertos-bernabeu-denuncia-vecinos_4355023/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Merlin Properties gana 87,4 M hasta marzo, un 3,9% más, y acelera el desarrollo de centros de datos</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-05-13/merlin-properties-gana-87-4-millones-centros-de-datos_4355008/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-13/merlin-properties-gana-87-4-millones-centros-de-datos_4355008/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Homming alerta del desajuste, en materia de vivienda, entre anuncios públicos y normativa real</title>
@@ -82,27 +94,27 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La frontera invisible del lujo: rebajas de hasta el 30% dentro de una misma calle</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-13/casas-lujo-serrano-ortega-gasset-alfonso-xii-alcala-zurbano_4351550/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-13/casas-lujo-serrano-ortega-gasset-alfonso-xii-alcala-zurbano_4351550/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Si se trocea la cartera de Balkany (el dueño de La Vaguada), hay centros que miraríamos"</title>
-      <link>https://www.elconfidencial.com/inmobiliario/comercial/2026-05-13/entrevista-jose-manuel-llovet-helios_4353518/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/comercial/2026-05-13/entrevista-jose-manuel-llovet-helios_4353518/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>El piso del portero, la gran patata caliente que enfrenta a las comunidades de vecinos</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-05-13/vivienda-alquiler-venta-pisos-porteros_4354039/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-13/vivienda-alquiler-venta-pisos-porteros_4354039/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>La frontera invisible del lujo: rebajas de hasta el 30% dentro de una misma calle</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-13/casas-lujo-serrano-ortega-gasset-alfonso-xii-alcala-zurbano_4351550/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-13/casas-lujo-serrano-ortega-gasset-alfonso-xii-alcala-zurbano_4351550/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Barceló y Hyatt se imponen en la puja por los nuevos hoteles de Barajas y El Prat</title>
       <link>https://www.elconfidencial.com/inmobiliario/hoteles/2026-05-12/barcelo-momentu-hyatt-hotel-barajas-prat_4353963/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/hoteles/2026-05-12/barcelo-momentu-hyatt-hotel-barajas-prat_4353963/</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leo Messi compra las galerías Wagner de Barcelona por 11,5 millones</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-05-12/leo-messi-compra-las-galerias-wagner_4353707/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-12/leo-messi-compra-las-galerias-wagner_4353707/</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,12 +190,6 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Blackstone cierra la venta de Fidere con un superdividendo de 492 millones de euros</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-06/blackstone-dividendo-venta-fidere_4350116/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-06/blackstone-dividendo-venta-fidere_4350116/</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sin luz no hay paquetes: la falta de red eléctrica amenaza con gripar el motor del 'e-commerce'</title>
       <link>https://www.elconfidencial.com/inmobiliario/logistica/2026-05-06/inmologistica-centros-datos-centros-distribucion-ecommerce_4349473/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/logistica/2026-05-06/inmologistica-centros-datos-centros-distribucion-ecommerce_4349473/</guid>
@@ -196,21 +202,27 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Blackstone cierra la venta de Fidere con un superdividendo de 492 millones de euros</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-06/blackstone-dividendo-venta-fidere_4350116/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-06/blackstone-dividendo-venta-fidere_4350116/</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Azora incorpora a Anne-Jan Jager como director general para impulsar su expansión internacional</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-05-05/azora-anne-jan-jager-director-geneneral_4350383/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-05-05/azora-anne-jan-jager-director-geneneral_4350383/</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El fondo de pisos asequibles Alas compra nueve edificios por 102M y logra el apoyo del ICO</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-05/crisis-vivienda-alquiler-asequible_4349597/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-05/crisis-vivienda-alquiler-asequible_4349597/</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Por qué los trasteros son un negocio tan atractivo: todo lo que hay detrás de su 'boom' en España</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-05-05/trasteros-negocio-atractivo-boom_4349569/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-05/trasteros-negocio-atractivo-boom_4349569/</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El fondo de pisos asequibles Alas compra nueve edificios por 102M y logra el apoyo del ICO</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-05/crisis-vivienda-alquiler-asequible_4349597/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-05/crisis-vivienda-alquiler-asequible_4349597/</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -230,18 +242,6 @@
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-04/pisos-lujo-madrid-merlin-calle-alcala_4347598/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-04/pisos-lujo-madrid-merlin-calle-alcala_4347598/</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Este español busca construcciones ilegales por satélite desde Estonia: en Algete ha localizado 750</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-05-03/ilegalidades-irregularidades-urbanistica-catanova-datel-agencia-espacial-europea-cbtrgrf_4346388/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-03/ilegalidades-irregularidades-urbanistica-catanova-datel-agencia-espacial-europea-cbtrgrf_4346388/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Hola, pedí la prórroga y mi casero no acepta". Así asesora el servicio telefónico del Gobierno para el alquiler</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-01/que-puedo-hacer-si-mi-casero-me-denuncia_4347810/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-01/que-puedo-hacer-si-mi-casero-me-denuncia_4347810/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
