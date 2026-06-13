@@ -5,8 +5,15 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:05:46 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Velzia, canario en la mina de la vivienda? Aún es pronto, pero el mercado ya estaba tocado</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-13/velzia-casas-de-lujo-mercado-residencial-cambio-de-ciclo-agotamiento_4371452/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-13/velzia-casas-de-lujo-mercado-residencial-cambio-de-ciclo-agotamiento_4371452/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Desde finales del año pasado, el mercado residencial muestra algunos síntomas de agotamiento. Los datos a cierre de 2025 del INE revelan una caída de las ventas de casi el 10% en todo Madrid en el cuarto trimestre del año</description>
+    </item>
     <item>
       <title>Renta 4 se alía con la mano derecha de López de Herrera-Oria y lanza un fondo inmobiliario</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-06-12/renta-4-alianza-mano-derecha-lopez-herrera-oria-fondo-inmobiliario_4371165/</link>
@@ -22,18 +29,18 @@
       <description>El nerviosismo se ha apoderado de los propietarios de suelo de Valgrande, el gran desarrollo residencial del norte de Madrid, que amenaza con quedar bloqueado más de un año</description>
     </item>
     <item>
-      <title>Velzia propone darse un año para vender activos y evitar el concurso o las rebajas a derribo</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4370644/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4370644/</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Liquidar todos los activos en dos o tres meses, solicitar el concurso de acreedores o poner en marcha un plan de reestructuración organizado a un año que permita optimizar la venta de los activos</description>
-    </item>
-    <item>
       <title>Un promotor salpicado por el caso Leire bloquea el gran plan de vivienda del norte de Madrid</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/leonardo-sanchez-heredero-delta-fontanera_4370849/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/leonardo-sanchez-heredero-delta-fontanera_4370849/</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Leonardo Sánchez Heredero, dueño de grupo Delta, rechaza la reparcelación de Valgrande, y amenaza con retrasar entre uno y dos años más el plan, uno de los mayores de Madrid</description>
+    </item>
+    <item>
+      <title>Velzia propone darse un año para vender activos y evitar el concurso o las rebajas a derribo</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4370644/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4370644/</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Liquidar todos los activos en dos o tres meses, solicitar el concurso de acreedores o poner en marcha un plan de reestructuración organizado a un año que permita optimizar la venta de los activos</description>
     </item>
     <item>
       <title>Revés del Supremo a Florentino y Almeida: obliga a aclarar si el Bernabéu tiene licencia para dar conciertos</title>
@@ -61,7 +68,6 @@
       <link>https://www.elconfidencial.com/inmobiliario/2026-06-10/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4369723/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-10/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4369723/</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <description>La compañía fundada por Chani Chapnik ha comunicado a sus inversores el preconcurso de acreedores, un proceso de reestructuración financiera amparado en la Ley Concursal</description>
     </item>
     <item>
       <title>"Lo hemos analizado con varios bufetes y el tope de rentas no aplica en la obra nueva"</title>
@@ -94,16 +100,16 @@
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>En cinco días estalló todo: crónica del divorcio entre Moeve  (Cepsa) y Montoro (Monthisa)</title>
-      <link>https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-05/cronica-fracaso-mudanza-moeve-monthisa-pontegadea_4367615/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-05/cronica-fracaso-mudanza-moeve-monthisa-pontegadea_4367615/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Diaphanum RE compra a Colonial un edificio de pisos de 'alto standing' en Boadilla para venderlos</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-05/diaphanum-re-colonial-boadilla_4367347/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-05/diaphanum-re-colonial-boadilla_4367347/</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Airbnb refuerza su apuesta hotelera con Madrid como la ciudad con mayor oferta en España</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-06-04/airbnb-madrid-oferta-hotelera-1hms-1svm_4367408/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-04/airbnb-madrid-oferta-hotelera-1hms-1svm_4367408/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Derrapa la mudanza del año: Moeve rompe con Montoro y se queda en Torre Foster</title>
@@ -124,9 +130,9 @@
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Las cláusulas 'antipase' llegan al lujo: no se puede vender antes de escriturar</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</guid>
+      <title>El 'plan Almeida' para sacar el suelo industrial de la M-40 (y echar una mano a la vivienda)</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-06-03/cambio-uso-suelo-industrial-flex-living-madrid_4366124/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-03/cambio-uso-suelo-industrial-flex-living-madrid_4366124/</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -136,9 +142,9 @@
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El 'plan Almeida' para sacar el suelo industrial de la M-40 (y echar una mano a la vivienda)</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-06-03/cambio-uso-suelo-industrial-flex-living-madrid_4366124/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-03/cambio-uso-suelo-industrial-flex-living-madrid_4366124/</guid>
+      <title>Las cláusulas 'antipase' llegan al lujo: no se puede vender antes de escriturar</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -196,12 +202,6 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El 'lobby' del ladrillo recurrió a la consultora de los contratos 'a dedo' de su presidenta para lograr fondos UE</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-05-27/asval-blackstone-helena-beunza-fondos-europeos_4361944/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-27/asval-blackstone-helena-beunza-fondos-europeos_4361944/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Fundación Unicaja construirá vivienda asequible en Málaga para familias jóvenes que cobren hasta 50.000 €</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-05-27/fundacion-unicaja-vivienda-asequible-malaga-jovenes_4362160/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-27/fundacion-unicaja-vivienda-asequible-malaga-jovenes_4362160/</guid>
@@ -214,15 +214,21 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El ladrillo contiene el aliento y frena proyectos a la espera de la ley de VPO en Madrid</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-27/ladrillo-frena-proyectos-ley-vpo-madrid_4361043/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-27/ladrillo-frena-proyectos-ley-vpo-madrid_4361043/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Blue Hunter ficha al equipo industrial de CBRE en Levante y abre oficina en Valencia y Sevilla</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-05-27/blue-hunter-cbre-logistica-valencia-sevilla_4361732/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-27/blue-hunter-cbre-logistica-valencia-sevilla_4361732/</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El 'lobby' del ladrillo recurrió a la consultora de los contratos 'a dedo' de su presidenta para lograr fondos UE</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-05-27/asval-blackstone-helena-beunza-fondos-europeos_4361944/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-27/asval-blackstone-helena-beunza-fondos-europeos_4361944/</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El ladrillo contiene el aliento y frena proyectos a la espera de la ley de VPO en Madrid</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-27/ladrillo-frena-proyectos-ley-vpo-madrid_4361043/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-27/ladrillo-frena-proyectos-ley-vpo-madrid_4361043/</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -236,12 +242,6 @@
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-26/subasta-chale-madrid-torrelodones-empresario-chino-gao-ping-caso-emperador_4361110/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-26/subasta-chale-madrid-torrelodones-empresario-chino-gao-ping-caso-emperador_4361110/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amenabar, la promotora que conquistó el norte de Madrid, dobla ahora apuesta por el sureste</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-05-25/obra-nueva-amenabar-berrocales_4360268/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-05-25/obra-nueva-amenabar-berrocales_4360268/</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
