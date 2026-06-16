@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:15:08 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El presidente de Apce resalta la dificultad para generar suelo frente a la demanda de vivienda</title>
+      <link>https://www.ejeprime.com/residencial/el-presidente-de-apce-lamenta-el-bloqueo-a-una-reforma-que-permitiria-generar-mas-vivienda</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-presidente-de-apce-lamenta-el-bloqueo-a-una-reforma-que-permitiria-generar-mas-vivienda</guid>
+      <pubDate>Tue, 16 Jun 2026 12:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACS gana presencia en India con la adjudicación de un proyecto residencial de lujo en Bombay</title>
+      <link>https://www.ejeprime.com/residencial/acs-gana-presencia-en-india-con-la-adjudicacion-de-un-proyecto-residencial-de-lujo-en-bombay</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/acs-gana-presencia-en-india-con-la-adjudicacion-de-un-proyecto-residencial-de-lujo-en-bombay</guid>
+      <pubDate>Mon, 15 Jun 2026 17:36:00 +0000</pubDate>
+      <description>El proyecto Embassy Citadel generará ingresos por valor de 80 millones. El edificio, cuya construcción está prevista para julio próximo, medirá unos 300 metros de altura, con una superficie construida de 192.000 metros cuadrados.</description>
+      <dc:creator>EjePrime</dc:creator>
+    </item>
     <item>
       <title>El impuesto de plusvalía municipal se dispara hasta un 650% en Madrid y un 500% en Sevilla</title>
       <link>https://www.ejeprime.com/residencial/el-impuesto-de-plusvalia-municipal-se-dispara-hasta-un-650-en-madrid-y-un-500-en-sevilla</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-impuesto-de-plusvalia-municipal-se-dispara-hasta-un-650-en-madrid-y-un-500-en-sevilla</guid>
-      <pubDate>Mon, 15 Jun 2026 13:21:27 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 11:42:00 +0000</pubDate>
+      <description>El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana (Iivtnu) experimenta un notable incremento en las grandes ciudades españolas desde 2020 con subidas que van desde el 275% hasta el 650%, alerta Asprima.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Metrovacesa activa su estrategia en Madrid con 6.000 viviendas y Los Cerros como zona estrella</title>
@@ -188,22 +204,6 @@
       <pubDate>Tue, 02 Jun 2026 16:16:00 +0000</pubDate>
       <description>La ‘proptech’ quiere superar en 2027 las 10.000 propiedades gestionadas. La ronda también incluye la conversión de capital aportado por parte de Sabadell Venture Capital, división de capital riesgo e inversión de banco Sabadell.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Madrid licitará diez parcelas para más de 1.000 viviendas de alquiler con opción a compra</title>
-      <link>https://www.ejeprime.com/residencial/madrid-licitara-diez-parcelas-para-mas-de-1000-viviendas-de-alquiler-con-opcion-a-compra</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/madrid-licitara-diez-parcelas-para-mas-de-1000-viviendas-de-alquiler-con-opcion-a-compra</guid>
-      <pubDate>Tue, 02 Jun 2026 13:16:00 +0000</pubDate>
-      <description>Se ofertarán más de 70.400 metros cuadrados edificables en tres lotes en Los Berrocales y uno en Los Ahijones donde convergerá, por primera vez, la modalidad de alquiler asequible y posterior compra, una vez transcurridos 7 años.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Pryconsa dispara su beneficio por encima de los 100 millones en su mejor ejercicio</title>
-      <link>https://www.ejeprime.com/residencial/pryconsa-dispara-su-beneficio-por-encima-de-los-100-millones-y-vende-mahou-calderon</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/pryconsa-dispara-su-beneficio-por-encima-de-los-100-millones-y-vende-mahou-calderon</guid>
-      <pubDate>Tue, 02 Jun 2026 05:00:00 +0000</pubDate>
-      <description>El grupo promotor de la familia Colomer gana en su ejercicio 2025 más de 106 millones de euros, el mejor año de su historia, tras elevar sus ingresos hasta 343 millones. En abril, cerró la venta de Madrid Rio por 115 millones.</description>
-      <dc:creator>Rocío Ruiz</dc:creator>
     </item>
     <item>
       <title>Nueva Valdeluz: 3.300 viviendas en un entorno inigualable en el Corredor del Henares</title>
