@@ -5,8 +5,15 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Fri, 19 Jun 2026 11:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:11:12 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Máxima tensión en la crisis de los arquitectos con dos pronunciamientos judiciales cruzados</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-19/maxima-tension-en-la-crisis-de-los-arquitectos-con-dos-pronunciamientos-judiciales-cruzados_4375908/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-19/maxima-tension-en-la-crisis-de-los-arquitectos-con-dos-pronunciamientos-judiciales-cruzados_4375908/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>El Juzgado Contencioso-Administrativo nº18 levanta las cautelares que protegen al decano, Sigfrido Herráez, que en una causa paralela logró que otro juez admitiera su cautelar con diez días para alegaciones</description>
+    </item>
     <item>
       <title>La compraventa de viviendas baja un 1,8% en abril y enlaza cuatro meses de caídas</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-06-19/compraventa-de-viviendas-baja-un-1-8-en-abril_4375641/</link>
@@ -29,11 +36,11 @@
       <description>Un juzgado de Madrid concede cautelares y cita a las partes para abril de 2027. La buena noticia es que, por primera vez, se analizará el fondo de la cuestión. La mala, que la crisis se enquista</description>
     </item>
     <item>
-      <title>La Universidad de Navarra dobla apuesta en Madrid: compra un campus de oficinas junto a su escuela</title>
-      <link>https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-17/universidad-navarra-compra-sede-3m-madrid-cbtrgrf_4373462/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-17/universidad-navarra-compra-sede-3m-madrid-cbtrgrf_4373462/</guid>
+      <title>A&amp;G compra un edificio a pocos metros del corazón de Castellana para hacer un hotel de lujo</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-17/pisos-lujo-madrid-castellana-bernabeu_4353927/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-17/pisos-lujo-madrid-castellana-bernabeu_4353927/</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>La Fundación Universitaria de Navarra (FUNA) ha adquirido un complejo de oficinas, sede de la multinacional 3M, justo al lado de la clínica y del campus que el Opus Dei tiene en Madrid</description>
+      <description>La división inmobiliaria del banco privado ha adquirido un edificio en la cotizada calle de Alberto Alcocer, un proyecto llamado a sumarse a la creciente oferta de hoteles de lujo</description>
     </item>
     <item>
       <title>El doble laberinto que hace temblar los cimientos del Colegio de Arquitectos de Madrid</title>
@@ -43,11 +50,11 @@
       <description>Un bando habla de asalto al Capitolio, el otro de okupas en la Junta de Gobierno, y en medio, miles de arquitectos asisten atónitos a una auténtica crisis institucional del COAM</description>
     </item>
     <item>
-      <title>A&amp;G compra un edificio a pocos metros del corazón de Castellana para hacer un hotel de lujo</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-17/pisos-lujo-madrid-castellana-bernabeu_4353927/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-17/pisos-lujo-madrid-castellana-bernabeu_4353927/</guid>
+      <title>La Universidad de Navarra dobla apuesta en Madrid: compra un campus de oficinas junto a su escuela</title>
+      <link>https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-17/universidad-navarra-compra-sede-3m-madrid-cbtrgrf_4373462/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-17/universidad-navarra-compra-sede-3m-madrid-cbtrgrf_4373462/</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>La división inmobiliaria del banco privado ha adquirido un edificio en la cotizada calle de Alberto Alcocer, un proyecto llamado a sumarse a la creciente oferta de hoteles de lujo</description>
+      <description>La Fundación Universitaria de Navarra (FUNA) ha adquirido un complejo de oficinas, sede de la multinacional 3M, justo al lado de la clínica y del campus que el Opus Dei tiene en Madrid</description>
     </item>
     <item>
       <title>Los mexicanos Factum y Blossom venden en una semana sus villas de 3,5M en La Moraleja</title>
@@ -61,13 +68,12 @@
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-16/guerra-civil-coam-colegio-arquitectos_4372952/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-16/guerra-civil-coam-colegio-arquitectos_4372952/</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <description>El COAM vive una auténtica guerra, con la antigua Mesa Electoral nombrando nuevo decano, y el actual tratando de evitarlo. La Justicia ha dictado esta mañana cautelarísimas</description>
     </item>
     <item>
-      <title>En este pueblo, una de cada tres casas está vacía, pero nadie puede encontrar piso</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-06-16/vivienda-vacia-baleares-ibiza_4371792/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-16/vivienda-vacia-baleares-ibiza_4371792/</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Sin obras ni preventas: la Ley VPO de Ayuso será retroactiva para licencias ya concedidas</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-15/vivienda-protegida-ley-comunidad-de-madrid-retroactividad_4372997/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-15/vivienda-protegida-ley-comunidad-de-madrid-retroactividad_4372997/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kindelán (AEB): "El mercado hipotecario funciona bien y no necesita medidas adicionales"</title>
@@ -100,10 +106,10 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Velzia propone darse un año para vender activos y evitar el concurso o las rebajas a derribo</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4370644/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-11/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4370644/</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Revés del Supremo a Florentino y Almeida: obliga a aclarar si el Bernabéu tiene licencia para dar conciertos</title>
+      <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-06-10/reves-supremo-real-madrid-almeida-conciertos_4370605/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-06-10/reves-supremo-real-madrid-almeida-conciertos_4370605/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Segura, Mota, Banderas y Luis Álvarez resucitarán el megaproyecto cultural de Alcorcón</title>
@@ -118,6 +124,12 @@
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>HYI (Velzia) anuncia el preconcurso a sus inversores por sus problemas de liquidez</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-06-10/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4369723/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-10/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4369723/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>"Lo hemos analizado con varios bufetes y el tope de rentas no aplica en la obra nueva"</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-10/entrevista-ceo-patrizia-susana-cabrera-cbtrntrv_4370065/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-10/entrevista-ceo-patrizia-susana-cabrera-cbtrntrv_4370065/</guid>
@@ -127,12 +139,6 @@
       <title>La venta de la socimi de pisos de alquiler de Cerberus agoniza por las bajas ofertas</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-10/cerberus-suspende-venta-macc-socimi-alquiler_4369573/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-10/cerberus-suspende-venta-macc-socimi-alquiler_4369573/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HYI (Velzia) anuncia el preconcurso a sus inversores por sus problemas de liquidez</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-06-10/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4369723/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-06-10/velzia-house-flipping-despido-colectivo-bde-chany-chapnik-ceo-inversores-demanda-preconcurso-acreedores_4369723/</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -160,15 +166,15 @@
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>En cinco días estalló todo: crónica del divorcio entre Moeve  (Cepsa) y Montoro (Monthisa)</title>
-      <link>https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-05/cronica-fracaso-mudanza-moeve-monthisa-pontegadea_4367615/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-05/cronica-fracaso-mudanza-moeve-monthisa-pontegadea_4367615/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Diaphanum RE compra a Colonial un edificio de pisos de 'alto standing' en Boadilla para venderlos</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-05/diaphanum-re-colonial-boadilla_4367347/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-05/diaphanum-re-colonial-boadilla_4367347/</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En cinco días estalló todo: crónica del divorcio entre Moeve  (Cepsa) y Montoro (Monthisa)</title>
+      <link>https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-05/cronica-fracaso-mudanza-moeve-monthisa-pontegadea_4367615/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-05/cronica-fracaso-mudanza-moeve-monthisa-pontegadea_4367615/</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -202,15 +208,15 @@
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Las cláusulas 'antipase' llegan al lujo: no se puede vender antes de escriturar</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Lone Star toca retirada y pone a la venta cerca de mil millones en activos de Coral Homes</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-06-03/lone-star-vende-coral-homes-caixabank_4365640/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-06-03/lone-star-vende-coral-homes-caixabank_4365640/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las cláusulas 'antipase' llegan al lujo: no se puede vender antes de escriturar</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/casas-lujo-clausulas-antipase-especulacion-promotores-arras-contrato-cesion-compraventa_4337220/</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -236,12 +242,6 @@
       <link>https://www.elconfidencial.com/inmobiliario/hoteles/2026-06-01/hoteles-lujos-azora-venta-500-millones_4364279/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/hoteles/2026-06-01/hoteles-lujos-azora-venta-500-millones_4364279/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Olivo da tres meses para cerrar la compra del edificio de Telefónica o se levanta de la mesa</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-05-29/intrahistoria-tomas-olivo-sede-telefonica_4363387/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-05-29/intrahistoria-tomas-olivo-sede-telefonica_4363387/</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
