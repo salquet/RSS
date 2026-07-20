@@ -5,8 +5,15 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Sun, 19 Jul 2026 09:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:17:33 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un bisnieto de Franco esquiva la debacle económica de Velzia</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-07-20/velzia-house-flipping-plan-de-reestructuracion-altercop-francisco-franco-suelves_4386092/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-07-20/velzia-house-flipping-plan-de-reestructuracion-altercop-francisco-franco-suelves_4386092/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Altercop 24 SL tiene una hipoteca de 3,5 millones de euros con HYI sobre uno de sus activos más relevantes, Joselito 23, que se firmó el pasado 22 de abril de 2026</description>
+    </item>
     <item>
       <title>Jamsa y Ceca Magán sientan las bases para comprar casas con criptomonedas</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-07-17/criptomonedas-jamsa-ceca-magan-vivienda-mercado-residencial-garaje_4389883/</link>
@@ -43,13 +50,6 @@
       <description>La hotelera española pisa el acelerador en su plan de convertirse en la gran plataforma del sur de Europa, una estrategia que está desarrollando de la mano del fondo King Street</description>
     </item>
     <item>
-      <title>El 'puente' de lujo Madrid-Miami se invierte: los ricos españoles, tras la estela de Amancio Ortega</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-15/casas-lujo-miami-madrid-barrio-salamanca-chamberi-empresarios-espanoles_4389310/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-15/casas-lujo-miami-madrid-barrio-salamanca-chamberi-empresarios-espanoles_4389310/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>La inseguridad jurídica, la búsqueda de rentas en dólares o el auge de los proyectos branded de superlujo han provocado que el capital español haya comenzado a mirar y a refugiarse en los rascacielos de Florida</description>
-    </item>
-    <item>
       <title>El visionario de las residencias de estudiantes prepara un gigante con 20.000 habitaciones</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-15/inversion-inmobiliaria-residencias-estudiantes-juan-de-la-pena_4389940/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-15/inversion-inmobiliaria-residencias-estudiantes-juan-de-la-pena_4389940/</guid>
@@ -57,11 +57,17 @@
       <description>Primero creó Student Property Socimi y se la vendió a Xior. Después, montó el porfolio de Bravo que acaba de adquirir Nuveen por 330 M. Ahora, prepara una plataforma europea con 20.000 habitaciones</description>
     </item>
     <item>
+      <title>El 'puente' de lujo Madrid-Miami se invierte: los ricos españoles, tras la estela de Amancio Ortega</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-15/casas-lujo-miami-madrid-barrio-salamanca-chamberi-empresarios-espanoles_4389310/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-15/casas-lujo-miami-madrid-barrio-salamanca-chamberi-empresarios-espanoles_4389310/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>La inseguridad jurídica, la búsqueda de rentas en dólares o el auge de los proyectos branded de superlujo han provocado que el capital español haya comenzado a mirar y a refugiarse en los rascacielos de Florida</description>
+    </item>
+    <item>
       <title>La compraventa de viviendas enlaza cinco meses a la baja y acentúa su caída al 7,3%</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-07-14/compraventa-de-viviendas-enlaza-cinco-meses-baja_4389558/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-07-14/compraventa-de-viviendas-enlaza-cinco-meses-baja_4389558/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Las transacciones de vivienda acumulan un descenso del 3,4% en lo que va de año, en un contexto marcado por la falta de viviendas disponibles para atender a una demanda creciente que presiona al alza los precios</description>
     </item>
     <item>
       <title>Un juez condena a Phalsbourg por el impago de un millón de euros en facturas a un acreedor</title>
@@ -88,21 +94,21 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Madrid y Barcelona asaltan el 'Top 5' europeo de la inversión inmobiliaria internacional</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-07-12/inversion-inmobiliaria-houlihan-lokey-oficinas-real-estate-logistica_4387900/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-07-12/inversion-inmobiliaria-houlihan-lokey-oficinas-real-estate-logistica_4387900/</guid>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Estos "locos del agua" están logrando que el real estate ahorre miles de m3 de agua al año</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-07-12/ahorro-agua-calcat-hoteles-sector-inmobiliario-rentabilidad-ahorro-energetico-sostenibilidad_4381375/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-07-12/ahorro-agua-calcat-hoteles-sector-inmobiliario-rentabilidad-ahorro-energetico-sostenibilidad_4381375/</guid>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Terremoto en Prisa: deja la histórica sede de 'El País' y se muda al cuartel general de Vodafone</title>
-      <link>https://www.elconfidencial.com/inmobiliario/oficinas/2026-07-10/prisa-cambio-sede-el-pais-vodafone_4387340/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/oficinas/2026-07-10/prisa-cambio-sede-el-pais-vodafone_4387340/</guid>
+      <title>Madrid y Barcelona asaltan el 'Top 5' europeo de la inversión inmobiliaria internacional</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-07-12/inversion-inmobiliaria-houlihan-lokey-oficinas-real-estate-logistica_4387900/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-07-12/inversion-inmobiliaria-houlihan-lokey-oficinas-real-estate-logistica_4387900/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACR y Casais se unen para impulsar la industrialización en madera y hormigón</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-07-10/construccion-industrializada-acr-grupo-cascais-madera-hormigon_4382324/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-07-10/construccion-industrializada-acr-grupo-cascais-madera-hormigon_4382324/</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -118,9 +124,9 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Póker de lujo en María de Molina, la calle que reta los precios del barrio de Salamanca</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-08/casas-lujo-maria-molina-barrio-salamanca-viso-chamberi-chamartin_4383756/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-08/casas-lujo-maria-molina-barrio-salamanca-viso-chamberi-chamartin_4383756/</guid>
+      <title>Limehome acelera en Europa (y España): sumará 1.000 apartamentos turísticos más en 2026</title>
+      <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-08/apartamentos-turisticos-madrid-limehome-hoteles_4386037/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-08/apartamentos-turisticos-madrid-limehome-hoteles_4386037/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -130,15 +136,15 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Limehome acelera en Europa (y España): sumará 1.000 apartamentos turísticos más en 2026</title>
-      <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-08/apartamentos-turisticos-madrid-limehome-hoteles_4386037/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-08/apartamentos-turisticos-madrid-limehome-hoteles_4386037/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>JLL descarta fusiones y fía su crecimiento a la inteligencia artificial: "No es tiempo de mudanza"</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-08/enrique-losantos-jll-ia-innovacion_4386189/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-07-08/enrique-losantos-jll-ia-innovacion_4386189/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Póker de lujo en María de Molina, la calle que reta los precios del barrio de Salamanca</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-08/casas-lujo-maria-molina-barrio-salamanca-viso-chamberi-chamartin_4383756/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-08/casas-lujo-maria-molina-barrio-salamanca-viso-chamberi-chamartin_4383756/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -172,15 +178,15 @@
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Promora desafía el modelo tradicional de expansión con Impulsa, sin oficinas ni franquicias</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-03/casas-lujo-promora-impulsa-oficinas-mercado-residencial_4379352/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-03/casas-lujo-promora-impulsa-oficinas-mercado-residencial_4379352/</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La misión imposible de comprar un edificio en Madrid: entre anuncios fantasma y precios irreales</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-03/inmobiliario-compra-edificio-madrid-ofertas-venta-precios-irreales_4381805/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-03/inmobiliario-compra-edificio-madrid-ofertas-venta-precios-irreales_4381805/</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promora desafía el modelo tradicional de expansión con Impulsa, sin oficinas ni franquicias</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-07-03/casas-lujo-promora-impulsa-oficinas-mercado-residencial_4379352/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-07-03/casas-lujo-promora-impulsa-oficinas-mercado-residencial_4379352/</guid>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -235,12 +241,6 @@
       <title>El Supremo entierra definitivamente los parkings del Bernabéu: desestima el recurso del Madrid</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-06-29/supremo-entierra-parkings-real-madrid_4380599/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-06-29/supremo-entierra-parkings-real-madrid_4380599/</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Gobierno aprobará en un mes la prórroga de alquiler y bonificaciones a caseros que bajen precios</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-06-29/real-decreto-prorroga-alquiler-bonificacion-caseros_4380356/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-06-29/real-decreto-prorroga-alquiler-bonificacion-caseros_4380356/</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
