@@ -5,553 +5,517 @@
     <link>https://www.larepublica.co/</link>
     <description>Noticias económicas y financieras de Colombia</description>
     <language>es</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:04:13 +0000</lastBuildDate>
     <atom:link href="https://www.larepublica.co/" rel="self" type="application/rss+xml" />
     <item>
-      <title>Con un brent a US$100 el barril, la Nación recibiría ingresos de $8,44 billones</title>
+      <title>“CAF hará la apuesta más ambiciosa por Colombia durante el periodo 2026-2030"</title>
+      <link>https://www.larepublica.co/economia/caf-hara-la-apuesta-mas-ambiciosa-por-colombia-durante-el-periodo-2026-2030-dijo-sergio-diaz-granados-presidente-del-caf-4442371</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/caf-hara-la-apuesta-mas-ambiciosa-por-colombia-durante-el-periodo-2026-2030-dijo-sergio-diaz-granados-presidente-del-caf-4442371</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flores y dulces, los productos que más sentirán el arancel de 12,5% de Donald Trump</title>
+      <link>https://www.larepublica.co/economia/flores-y-dulces-los-productos-que-mas-sentiran-el-arancel-de-12-5-de-trump-4442364</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/flores-y-dulces-los-productos-que-mas-sentiran-el-arancel-de-12-5-de-trump-4442364</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>El proyecto intermodal que busca conectar a Tumaco con Belém do Pará en Brasil</title>
+      <link>https://www.larepublica.co/economia/el-proyecto-intermodal-que-busca-conectar-a-tumaco-con-belem-do-para-en-brasil-4443285</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/el-proyecto-intermodal-que-busca-conectar-a-tumaco-con-belem-do-para-en-brasil-4443285</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Hay que lidiar con el cambio sin ser la víctima, como sucede en la nueva película de ‘La Odisea’”</title>
+      <link>https://www.larepublica.co/empresas/james-keyes-ex-ceo-de-blockbuster-y-7-eleven-4442570</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/james-keyes-ex-ceo-de-blockbuster-y-7-eleven-4442570</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las compras en dólares pueden ser hasta 14,3% más baratas que en el inicio de este curso</title>
+      <link>https://www.larepublica.co/finanzas/las-compras-en-dolares-son-hasta-14-3-mas-baratas-que-en-enero-4443201</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/las-compras-en-dolares-son-hasta-14-3-mas-baratas-que-en-enero-4443201</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Presentaremos nuestra reforma tributaria en septiembre para poder crecer”</title>
+      <link>https://www.larepublica.co/economia/entrevista-con-miguel-gomez-ministro-de-hacienda-designado-4443026</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/entrevista-con-miguel-gomez-ministro-de-hacienda-designado-4443026</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Hogares con mínimo dos salarios pueden aspirar a financiar su casa"</title>
+      <link>https://www.larepublica.co/finanzas/luis-eduardo-cuellar-presidente-de-credifamilia-hablo-sobre-la-finalizacion-de-mi-casa-ya-en-inside-lr-4441300</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/luis-eduardo-cuellar-presidente-de-credifamilia-hablo-sobre-la-finalizacion-de-mi-casa-ya-en-inside-lr-4441300</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los patrocinadores que más facturan en la Liga BetPlay durante este semestre</title>
+      <link>https://www.larepublica.co/empresas/los-patrocinadores-que-mas-facturan-en-la-liga-betplay-durante-este-semestre-4443333</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/los-patrocinadores-que-mas-facturan-en-la-liga-betplay-durante-este-semestre-4443333</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Miami desplaza a Nueva York en la carrera por las mansiones de lujo dentro de Norteamerica</title>
+      <link>https://www.larepublica.co/globoeconomia/miami-desplaza-a-nueva-york-en-la-carrera-por-las-mansiones-de-lujo-4443242</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/miami-desplaza-a-nueva-york-en-la-carrera-por-las-mansiones-de-lujo-4443242</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conozca los países con los ingresos más altos y bajos dentro de toda América Latina</title>
+      <link>https://www.larepublica.co/globoeconomia/conozca-los-paises-con-los-ingresos-mas-altos-y-bajos-en-latinoamerica-4443194</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/conozca-los-paises-con-los-ingresos-mas-altos-y-bajos-en-latinoamerica-4443194</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>De la Espriella anuncia a Jorge Mario Velásquez como miembro de Junta Directiva de Ecopetrol</title>
+      <link>https://www.larepublica.co/economia/de-la-espriella-anuncio-a-jorge-mario-velasquez-como-miembro-de-junta-de-ecopetrol-4442805</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/de-la-espriella-anuncio-a-jorge-mario-velasquez-como-miembro-de-junta-de-ecopetrol-4442805</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>El peso colombiano es la moneda emergente más revaluada en el último mes</title>
+      <link>https://www.larepublica.co/finanzas/moneda-local-es-la-emergente-mas-revaluada-en-el-ultimo-mes-frente-al-dolar-4442676</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/moneda-local-es-la-emergente-mas-revaluada-en-el-ultimo-mes-frente-al-dolar-4442676</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restrepo dijo que Ecopetrol debe avanzar en la reestructuración de gobierno</title>
+      <link>https://www.larepublica.co/economia/restrepo-dijo-que-ecopetrol-debe-avanzar-en-la-reestructuracion-corporativa-y-de-gobierno-4443010</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/restrepo-dijo-que-ecopetrol-debe-avanzar-en-la-reestructuracion-corporativa-y-de-gobierno-4443010</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cerca de 9.000 personas se pasaron de Colpensiones a los fondos privados</title>
+      <link>https://www.larepublica.co/finanzas/cerca-de-9-000-personas-se-pasaron-de-colpensiones-a-los-fondos-privados-4442714</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/cerca-de-9-000-personas-se-pasaron-de-colpensiones-a-los-fondos-privados-4442714</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gobierno declara desastre nacional ante inminencia de la llegada del fenómeno del Niño</title>
+      <link>https://www.larepublica.co/economia/gobierno-declara-desastre-nacional-ante-inminencia-de-la-llegada-del-nino-4442735</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/gobierno-declara-desastre-nacional-ante-inminencia-de-la-llegada-del-nino-4442735</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Con brent encima de US$100, la Nación recibiría ingresos de $8,44 billones</title>
       <link>https://www.larepublica.co/economia/con-un-brent-a-us-100-el-barril-la-nacion-recibiria-ingresos-de-8-44-billones-4442145</link>
       <guid isPermaLink="true">https://www.larepublica.co/economia/con-un-brent-a-us-100-el-barril-la-nacion-recibiria-ingresos-de-8-44-billones-4442145</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Movimientos en Ecopetrol tras el anuncio de la fecha de fin de la gestión de Ricardo Roa</title>
-      <link>https://www.larepublica.co/economia/ecopetrol-roa-estara-el-frente-de-ecopetrol-hasta-el-30-de-julio-4442381</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/ecopetrol-roa-estara-el-frente-de-ecopetrol-hasta-el-30-de-julio-4442381</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Adriana Jiménez será directora ejecutiva de la Creg para el periodo entre 2026 y 2027</title>
+      <link>https://www.larepublica.co/economia/adriana-jimenez-sera-directora-ejecutiva-de-la-creg-en-el-periodo-2026-2027-4442639</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/adriana-jimenez-sera-directora-ejecutiva-de-la-creg-en-el-periodo-2026-2027-4442639</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>¿Quiénes son los mayores protagonistas del negocio del fútbol colombiano?</title>
+      <title>Transporte</title>
+      <link>https://www.larepublica.co/empresas/movilizacion-de-pasajeros-del-aeropuerto-internacional-rafael-nunez-en-junio-2026-4443234</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/movilizacion-de-pasajeros-del-aeropuerto-internacional-rafael-nunez-en-junio-2026-4443234</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antioquia lideró las exportaciones del sistema moda hasta mayo, con US$141 millones</title>
+      <link>https://www.larepublica.co/economia/antioquia-lidero-las-exportaciones-del-sistema-moda-hasta-mayo-con-us-141-millones-4443347</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/antioquia-lidero-las-exportaciones-del-sistema-moda-hasta-mayo-con-us-141-millones-4443347</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tecnología</title>
+      <link>https://www.larepublica.co/economia/de-cada-10-empresas-ocho-se-vuelven-victimas-recurrentes-de-ransomware-4443171</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/de-cada-10-empresas-ocho-se-vuelven-victimas-recurrentes-de-ransomware-4443171</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las remesas superaron el monto de US$6.000 millones en el primer semestre del año</title>
+      <link>https://www.larepublica.co/economia/las-remesas-superaron-el-monto-de-us-6-000-millones-en-el-primer-semestre-del-ano-4443306</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/las-remesas-superaron-el-monto-de-us-6-000-millones-en-el-primer-semestre-del-ano-4443306</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asocapitales advirtió que nuevo arancel pone en riesgo el empleo y la competitividad</title>
+      <link>https://www.larepublica.co/economia/asocapitales-advirtio-que-nuevo-arancel-pone-en-riesgo-el-empleo-y-la-competitividad-4443143</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/asocapitales-advirtio-que-nuevo-arancel-pone-en-riesgo-el-empleo-y-la-competitividad-4443143</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Presidente del CAF confirmó una financiación de US$9.000 millones</title>
+      <link>https://www.larepublica.co/economia/presidente-del-caf-confirmo-financiacion-de-us-9-000-millones-para-colombia-4442926</link>
+      <guid isPermaLink="true">https://www.larepublica.co/economia/presidente-del-caf-confirmo-financiacion-de-us-9-000-millones-para-colombia-4442926</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Quiénes son los mayores protagonistas del negocio del fútbol profesional colombiano?</title>
       <link>https://www.larepublica.co/empresas/quien-es-quien-en-el-negocio-del-futbol-colombiano-4441624</link>
       <guid isPermaLink="true">https://www.larepublica.co/empresas/quien-es-quien-en-el-negocio-del-futbol-colombiano-4441624</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>La propuesta del G8 para cambiar el reparto de los derechos de TV del FPC</title>
-      <link>https://www.larepublica.co/empresas/conozca-la-propuesta-del-g8-para-cambiar-el-reparto-de-los-derechos-de-tv-del-futbol-colombiano-4442232</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/conozca-la-propuesta-del-g8-para-cambiar-el-reparto-de-los-derechos-de-tv-del-futbol-colombiano-4442232</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“En Colombia hay 300 carros eléctricos por cada cargador público dentro del mercado”</title>
-      <link>https://www.larepublica.co/empresas/entrevista-con-mario-correa-director-de-marca-peugeot-sobre-la-electrificacion-en-colombia-4441628</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/entrevista-con-mario-correa-director-de-marca-peugeot-sobre-la-electrificacion-en-colombia-4441628</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>La revaluación del peso está poniendo presión sobre el sector productivo local</title>
-      <link>https://www.larepublica.co/finanzas/la-revaluacion-del-peso-colombiano-esta-poniendo-presion-sobre-el-sector-productivo-4442252</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/la-revaluacion-del-peso-colombiano-esta-poniendo-presion-sobre-el-sector-productivo-4442252</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Contenido patrocinado</title>
-      <link>https://www.larepublica.co/economia/cali-se-consolida-como-la-cuarta-ciudad-mejor-administrada-del-pais-4441957</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/cali-se-consolida-como-la-cuarta-ciudad-mejor-administrada-del-pais-4441957</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los ‘inversionistas golondrina’ están provocando una sobreproducción de cerdo</title>
-      <link>https://www.larepublica.co/economia/los-inversionistas-golondrina-provocan-una-sobreproduccion-de-carne-de-cerdo-4442127</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/los-inversionistas-golondrina-provocan-una-sobreproduccion-de-carne-de-cerdo-4442127</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>El “índice del miedo” de Wall Street salta a 17%, alcanzando la cifra de los 20,31 puntos</title>
-      <link>https://www.larepublica.co/globoeconomia/el-indice-del-miedo-de-wall-street-salta-a-17-alcanzando-los-20-31-puntos-4442194</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/el-indice-del-miedo-de-wall-street-salta-a-17-alcanzando-los-20-31-puntos-4442194</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los dólares digitales y la caída de las divisas le están pegando a las casas de cambio del país</title>
+      <title>Los dólares digitales y la caída de la divisa le están pegando duro a las casas de cambio</title>
       <link>https://www.larepublica.co/finanzas/los-dolares-digitales-y-la-caida-de-la-divisa-le-pegan-a-las-casas-de-cambio-4442289</link>
       <guid isPermaLink="true">https://www.larepublica.co/finanzas/los-dolares-digitales-y-la-caida-de-la-divisa-le-pegan-a-las-casas-de-cambio-4442289</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Daños por terremotos en Venezuela rozan hasta los US$20.000 millones</title>
-      <link>https://www.larepublica.co/globoeconomia/danos-por-terremotos-en-venezuela-rozan-hasta-los-us-20-000-millones-4442238</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/danos-por-terremotos-en-venezuela-rozan-hasta-los-us-20-000-millones-4442238</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Moody´s afirmó calificación crediticia internacional de largo plazo de GEB en "Baa3/estable"</title>
+      <link>https://www.larepublica.co/empresas/moodys-afirmo-calificacion-crediticia-internacional-de-largo-plazo-de-geb-en-baa3-estable-4443435</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/moodys-afirmo-calificacion-crediticia-internacional-de-largo-plazo-de-geb-en-baa3-estable-4443435</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>El mal clima llevaría al sector agropecuario a su peor caída en las últimas dos décadas</title>
-      <link>https://www.larepublica.co/economia/el-mal-clima-llevaria-al-sector-agropecuario-a-su-peor-caida-en-los-ultimos-20-anos-4442113</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/el-mal-clima-llevaria-al-sector-agropecuario-a-su-peor-caida-en-los-ultimos-20-anos-4442113</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Kérastase está apostando por el negocio del lujo experiencial para el mercado nacional de estética</title>
+      <link>https://www.larepublica.co/empresas/kerastase-esta-apostando-por-el-negocio-del-lujo-experiencial-en-colombia-4443440</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/kerastase-esta-apostando-por-el-negocio-del-lujo-experiencial-en-colombia-4443440</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>La Unión Europea está preparando el primer rediseño de sus billetes desde el 2002</title>
-      <link>https://www.larepublica.co/globoeconomia/uropa-prepara-el-primer-rediseno-de-sus-billetes-de-euro-desde-el-2002-4442275</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/uropa-prepara-el-primer-rediseno-de-sus-billetes-de-euro-desde-el-2002-4442275</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>La Copa del Mundo aumentó las ventas de hasta 36% de los comerciantes, según Fenalco</title>
+      <link>https://www.larepublica.co/empresas/la-copa-del-mundo-aumento-las-ventas-de-hasta-36-de-los-comerciantes-segun-fenalco-4443104</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/la-copa-del-mundo-aumento-las-ventas-de-hasta-36-de-los-comerciantes-segun-fenalco-4443104</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Así están las tasas de interés en el mercado para financiar la adquisición de un carro</title>
-      <link>https://www.larepublica.co/finanzas/asi-estan-las-tasas-de-interes-en-el-mercado-para-financiar-la-adquisicion-de-un-carro-4442098</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/asi-estan-las-tasas-de-interes-en-el-mercado-para-financiar-la-adquisicion-de-un-carro-4442098</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Naturgas rechazó afirmaciones que se hicieron sobre aumento de los precios del gas natural</title>
+      <link>https://www.larepublica.co/empresas/aumento-de-los-precios-del-gas-natural-4442953</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/aumento-de-los-precios-del-gas-natural-4442953</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Empresas de la región latinoamérica disparan sus dividendos en el mercado</title>
-      <link>https://www.larepublica.co/globoeconomia/empresas-de-la-region-latinoamerica-disparan-sus-dividendos-en-el-mercado-4442169</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/empresas-de-la-region-latinoamerica-disparan-sus-dividendos-en-el-mercado-4442169</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>NCS Brands, con marcas como Quest y QST, abrirá 10 nuevas tiendas en el mercado local</title>
+      <link>https://www.larepublica.co/empresas/apertura-de-tiendas-de-quest-y-qst-4442767</link>
+      <guid isPermaLink="true">https://www.larepublica.co/empresas/apertura-de-tiendas-de-quest-y-qst-4442767</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Contenido patrocinado</title>
-      <link>https://www.larepublica.co/empresas/sidoc-y-la-formula-de-fabricar-acero-con-impacto-humano-y-circular-4441404</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/sidoc-y-la-formula-de-fabricar-acero-con-impacto-humano-y-circular-4441404</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Las 10 mejores universidades de América Latina, Brasil, Chile y México lideran el ranking</title>
+      <link>https://www.larepublica.co/globoeconomia/estas-son-las-10-mejores-universidades-de-america-latina-brasil-chile-y-mexico-lideran-4443391</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/estas-son-las-10-mejores-universidades-de-america-latina-brasil-chile-y-mexico-lideran-4443391</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Diésel, sobregeneración y ahorro, fórmula de EPM para evitar un posible apagón</title>
-      <link>https://www.larepublica.co/empresas/diesel-sobregeneracion-y-ahorro-formula-de-epm-para-evitar-un-apagon-4442415</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/diesel-sobregeneracion-y-ahorro-formula-de-epm-para-evitar-un-apagon-4442415</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Trump afirma que el ejército está "listo para la acción" contra Irán mientras se prolongan las conversaciones</title>
+      <link>https://www.larepublica.co/globoeconomia/trump-afirma-que-el-ejercito-esta-listo-para-la-accion-contra-iran-mientras-se-prolongan-las-conversaciones-4443225</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/trump-afirma-que-el-ejercito-esta-listo-para-la-accion-contra-iran-mientras-se-prolongan-las-conversaciones-4443225</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Invías adjudica $8,7 billones para obras de infraestructura en 14 departamentos del país</title>
-      <link>https://www.larepublica.co/economia/invias-adjudica-8-7-billones-para-obras-de-infraestructura-en-14-departamentos-4442359</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/invias-adjudica-8-7-billones-para-obras-de-infraestructura-en-14-departamentos-4442359</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Waymo terminará su alianza con Uber e intensificará competencia en robotaxis</title>
+      <link>https://www.larepublica.co/globoeconomia/waymo-terminara-su-alianza-con-uber-e-intensificara-competencia-en-robotaxis-4443264</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/waymo-terminara-su-alianza-con-uber-e-intensificara-competencia-en-robotaxis-4443264</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Didier Blanco será el director de la Unidad Nacional de Protección en el Gobierno</title>
-      <link>https://www.larepublica.co/economia/didier-blanco-sera-el-director-de-la-unidad-nacional-de-proteccion-en-el-gobierno-entrante-4442212</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/didier-blanco-sera-el-director-de-la-unidad-nacional-de-proteccion-en-el-gobierno-entrante-4442212</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Paramount suspende acuerdo de adquisición con Warner Bros. mientras juez se pronuncia</title>
+      <link>https://www.larepublica.co/globoeconomia/paramount-suspende-acuerdo-con-warner-bros-mientras-juez-se-pronuncia-4443115</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/paramount-suspende-acuerdo-con-warner-bros-mientras-juez-se-pronuncia-4443115</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Construcción</title>
-      <link>https://www.larepublica.co/economia/ruth-maritza-quevedo-fique-asumio-como-ministra-encargada-de-vivienda-4442080</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/ruth-maritza-quevedo-fique-asumio-como-ministra-encargada-de-vivienda-4442080</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Petróleo caro favorecería a Colombia y Brasil, pero castigaría a Centroamérica y el Caribe</title>
+      <link>https://www.larepublica.co/globoeconomia/petroleo-caro-favoreceria-a-colombia-y-brasil-pero-castigaria-a-centroamerica-y-el-caribe-4443014</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/petroleo-caro-favoreceria-a-colombia-y-brasil-pero-castigaria-a-centroamerica-y-el-caribe-4443014</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Estados Unidos aumentó a 12,5% aranceles para productos colombianos</title>
-      <link>https://www.larepublica.co/economia/estados-unidos-aumento-a-12-5-aranceles-para-productos-colombianos-4442030</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/estados-unidos-aumento-a-12-5-aranceles-para-productos-colombianos-4442030</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fracking: lo que hereda y le espera al gobierno entrante de Abelardo De La Espriella</title>
-      <link>https://www.larepublica.co/economia/fracking-lo-que-hereda-y-le-espera-al-gobierno-de-abelardo-de-la-espriella-4441514</link>
-      <guid isPermaLink="true">https://www.larepublica.co/economia/fracking-lo-que-hereda-y-le-espera-al-gobierno-de-abelardo-de-la-espriella-4441514</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>¿Está dada la tormenta perfecta para que el precio del dólar caiga de los $2.900?</title>
-      <link>https://www.larepublica.co/finanzas/esta-dada-la-tormenta-perfecta-para-que-el-precio-del-dolar-caiga-al-umbral-de-los-2-900-4440623</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/esta-dada-la-tormenta-perfecta-para-que-el-precio-del-dolar-caiga-al-umbral-de-los-2-900-4440623</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>El caso empresarial detrás del retiro temporal de Hidralyte por orden de la SIC</title>
-      <link>https://www.larepublica.co/empresas/el-caso-empresarial-detras-del-retiro-temporal-de-hidralyte-del-mercado-por-orden-de-la-sic-4441420</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/el-caso-empresarial-detras-del-retiro-temporal-de-hidralyte-del-mercado-por-orden-de-la-sic-4441420</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chocolate Corona lidera la categoría con chocolate 100% real y colombiano</title>
-      <link>https://www.larepublica.co/empresas/chocolate-corona-lidera-la-categoria-con-chocolate-100-real-y-colombiano-4441528</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/chocolate-corona-lidera-la-categoria-con-chocolate-100-real-y-colombiano-4441528</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>TransMilenio incorporará 269 nuevos buses que son 100% eléctricos de la marca china BYD</title>
-      <link>https://www.larepublica.co/empresas/buses-electricos-de-transmilenio-4442137</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/buses-electricos-de-transmilenio-4442137</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rappi reveló que superó ocho millones de órdenes en restaurantes durante el Mundial</title>
-      <link>https://www.larepublica.co/empresas/rappi-revelo-que-supero-ocho-millones-de-ordenes-en-restaurantes-durante-el-mundial-4442321</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/rappi-revelo-que-supero-ocho-millones-de-ordenes-en-restaurantes-durante-el-mundial-4442321</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arkitect, marca exclusiva de los almacenes del Grupo Éxito, tendrá ahora identidad propia</title>
-      <link>https://www.larepublica.co/empresas/separacion-de-arkitect-del-grupo-exito-4442065</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/separacion-de-arkitect-del-grupo-exito-4442065</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“El mundo seguirá necesitando carbón para garantizar seguridad energética”</title>
-      <link>https://www.larepublica.co/empresas/entrevista-con-edgar-alfonso-nuevo-presidente-de-cerrejon-4440621</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/entrevista-con-edgar-alfonso-nuevo-presidente-de-cerrejon-4440621</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carolina Durán, CEO de Building Markets sonará la campana en Nasdaq por los emprendedores</title>
-      <link>https://www.larepublica.co/empresas/ceo-de-building-markets-sonara-la-campana-en-nasdaq-por-los-emprendedores-4441604</link>
-      <guid isPermaLink="true">https://www.larepublica.co/empresas/ceo-de-building-markets-sonara-la-campana-en-nasdaq-por-los-emprendedores-4441604</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brasil aseguró que los aranceles de EE.UU. sobre el trabajo forzoso son injustificados</title>
-      <link>https://www.larepublica.co/globoeconomia/brasil-dice-que-los-aranceles-de-ee-uu-sobre-trabajo-forzoso-son-injustificados-4442090</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/brasil-dice-que-los-aranceles-de-ee-uu-sobre-trabajo-forzoso-son-injustificados-4442090</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Juez suspende acuerdo entre Paramount y Warner Bros hasta el 17 de agosto</title>
-      <link>https://www.larepublica.co/globoeconomia/juez-suspende-acuerdo-entre-paramount-y-warner-bros-hasta-el-17-de-agosto-4442067</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/juez-suspende-acuerdo-entre-paramount-y-warner-bros-hasta-el-17-de-agosto-4442067</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump impondrá aranceles de trabajo forzado el viernes, tras expirar los de 10%</title>
-      <link>https://www.larepublica.co/globoeconomia/trump-impondra-aranceles-de-trabajo-forzado-el-viernes-tras-expirar-los-de-10-4442049</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/trump-impondra-aranceles-de-trabajo-forzado-el-viernes-tras-expirar-los-de-10-4442049</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Las previsiones de ventas y ganancias de Intel superan las expectativas y eleva inversión por la IA</title>
-      <link>https://www.larepublica.co/globoeconomia/las-previsiones-de-ventas-y-ganancias-de-intel-superan-las-expectativas-y-eleva-inversion-por-la-ia-4442023</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/las-previsiones-de-ventas-y-ganancias-de-intel-superan-las-expectativas-y-eleva-inversion-por-la-ia-4442023</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon es investigada por un comité del Senado por la influencia china</title>
-      <link>https://www.larepublica.co/globoeconomia/amazon-es-investigada-por-un-comite-del-senado-por-la-influencia-china-4442001</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/amazon-es-investigada-por-un-comite-del-senado-por-la-influencia-china-4442001</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>China añade 14 entidades de la UE a la lista de control de exportaciones por las sanciones a Rusia</title>
+      <link>https://www.larepublica.co/globoeconomia/china-anade-14-entidades-de-la-ue-a-la-lista-de-control-de-exportaciones-por-las-sanciones-a-rusia-4442514</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/china-anade-14-entidades-de-la-ue-a-la-lista-de-control-de-exportaciones-por-las-sanciones-a-rusia-4442514</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Pekín recaba opiniones para los recortes arancelarios previstos entre China y EE.UU.</title>
       <link>https://www.larepublica.co/globoeconomia/pekin-recaba-opiniones-para-los-recortes-arancelarios-previstos-entre-china-y-ee-uu-4441705</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/pekin-recaba-opiniones-para-los-recortes-arancelarios-previstos-entre-china-y-ee-uu-4441705</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>China amenaza con represalias a Francia por su ley contra la moda fast fashion</title>
       <link>https://www.larepublica.co/globoeconomia/china-amenaza-con-represalias-a-francia-por-su-ley-contra-la-moda-fast-fashion-4440975</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/china-amenaza-con-represalias-a-francia-por-su-ley-contra-la-moda-fast-fashion-4440975</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>El gasto público de China se desploma y cae a su nivel más bajo desde octubre</title>
       <link>https://www.larepublica.co/globoeconomia/china-se-aferra-a-la-austeridad-a-pesar-de-la-mayor-desaceleracion-economica-4440788</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/china-se-aferra-a-la-austeridad-a-pesar-de-la-mayor-desaceleracion-economica-4440788</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>China corre el riesgo de alcanzar 20% de desempleo juvenil si se extiende la crisis laboral</title>
-      <link>https://www.larepublica.co/globoeconomia/china-corre-el-riesgo-de-alcanzar-20-de-desempleo-juvenil-si-se-extiende-la-crisis-laboral-4439827</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/china-corre-el-riesgo-de-alcanzar-20-de-desempleo-juvenil-si-se-extiende-la-crisis-laboral-4439827</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Mulino anuncia cambios en el interés preferencial y analiza medidas fiscales</title>
+      <link>https://www.larepublica.co/globoeconomia/mulino-anuncia-cambios-en-el-interes-preferencial-y-analiza-medidas-fiscales-4442757</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/mulino-anuncia-cambios-en-el-interes-preferencial-y-analiza-medidas-fiscales-4442757</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Panamá registra un alza de 15,6% en pasajeros de cruceros y supera los 460.000 visitantes</title>
       <link>https://www.larepublica.co/globoeconomia/panama-registra-un-alza-de-15-6-en-pasajeros-de-cruceros-y-supera-los-460-000-visitantes-4441902</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/panama-registra-un-alza-de-15-6-en-pasajeros-de-cruceros-y-supera-los-460-000-visitantes-4441902</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Panamá estudia crear la firma minera estatal para reapertura de Cobre Panamá</title>
       <link>https://www.larepublica.co/globoeconomia/panama-estudia-crear-firma-minera-estatal-para-allanar-camino-a-reapertura-cobre-panama-4441017</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/panama-estudia-crear-firma-minera-estatal-para-allanar-camino-a-reapertura-cobre-panama-4441017</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>El comercio mundial sufre nueva prueba por restricciones en el Canal de Panamá</title>
       <link>https://www.larepublica.co/globoeconomia/el-comercio-mundial-sufre-nueva-prueba-por-restricciones-en-el-canal-de-panama-4439902</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/el-comercio-mundial-sufre-nueva-prueba-por-restricciones-en-el-canal-de-panama-4439902</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Autoridad Marítima de Panamá emitió 2.319 licencias de marino en el primer semestre</title>
-      <link>https://www.larepublica.co/globoeconomia/la-autoridad-maritima-de-panama-emitio-2-319-licencias-de-marino-en-el-primer-semestre-4438216</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/la-autoridad-maritima-de-panama-emitio-2-319-licencias-de-marino-en-el-primer-semestre-4438216</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Trump dice que Venezuela no está lista para elecciones, pero que ha avanzado</title>
+      <link>https://www.larepublica.co/globoeconomia/trump-dice-que-venezuela-no-esta-lista-para-elecciones-pero-que-ha-avanzado-4443136</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/trump-dice-que-venezuela-no-esta-lista-para-elecciones-pero-que-ha-avanzado-4443136</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Ejecutivos petroleros se apresuran a completar los contratos en Venezuela</title>
-      <link>https://www.larepublica.co/globoeconomia/ejecutivos-petroleros-se-apresuran-a-completar-la-migracion-de-contratos-en-venezuela-4441779</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/ejecutivos-petroleros-se-apresuran-a-completar-la-migracion-de-contratos-en-venezuela-4441779</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Alex Saab se declara no culpable por lavado de dinero en Estados Unidos</title>
+      <link>https://www.larepublica.co/globoeconomia/alex-saab-se-declara-no-culpable-por-lavado-de-dinero-en-estados-unidos-4443062</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/alex-saab-se-declara-no-culpable-por-lavado-de-dinero-en-estados-unidos-4443062</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Nicolás Maduro comparece ante tribunal en Estados Unidos por caso de narcotráfico</title>
-      <link>https://www.larepublica.co/globoeconomia/nicolas-maduro-comparece-ante-tribunal-en-estados-unidos-por-caso-de-narcotrafico-4440764</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/nicolas-maduro-comparece-ante-tribunal-en-estados-unidos-por-caso-de-narcotrafico-4440764</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Venezuela inicia su retiro definitivo de la Corte Penal Internacional: Canciller</title>
+      <link>https://www.larepublica.co/globoeconomia/venezuela-inicia-su-retiro-definitivo-de-la-corte-penal-internacional-canciller-4443017</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/venezuela-inicia-su-retiro-definitivo-de-la-corte-penal-internacional-canciller-4443017</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Delcy Rodríguez, presidente (e) de Venezuela negocia 30 acuerdos de inversión</title>
-      <link>https://www.larepublica.co/globoeconomia/venezuela-negocia-30-acuerdos-de-inversion-4440453</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/venezuela-negocia-30-acuerdos-de-inversion-4440453</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Trump busca desbloquear millones en activos congelados de Venezuela tras los terremotos</title>
+      <link>https://www.larepublica.co/globoeconomia/trump-busca-desbloquear-los-miles-de-millones-de-dolares-en-activos-congelados-de-venezuela-tras-los-terremotos-4442594</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/trump-busca-desbloquear-los-miles-de-millones-de-dolares-en-activos-congelados-de-venezuela-tras-los-terremotos-4442594</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Venezuela anuncia negociación de 30 acuerdos de inversión para impulsar economía</title>
-      <link>https://www.larepublica.co/globoeconomia/venezuela-anuncia-la-negociacion-de-30-acuerdos-de-inversion-4440271</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/venezuela-anuncia-la-negociacion-de-30-acuerdos-de-inversion-4440271</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>La mitad de los empleados en México trabaja sin un contrato estable</title>
+      <link>https://www.larepublica.co/globoeconomia/la-mitad-de-los-empleados-en-mexico-trabaja-sin-un-contrato-estable-4442713</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/la-mitad-de-los-empleados-en-mexico-trabaja-sin-un-contrato-estable-4442713</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>El dólar débil cambia el panorama de las exportaciones del café y banano en Colombia</title>
       <link>https://www.larepublica.co/globoeconomia/el-dolar-debil-cambia-el-panorama-de-las-exportaciones-del-cafe-y-banano-en-colombia-4441833</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/el-dolar-debil-cambia-el-panorama-de-las-exportaciones-del-cafe-y-banano-en-colombia-4441833</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Inflación en México vuelve a desacelerarse tras decisión del Banco Central de mantener tasas</title>
       <link>https://www.larepublica.co/globoeconomia/inflacion-en-mexico-vuelve-a-desacelerarse-tras-decision-del-banco-central-de-mantener-las-tasas-4441698</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/inflacion-en-mexico-vuelve-a-desacelerarse-tras-decision-del-banco-central-de-mantener-las-tasas-4441698</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Cemex mejoró sus perspectivas para 2026 luego de que su ebitda creciera 24%</title>
       <link>https://www.larepublica.co/globoeconomia/cemex-mejoro-sus-perspectivas-para-2026-luego-de-que-su-ebitda-creciera-24-4441641</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/cemex-mejoro-sus-perspectivas-para-2026-luego-de-que-su-ebitda-creciera-24-4441641</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Eólicos están en la mira del gobierno mexicano para migrar sus permisos de autoabasto</title>
-      <link>https://www.larepublica.co/globoeconomia/eolicos-estan-en-la-mira-del-gobierno-mexicano-para-migrar-sus-permisos-de-autoabasto-4440888</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/eolicos-estan-en-la-mira-del-gobierno-mexicano-para-migrar-sus-permisos-de-autoabasto-4440888</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Ecuador firma TLC con Canadá para exportar 99,6% de productos libres de arancel</title>
+      <link>https://www.larepublica.co/globoeconomia/ecuador-firma-tlc-con-canada-para-exportar-99-6-de-productos-libres-de-arancel-4442833</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/ecuador-firma-tlc-con-canada-para-exportar-99-6-de-productos-libres-de-arancel-4442833</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>EE.UU. fija arancel de 10% para Ecuador tras finalizar la revisión sobre trabajo forzoso</title>
+      <link>https://www.larepublica.co/globoeconomia/ee-uu-fija-arancel-de-10-para-ecuador-tras-revision-sobre-trabajo-forzoso-4442723</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/ee-uu-fija-arancel-de-10-para-ecuador-tras-revision-sobre-trabajo-forzoso-4442723</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Ecuador busca tarifa binacional para intercambio de electricidad con Colombia</title>
       <link>https://www.larepublica.co/globoeconomia/ecuador-busca-tarifa-binacional-para-intercambio-de-electricidad-con-colombia-4442038</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/ecuador-busca-tarifa-binacional-para-intercambio-de-electricidad-con-colombia-4442038</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Ecuador pretende coordinar operaciones militares con el nuevo gobierno de Colombia</title>
       <link>https://www.larepublica.co/globoeconomia/ecuador-pretende-coordinar-operaciones-militares-con-el-nuevo-gobierno-de-colombia-4441036</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/ecuador-pretende-coordinar-operaciones-militares-con-el-nuevo-gobierno-de-colombia-4441036</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Chevron demanda a Ecuador en Estados Unidos por más de US$224 millones</title>
-      <link>https://www.larepublica.co/globoeconomia/chevron-demanda-a-ecuador-en-estados-unidos-por-mas-de-us-224-millones-4440389</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/chevron-demanda-a-ecuador-en-estados-unidos-por-mas-de-us-224-millones-4440389</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plan de seguridad de Noboa mantendría a militares al frente de las cárceles hasta 2027</title>
-      <link>https://www.larepublica.co/globoeconomia/plan-de-seguridad-de-noboa-mantendria-a-militares-al-frente-de-las-carceles-hasta-2027-4438236</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/plan-de-seguridad-de-noboa-mantendria-a-militares-al-frente-de-las-carceles-hasta-2027-4438236</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Cencosud Chile abre establecimientos de Santa Isabel en Calbuco y Ancud</title>
+      <link>https://www.larepublica.co/globoeconomia/cencosud-chile-abre-establecimientos-de-santa-isabel-en-calbuco-y-ancud-4443091</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/cencosud-chile-abre-establecimientos-de-santa-isabel-en-calbuco-y-ancud-4443091</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>MercadoLibre busca operar su farmacia propia en Chile tras lanzamiento en Brasil</title>
       <link>https://www.larepublica.co/globoeconomia/mercadolibre-busca-operar-su-farmacia-propia-en-chile-tras-lanzamiento-en-brasil-4441645</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/mercadolibre-busca-operar-su-farmacia-propia-en-chile-tras-lanzamiento-en-brasil-4441645</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Chile prevé invertir US$100.000 millones en cobre para aprovechar demanda de centros de datos</title>
       <link>https://www.larepublica.co/globoeconomia/chile-preve-invertir-us-100-000-millones-en-cobre-para-aprovechar-demanda-de-centros-de-datos-4440801</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/chile-preve-invertir-us-100-000-millones-en-cobre-para-aprovechar-demanda-de-centros-de-datos-4440801</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Lluvias abastecen embalses por cuatro años en Chile y daños escalan a US$400 millones</title>
       <link>https://www.larepublica.co/globoeconomia/lluvias-abastecen-embalses-por-cuatro-anos-en-chile-y-danos-escalan-a-us-400-millones-4439984</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/lluvias-abastecen-embalses-por-cuatro-anos-en-chile-y-danos-escalan-a-us-400-millones-4439984</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>En Chile el empleo del sector acumulan meses de caídas pese a boom del cobre</title>
-      <link>https://www.larepublica.co/globoeconomia/en-chile-el-empleo-del-sector-acumulan-meses-de-caidas-pese-a-boom-del-cobre-4438075</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/en-chile-el-empleo-del-sector-acumulan-meses-de-caidas-pese-a-boom-del-cobre-4438075</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Miles huyen de los incendios en Francia; se juntan incendios en las afueras de Madrid</title>
+      <link>https://www.larepublica.co/globoeconomia/miles-huyen-de-los-incendios-en-francia-se-juntan-incendios-en-las-afueras-de-madrid-4442941</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/miles-huyen-de-los-incendios-en-francia-se-juntan-incendios-en-las-afueras-de-madrid-4442941</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>España declara el estado de emergencia nacional por incendios cerca de Madrid y en Ávila</title>
+      <link>https://www.larepublica.co/globoeconomia/espana-declara-el-estado-de-emergencia-nacional-por-los-incendios-cerca-de-madrid-y-en-avila-4442509</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/espana-declara-el-estado-de-emergencia-nacional-por-los-incendios-cerca-de-madrid-y-en-avila-4442509</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>La ministra española Yolanda Díaz se presenta como candidata para dirigir la OIT</title>
       <link>https://www.larepublica.co/globoeconomia/la-ministra-espanola-yolanda-diaz-se-presenta-como-candidata-para-dirigir-la-oit-4441766</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/la-ministra-espanola-yolanda-diaz-se-presenta-como-candidata-para-dirigir-la-oit-4441766</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Zapatero defendió el trabajo de sus hijas con y negó que las utilizara como testaferros</title>
       <link>https://www.larepublica.co/globoeconomia/zapatero-defendio-el-trabajo-de-sus-hijas-con-analisis-relevante-y-nego-que-las-utilizara-como-testaferros-4441688</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/zapatero-defendio-el-trabajo-de-sus-hijas-con-analisis-relevante-y-nego-que-las-utilizara-como-testaferros-4441688</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Repsol elevó más de tres veces su beneficio ajustado trimestral y anunció recompra de acciones</title>
-      <link>https://www.larepublica.co/globoeconomia/repsol-elevo-mas-de-tres-veces-su-beneficio-ajustado-trimestral-y-anuncio-una-nueva-recompra-de-acciones-4441634</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/repsol-elevo-mas-de-tres-veces-su-beneficio-ajustado-trimestral-y-anuncio-una-nueva-recompra-de-acciones-4441634</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iberdrola aumenta su beneficio semestral 22% tras inversiones en Reino Unido, EE.UU. y Brasil</title>
-      <link>https://www.larepublica.co/globoeconomia/iberdrola-aumenta-su-beneficio-semestral-22-tras-inversiones-en-reino-unido-ee-uu-y-brasil-4440772</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/iberdrola-aumenta-su-beneficio-semestral-22-tras-inversiones-en-reino-unido-ee-uu-y-brasil-4440772</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Milei pone a prueba su magia de derecha en la inestable campaña de Bolsonaro en Brasil</title>
+      <link>https://www.larepublica.co/globoeconomia/milei-pone-a-prueba-su-magia-de-derecha-en-la-inestable-campana-de-bolsonaro-en-brasil-4442550</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/milei-pone-a-prueba-su-magia-de-derecha-en-la-inestable-campana-de-bolsonaro-en-brasil-4442550</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Carrefour dice no hay negociaciones en curso sobre venta de activos en Polonia y Argentina</title>
       <link>https://www.larepublica.co/globoeconomia/carrefour-dice-no-hay-negociaciones-en-curso-sobre-venta-de-activos-en-polonia-y-argentina-4441848</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/carrefour-dice-no-hay-negociaciones-en-curso-sobre-venta-de-activos-en-polonia-y-argentina-4441848</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>El Papa León XIV confirma que una avanzada del Vaticano llegó a Buenos Aires</title>
       <link>https://www.larepublica.co/globoeconomia/el-papa-leon-xiv-confirma-que-una-avanzada-del-vaticano-llego-a-buenos-aires-4441732</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/el-papa-leon-xiv-confirma-que-una-avanzada-del-vaticano-llego-a-buenos-aires-4441732</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Argentina presenta proyecto de ley para atraer ahorros en dólares no declarados</title>
-      <link>https://www.larepublica.co/globoeconomia/argentina-presenta-proyecto-de-ley-para-atraer-ahorros-en-dolares-no-declarados-4441310</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/argentina-presenta-proyecto-de-ley-para-atraer-ahorros-en-dolares-no-declarados-4441310</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Cancillería peruana reactivará relaciones consulares entre Perú y Venezuela</title>
+      <link>https://www.larepublica.co/globoeconomia/cancilleria-peruana-reactivara-relaciones-consulares-entre-peru-y-venezuela-4443038</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/cancilleria-peruana-reactivara-relaciones-consulares-entre-peru-y-venezuela-4443038</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Alpinestars, marca italiana de equipamiento para motociclistas, abre dos tiendas en Perú</title>
       <link>https://www.larepublica.co/globoeconomia/alpinestars-marca-italiana-de-equipamiento-para-motociclistas-abre-dos-tiendas-en-peru-4441806</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/alpinestars-marca-italiana-de-equipamiento-para-motociclistas-abre-dos-tiendas-en-peru-4441806</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Los pelícanos hambrientos en Perú son un aviso del riesgo económico de El Niño</title>
       <link>https://www.larepublica.co/globoeconomia/los-pelicanos-hambrientos-en-peru-son-un-aviso-del-riesgo-economico-de-el-nino-4440943</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/los-pelicanos-hambrientos-en-peru-son-un-aviso-del-riesgo-economico-de-el-nino-4440943</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Keiko Fujimori plantea iniciar la construcción de seis nuevos terminales regionales</title>
       <link>https://www.larepublica.co/globoeconomia/keiko-fujimori-plantea-iniciar-la-construccion-de-seis-nuevos-terminales-regionales-en-peru-4440025</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/keiko-fujimori-plantea-iniciar-la-construccion-de-seis-nuevos-terminales-regionales-en-peru-4440025</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Star Perú solicita permiso para operar rutas internacionales hacia seis destinos</title>
-      <link>https://www.larepublica.co/globoeconomia/star-peru-solicita-renovar-permiso-para-operar-rutas-internacionales-hacia-seis-destinos-4438652</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/star-peru-solicita-renovar-permiso-para-operar-rutas-internacionales-hacia-seis-destinos-4438652</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Lula promulga la ley que prohíbe el "foie gras" en Brasil, y enfurece a Francia</title>
+      <link>https://www.larepublica.co/globoeconomia/lula-promulga-la-ley-que-prohibe-el-foie-gras-en-brasil-y-enfurece-a-francia-4442931</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/lula-promulga-la-ley-que-prohibe-el-foie-gras-en-brasil-y-enfurece-a-francia-4442931</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Bolsonaro niega nuevos vínculos con el escándalo bancario tras informes de los medios</title>
-      <link>https://www.larepublica.co/globoeconomia/bolsonaro-niega-nuevos-vinculos-con-el-escandalo-bancario-tras-informes-de-los-medios-4441668</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/bolsonaro-niega-nuevos-vinculos-con-el-escandalo-bancario-tras-informes-de-los-medios-4441668</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Bolsonaro suplica poner fin a la disputa familiar mientras su campaña flaquea</title>
+      <link>https://www.larepublica.co/globoeconomia/bolsonaro-suplica-poner-fin-a-la-disputa-familiar-mientras-su-campana-flaquea-4442764</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/bolsonaro-suplica-poner-fin-a-la-disputa-familiar-mientras-su-campana-flaquea-4442764</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Lula dice que Brasil no ha visto reciprocidad de EE.UU. en las negociaciones arancelarias</title>
-      <link>https://www.larepublica.co/globoeconomia/lula-dice-que-brasil-no-ha-visto-reciprocidad-de-ee-uu-en-las-negociaciones-arancelarias-4441246</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/lula-dice-que-brasil-no-ha-visto-reciprocidad-de-ee-uu-en-las-negociaciones-arancelarias-4441246</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Brasil aseguró que los aranceles de EE.UU. sobre el trabajo forzoso son injustificados</title>
+      <link>https://www.larepublica.co/globoeconomia/brasil-dice-que-los-aranceles-de-ee-uu-sobre-trabajo-forzoso-son-injustificados-4442090</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/brasil-dice-que-los-aranceles-de-ee-uu-sobre-trabajo-forzoso-son-injustificados-4442090</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Arancel de Trump de 25% golpea a Brasil y amenaza US$11.000 millones en exportaciones</title>
-      <link>https://www.larepublica.co/globoeconomia/nuevo-arancel-de-trump-de-25-golpea-a-brasil-y-amenaza-hasta-us-11-000-millones-en-exportaciones-4440847</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/nuevo-arancel-de-trump-de-25-golpea-a-brasil-y-amenaza-hasta-us-11-000-millones-en-exportaciones-4440847</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Gobierno de Uruguay coordina respuesta nacional ante el avance del fenómeno “Super Niño”</title>
+      <link>https://www.larepublica.co/globoeconomia/gobierno-de-uruguay-coordina-respuesta-nacional-ante-el-avance-del-fenomeno-super-nino-4443148</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/gobierno-de-uruguay-coordina-respuesta-nacional-ante-el-avance-del-fenomeno-super-nino-4443148</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Así será la ayuda financiera en Uruguay para los afectados por los fuertes vientos en Salto</title>
       <link>https://www.larepublica.co/globoeconomia/asi-sera-la-ayuda-financiera-en-uruguay-para-los-afectados-por-los-fuertes-vientos-en-salto-4441809</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/asi-sera-la-ayuda-financiera-en-uruguay-para-los-afectados-por-los-fuertes-vientos-en-salto-4441809</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Cámaras uruguayas rechazan baja de jornada laboral y exigen reunión con el Presidente Orsi</title>
       <link>https://www.larepublica.co/globoeconomia/camaras-uruguayas-rechazan-baja-de-jornada-laboral-y-exigen-reunion-con-el-presidente-orsi-4440959</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/camaras-uruguayas-rechazan-baja-de-jornada-laboral-y-exigen-reunion-con-el-presidente-orsi-4440959</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>La inflación de Uruguay en junio sube 0,4% y eleva la anual a 4,3%, cerca de la meta del BCU</title>
-      <link>https://www.larepublica.co/globoeconomia/la-inflacion-de-uruguay-en-junio-sube-0-4-y-eleva-la-anual-a-4-3-cerca-de-la-meta-del-bcu-4440087</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/la-inflacion-de-uruguay-en-junio-sube-0-4-y-eleva-la-anual-a-4-3-cerca-de-la-meta-del-bcu-4440087</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Presidente de Paraguay informa operativos tras ataque a comisaría de Naranjito</title>
+      <link>https://www.larepublica.co/globoeconomia/presidente-de-paraguay-informa-operativos-tras-ataque-a-comisaria-de-naranjito-4442783</link>
+      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/presidente-de-paraguay-informa-operativos-tras-ataque-a-comisaria-de-naranjito-4442783</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Ministro de Industria analiza el límite de suministro para la electricidad</title>
       <link>https://www.larepublica.co/globoeconomia/ministro-de-industria-analiza-el-limite-de-suministro-para-la-electricidad-4442016</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/ministro-de-industria-analiza-el-limite-de-suministro-para-la-electricidad-4442016</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Paraguay avanza hacia una nueva Política Nacional de la Calidad para fortalecer su competitividad</title>
       <link>https://www.larepublica.co/globoeconomia/paraguay-avanza-hacia-una-nueva-politica-nacional-de-la-calidad-para-fortalecer-su-competitividad-4441042</link>
       <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/paraguay-avanza-hacia-una-nueva-politica-nacional-de-la-calidad-para-fortalecer-su-competitividad-4441042</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Paraguay reclama reparto equitativo de cuotas de exportación de Mercosur a UE</title>
-      <link>https://www.larepublica.co/globoeconomia/paraguay-reclama-reparto-equitativo-de-las-cuotas-de-exportacion-del-mercosur-hacia-ue-4440370</link>
-      <guid isPermaLink="true">https://www.larepublica.co/globoeconomia/paraguay-reclama-reparto-equitativo-de-las-cuotas-de-exportacion-del-mercosur-hacia-ue-4440370</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>María del Pilar Correa asumirá como la nueva CEO de Wenia a partir del 1 de septiembre</title>
+      <link>https://www.larepublica.co/finanzas/maria-del-pilar-correa-sera-la-ceo-de-wenia-desde-septiembre-reemplazara-pablo-arboleda-4442977</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/maria-del-pilar-correa-sera-la-ceo-de-wenia-desde-septiembre-reemplazara-pablo-arboleda-4442977</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Grupo Aval lanzó Aval API Market para integrar soluciones financieras</title>
-      <link>https://www.larepublica.co/finanzas/grupo-aval-lanzo-aval-api-market-para-integrar-soluciones-financieras-y-tecnologicas-4442163</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/grupo-aval-lanzo-aval-api-market-para-integrar-soluciones-financieras-y-tecnologicas-4442163</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Moody's Ratings mantuvo con perspectiva estable las calificaciones de depósitos de Itaú</title>
+      <link>https://www.larepublica.co/finanzas/moody-s-ratings-mantuvo-con-perspectiva-estable-las-calificaciones-de-depositos-de-itau-4443350</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/moody-s-ratings-mantuvo-con-perspectiva-estable-las-calificaciones-de-depositos-de-itau-4443350</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>ePayco asegura que las API financieras conectarán la IA con los pagos digitales</title>
-      <link>https://www.larepublica.co/finanzas/epayco-asegura-que-las-api-financieras-conectaran-la-ia-con-los-pagos-digitales-4442334</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/epayco-asegura-que-las-api-financieras-conectaran-la-ia-con-los-pagos-digitales-4442334</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>ISA Energía Brasil cerró emisión de acciones por US$236 millones</title>
+      <link>https://www.larepublica.co/finanzas/isa-energia-brasil-cerro-emision-de-acciones-por-us-236-millones-para-fortalecer-su-capital-4442806</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/isa-energia-brasil-cerro-emision-de-acciones-por-us-236-millones-para-fortalecer-su-capital-4442806</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Regulación, innovación y seguridad, los retos del ecosistema Fintech en América Latina</title>
-      <link>https://www.larepublica.co/finanzas/regulacion-innovacion-y-seguridad-los-retos-del-ecosistema-fintech-en-la-region-4442078</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/regulacion-innovacion-y-seguridad-los-retos-del-ecosistema-fintech-en-la-region-4442078</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Contenido patrocinado</title>
+      <link>https://www.larepublica.co/finanzas/como-elegir-una-buena-plataforma-de-trading-en-linea-en-2026-4442819</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/como-elegir-una-buena-plataforma-de-trading-en-linea-en-2026-4442819</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>El peso colombiano fue la emergente más revaluada frente al dólar, con alza de 13,91%</title>
-      <link>https://www.larepublica.co/finanzas/peso-colombiano-fue-la-emergente-mas-revaluada-frente-al-dolar-hoy-4441943</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/peso-colombiano-fue-la-emergente-mas-revaluada-frente-al-dolar-hoy-4441943</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Asobancaria plantea una hoja de ruta para que el país mejore su actual puesto 59 en el Gafi</title>
+      <link>https://www.larepublica.co/finanzas/asobancaria-plantea-hoja-de-ruta-para-que-el-pais-mejore-su-puesto-59-en-el-gafi-4442797</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/asobancaria-plantea-hoja-de-ruta-para-que-el-pais-mejore-su-puesto-59-en-el-gafi-4442797</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
     <item>
-      <title>Druo alcanzó US$160 millones en transacciones procesadas en el primer semestre</title>
-      <link>https://www.larepublica.co/finanzas/druo-alcanzo-us-160-millones-en-transacciones-procesadas-en-el-primer-semestre-4441786</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/druo-alcanzo-us-160-millones-en-transacciones-procesadas-en-el-primer-semestre-4441786</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grupo Cibest entregó US$70 millones en financiamiento subordinado a Bam</title>
-      <link>https://www.larepublica.co/finanzas/grupo-cibest-entrego-us-70-millones-en-financiamiento-subordinado-a-bam-4441800</link>
-      <guid isPermaLink="true">https://www.larepublica.co/finanzas/grupo-cibest-entrego-us-70-millones-en-financiamiento-subordinado-a-bam-4441800</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Yo lo que quisiera es ver a Colombia mucho más unida y que esté menos polarizada”</title>
-      <link>https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-carlos-mario-giraldo-gerente-saliente-de-grupo-exito-4374812</link>
-      <guid isPermaLink="true">https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-carlos-mario-giraldo-gerente-saliente-de-grupo-exito-4374812</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Llegamos hoy a 47.000 tiendas de barrio, estamos casi que en la Colombia vivible”</title>
-      <link>https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-juan-felipe-montoya-presidente-de-huevos-kikes-4399475</link>
-      <guid isPermaLink="true">https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-juan-felipe-montoya-presidente-de-huevos-kikes-4399475</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Hacer negocios en Estados Unidos puede ser mucho más fácil que en América Latina”</title>
-      <link>https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-david-velez-sobre-nu-y-su-expansion-a-estados-unidos-4356204</link>
-      <guid isPermaLink="true">https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-david-velez-sobre-nu-y-su-expansion-a-estados-unidos-4356204</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>"En cuatro años estamos entregando unos $180 billones en transferencias"</title>
-      <link>https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/ricardo-roa-presidente-de-ecopetrol-hablo-sobre-las-transferencias-a-la-nacion-de-la-petrolera-4350647</link>
-      <guid isPermaLink="true">https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/ricardo-roa-presidente-de-ecopetrol-hablo-sobre-las-transferencias-a-la-nacion-de-la-petrolera-4350647</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Nosotros no desfalleceremos, invertimos US$75 millones en maquinaria"</title>
-      <link>https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/nosotros-no-vamos-a-desfallecer-estamos-invirtiendo-us-75-millones-en-maquinaria-4339979</link>
-      <guid isPermaLink="true">https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/nosotros-no-vamos-a-desfallecer-estamos-invirtiendo-us-75-millones-en-maquinaria-4339979</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“El metro sumará un millón de viajes diarios; la meta es bajar a la gente del carro y la moto”</title>
-      <link>https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-leonidas-narvaez-gerente-del-metro-de-bogota-4396035</link>
-      <guid isPermaLink="true">https://www.larepublica.co/especiales/protagonistas-de-la-economia-en-la-fm/entrevista-a-leonidas-narvaez-gerente-del-metro-de-bogota-4396035</guid>
-      <pubDate>Fri, 24 Jul 2026 09:25:10 +0000</pubDate>
+      <title>Peso colombiano vive una de las revaluaciones más altas de la década al apreciarse más de 20%</title>
+      <link>https://www.larepublica.co/finanzas/revaluacion-del-peso-colombiano-4442658</link>
+      <guid isPermaLink="true">https://www.larepublica.co/finanzas/revaluacion-del-peso-colombiano-4442658</guid>
+      <pubDate>Sat, 25 Jul 2026 09:04:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
