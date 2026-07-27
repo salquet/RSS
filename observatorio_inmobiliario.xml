@@ -5,8 +5,14 @@
     <link>https://observatorioinmobiliario.es/</link>
     <description>Noticias del mercado inmobiliario - Observatorio Inmobiliario</description>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Jul 2026 09:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:48:33 +0000</lastBuildDate>
     <atom:link href="https://observatorioinmobiliario.es/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El precio hotelero sube un 4,9% y alcanza los 163,4 euros por noche en España</title>
+      <link>https://observatorioinmobiliario.es/noticias/hoteles/el-precio-hotelero-sube-un-49-y-alcanza-los-1634-euros-por-noche-en-espa%C3%B1a/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/el-precio-hotelero-sube-un-49-y-alcanza-los-1634-euros-por-noche-en-espa%C3%B1a/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Convertir oficinas en vivienda y aumentar la edificabilidad, entre las medidas para construir más VPO en Cataluña</title>
       <link>https://observatorioinmobiliario.es/noticias/residencial/construir-oficinas-en-vivienda-y-aumentar-la-edificabilidad-entre-las-medidas-para-construir-mas-vpo-en-cataluna-2/</link>
@@ -14,10 +20,16 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La inversion inmobiliaria supera los 12.000 millones de euros hasta junio</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/la-inversion-inmobiliaria-supera-los-12-000-millones-de-euros-hasta-junio/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/la-inversion-inmobiliaria-supera-los-12-000-millones-de-euros-hasta-junio/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Mataró recompra el solar de Can Fàbregas por 11,7 millones de euros</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/matar%C3%B3-recompra-el-solar-de-can-f%C3%A0bregas-por-117-millones-de-euros/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/matar%C3%B3-recompra-el-solar-de-can-f%C3%A0bregas-por-117-millones-de-euros/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aedas Homes comienza las obras de su proyecto residencial en Zorrozaurre</title>
+      <link>https://observatorioinmobiliario.es/noticias/residencial/aedas-homes-comienza-las-obras-de-su-proyecto-residencial-en-zorrozaurre/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/aedas-homes-comienza-las-obras-de-su-proyecto-residencial-en-zorrozaurre/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Aedifica suma una residencia de mayores cerca de Bilbao por 17,5 millones de euros</title>
@@ -32,22 +44,10 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metrovacesa lanza 46 nuevas viviendas en Sevilla</title>
-      <link>https://observatorioinmobiliario.es/noticias/residencial/metrovacesa-lanza-46-nuevas-viviendas-en-sevilla-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/metrovacesa-lanza-46-nuevas-viviendas-en-sevilla-2/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La antigua subestación de Canillejas en Madrid dará lugar a 123 viviendas</title>
-      <link>https://observatorioinmobiliario.es/noticias/residencial/la-antigua-subestacion-de-canillejas-en-madrid-dara-lugar-a-123-viviendas-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/la-antigua-subestacion-de-canillejas-en-madrid-dara-lugar-a-123-viviendas-2/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Merlin desarrollará en Zaragoza el mayor proyecto de autoconsumo renovable para data centers del mundo</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/merlin-desarrollar%C3%A1-en-zaragoza-el-mayor-proyecto-de-autoconsumo-renovable-para-data-centers-del-mundo/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/merlin-desarrollar%C3%A1-en-zaragoza-el-mayor-proyecto-de-autoconsumo-renovable-para-data-centers-del-mundo/</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <title>La inversion inmobiliaria supera los 12.000 millones de euros hasta junio</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/la-inversion-inmobiliaria-supera-los-12-000-millones-de-euros-hasta-junio/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/la-inversion-inmobiliaria-supera-los-12-000-millones-de-euros-hasta-junio/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La construcción industrializada reducirá los plazos de ejecución</title>
@@ -92,12 +92,6 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Los ingresos por rentas de Colonial aumentan un 5% en el primer semestre</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/los-ingresos-por-rentas-de-colonial-aumentan-un-5-en-el-primer-semestre-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/los-ingresos-por-rentas-de-colonial-aumentan-un-5-en-el-primer-semestre-2/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La inversión en parques comerciales supera los 415 millones hasta mayo</title>
       <link>https://observatorioinmobiliario.es/noticias/retail/la-inversi%C3%B3n-en-parques-comerciales-supera-los-415-millones-hasta-mayo/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/retail/la-inversi%C3%B3n-en-parques-comerciales-supera-los-415-millones-hasta-mayo/</guid>
@@ -116,6 +110,12 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metrovacesa lanza 46 nuevas viviendas en Sevilla</title>
+      <link>https://observatorioinmobiliario.es/noticias/residencial/metrovacesa-lanza-46-nuevas-viviendas-en-sevilla-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/metrovacesa-lanza-46-nuevas-viviendas-en-sevilla-2/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Fuerte Group Hotels invierte 14 millones en un hotel de lujo en Granada</title>
       <link>https://observatorioinmobiliario.es/noticias/hoteles/fuerte-group-hotels-invierte-14-millones-en-un-hotel-de-lujo-en-granada/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/fuerte-group-hotels-invierte-14-millones-en-un-hotel-de-lujo-en-granada/</guid>
@@ -126,12 +126,6 @@
       <link>https://observatorioinmobiliario.es/noticias/hoteles/la-inversi%C3%B3n-hotelera-firma-su-mejor-primer-semestre-en-iberia-con-2600-millones/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/la-inversi%C3%B3n-hotelera-firma-su-mejor-primer-semestre-en-iberia-con-2600-millones/</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Numa adquiere Lisbon Serviced Apartments y suma 19 activos en Lisboa</title>
-      <link>https://observatorioinmobiliario.es/noticias/hoteles/numa-adquiere-lisbon-serviced-apartments-y-suma-19-activos-en-lisboa/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/numa-adquiere-lisbon-serviced-apartments-y-suma-19-activos-en-lisboa/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Blue Hunter Capital asesora operaciones logísticas por 137 millones de euros</title>
