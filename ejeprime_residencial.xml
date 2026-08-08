@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 07 Aug 2026 08:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:52:32 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grupo Insur compra suelo en Mazagón (Huelva) para desarrollar 233 viviendas</title>
+      <link>https://www.ejeprime.com/residencial/grupo-insur-compra-suelo-en-mazagon-para-desarrollar-233-viviendas</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/grupo-insur-compra-suelo-en-mazagon-para-desarrollar-233-viviendas</guid>
+      <pubDate>Sat, 08 Aug 2026 07:52:32 +0000</pubDate>
+    </item>
     <item>
       <title>Meridia adquiere un complejo de ‘flex living’ a Bain Capital en Madrid con 977 unidades</title>
       <link>https://www.ejeprime.com/residencial/meridia-adquiere-un-complejo-de-flex-living-a-bain-capital-en-madrid-con-977-unidades</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/meridia-adquiere-un-complejo-de-flex-living-a-bain-capital-en-madrid-con-977-unidades</guid>
-      <pubDate>Fri, 07 Aug 2026 08:18:09 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 16:00:00 +0000</pubDate>
+      <description>La gestora de Javier Faus ha comprado un inmueble en Carabanchel con una superficie construida superior a 30.000 metros cuadrados que ha sido desarrollado por Bain Capital RE a través de una joint venture con Episode y Momentum.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Neinor Homes promueve la segunda fase de su proyecto Australy Thera en Estepona (Málaga)</title>
@@ -196,14 +204,6 @@
       <pubDate>Wed, 22 Jul 2026 18:27:00 +0000</pubDate>
       <description>El Consejo de Gobierno de la Comunidad aprueba el proyecto, con el fin de construir más viviendas. La norma simplificará la clasificación del suelo, que pasará de 5 categorías a 3: urbanizado, rural protegido y rural no protegido</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Psoe y Sumar acuerdan nuevo decreto de vivienda para la prórroga de los alquileres hasta 2028</title>
-      <link>https://www.ejeprime.com/residencial/psoe-y-sumar-acuerdan-nuevo-decreto-de-vivienda-para-la-prorroga-de-los-alquileres-hasta-2028</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/psoe-y-sumar-acuerdan-nuevo-decreto-de-vivienda-para-la-prorroga-de-los-alquileres-hasta-2028</guid>
-      <pubDate>Wed, 22 Jul 2026 16:29:00 +0000</pubDate>
-      <description>La norma consensuada por los socios podría aprobarse el próximo martes en el Consejo de Ministros, aunque se negocia con Junts para obtener su apoyo y que sea convalidada parlamentariamente tras su rechazo en la votación de abril.</description>
-      <dc:creator>J. G.</dc:creator>
     </item>
     <item>
       <title>Nueva Valdeluz: 3.300 viviendas en un entorno inigualable en el Corredor del Henares</title>
