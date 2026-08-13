@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:25:30 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resydenza compra medio centenar de viviendas en Castellana 157 (Madrid) por 28,5 millones</title>
+      <link>https://www.ejeprime.com/residencial/resydenza-compra-medio-centenar-de-viviendas-en-castellana-157-madrid-por-285-millones</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/resydenza-compra-medio-centenar-de-viviendas-en-castellana-157-madrid-por-285-millones</guid>
+      <pubDate>Thu, 13 Aug 2026 08:25:30 +0000</pubDate>
+    </item>
     <item>
       <title>Rivas licita tres parcelas municipales para construir más de 500 viviendas en alquiler</title>
       <link>https://www.ejeprime.com/residencial/rivas-licita-tres-parcelas-municipales-para-construir-mas-de-500-viviendas-en-alquiler</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/rivas-licita-tres-parcelas-municipales-para-construir-mas-de-500-viviendas-en-alquiler</guid>
-      <pubDate>Wed, 12 Aug 2026 08:22:40 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 11:08:00 +0000</pubDate>
+      <description>La actuación forma parte del Plan Estratégico Municipal de Vivienda y Suelo y permitirá seguir ampliando el parque público de vivienda en alquiler, con el objetivo de duplicar la cifra de unidades que posee la localidad madrileña.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Iberdrola y Asprima firman una alianza para impulsar la electrificación de la vivienda</title>
@@ -196,14 +204,6 @@
       <pubDate>Mon, 27 Jul 2026 10:42:00 +0000</pubDate>
       <description>El complejo Real de la Quinta ha dado un nuevo paso adelante en su desarrollo con la apertura del espacio El Lago Club, que se articula alrededor de un lago navegable que supera los 35.000 metros cuadrados de superficie.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El Gobierno prevé penalizar a socimis y ‘flex living’ en el nuevo decreto de vivienda</title>
-      <link>https://www.ejeprime.com/residencial/el-gobierno-preve-penalizar-a-socimis-y-flex-living-en-el-nuevo-decreto-de-vivienda</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-gobierno-preve-penalizar-a-socimis-y-flex-living-en-el-nuevo-decreto-de-vivienda</guid>
-      <pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
-      <description>Retoma la subida fiscal para las sociedades residenciales hasta el 25% y contempla calificar de alquiler habitual la sucesión de más de dos contratos temporales. El recargo en el IBI puede llegar al 100% en viviendas turísticas.</description>
-      <dc:creator>J. García / R. Ruiz</dc:creator>
     </item>
     <item>
       <title>Nueva Valdeluz: 3.300 viviendas en un entorno inigualable en el Corredor del Henares</title>
