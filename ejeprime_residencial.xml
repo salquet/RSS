@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 14 Aug 2026 08:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:35:15 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La diputación de Toledo compra un inmueble en desuso para hacer una residencia de estudiantes</title>
+      <link>https://www.ejeprime.com/residencial/la-diputacion-de-toledo-compra-un-inmueble-en-desuso-para-hacer-una-residencia-de-estudiantes</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-diputacion-de-toledo-compra-un-inmueble-en-desuso-para-hacer-una-residencia-de-estudiantes</guid>
+      <pubDate>Sat, 15 Aug 2026 07:35:15 +0000</pubDate>
+    </item>
     <item>
       <title>El índice para la actualización del alquiler roza el 2,5% en julio y marca un nuevo récord</title>
       <link>https://www.ejeprime.com/residencial/el-indice-para-la-actualizacion-del-alquiler-roza-el-25-en-julio-y-marca-un-nuevo-record</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-indice-para-la-actualizacion-del-alquiler-roza-el-25-en-julio-y-marca-un-nuevo-record</guid>
-      <pubDate>Fri, 14 Aug 2026 08:20:49 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 11:15:00 +0000</pubDate>
+      <description>Es 0,05 puntos más elevado que el registrado en el mes de junio y el mayor desde el inicio de la serie, en noviembre de 2024. Con el dato del séptimo mes del año acumula hasta 14 mensualidades consecutivas por encima del 2%.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>La Junta de Andalucía licita 375.000 metros cuadrados para construir 3.678 nuevas viviendas</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 28 Jul 2026 05:00:00 +0000</pubDate>
       <description>La plataforma ha comprado un edificio de 1.086 metros cuadrados construidos en la calle de Alcalá que albergará 25 apartamentos con servicios que incluirán estudios, unidades de uno y dos dormitorios y dos locales comerciales.</description>
       <dc:creator>Raúl Maraver</dc:creator>
-    </item>
-    <item>
-      <title>Aedifica invierte 17,5 millones en una residencia de mayores en Bilbao de 147 camas</title>
-      <link>https://www.ejeprime.com/residencial/aedifica-invierte-175-millones-en-una-residencia-de-mayores-en-bilbao-de-147-camas</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/aedifica-invierte-175-millones-en-una-residencia-de-mayores-en-bilbao-de-147-camas</guid>
-      <pubDate>Mon, 27 Jul 2026 17:30:00 +0000</pubDate>
-      <description>La compañía destinará un total de 72 millones para cuatro operaciones en el segmento healthcare entre Reino Unido y España. La residencia en la capital vasca contará con Grupo Jardines como operador, con un contrato de 20 años.</description>
-      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Nueva Valdeluz: 3.300 viviendas en un entorno inigualable en el Corredor del Henares</title>
