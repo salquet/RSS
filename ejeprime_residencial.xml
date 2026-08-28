@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:21:23 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las compraventas de viviendas caen un 5,7% en el segundo trimestre, según registradores</title>
+      <link>https://www.ejeprime.com/residencial/las-compraventas-de-vivienda-descendieron-un-57-en-el-ultimo-trimestre-segun-registradores</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/las-compraventas-de-vivienda-descendieron-un-57-en-el-ultimo-trimestre-segun-registradores</guid>
+      <pubDate>Fri, 28 Aug 2026 19:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivienda transfiere a las comunidades los primeros 800 millones del Plan Estatal de Vivienda</title>
+      <link>https://www.ejeprime.com/residencial/vivienda-transfiere-a-las-comunidades-los-primeros-800-millones-del-plan-estatal-de-vivienda</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/vivienda-transfiere-a-las-comunidades-los-primeros-800-millones-del-plan-estatal-de-vivienda</guid>
+      <pubDate>Fri, 28 Aug 2026 10:43:00 +0000</pubDate>
+      <description>El conjunto del plan contempla 7.000 millones para hacer frente a la crisis impulsando más vivienda pública y protegida. Las mayores cuantías corresponderán a Andalucía, con 1.197 millones y Madrid, con otros 1.113 millones.</description>
+      <dc:creator>EjePrime</dc:creator>
+    </item>
     <item>
       <title>La compraventa de viviendas cae un 4% interanual en junio, según los notarios</title>
       <link>https://www.ejeprime.com/residencial/la-compraventa-de-viviendas-cae-un-4-interanual-en-junio-segun-los-notarios</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-compraventa-de-viviendas-cae-un-4-interanual-en-junio-segun-los-notarios</guid>
-      <pubDate>Thu, 27 Aug 2026 18:11:10 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 09:22:00 +0000</pubDate>
+      <description>En el sexto mes de 2026 se registraron de 67.529 operaciones, mientras que la firma de préstamos hipotecarios para la compra crecieron el 0,2%, hasta alcanzar las 36.249 firmas, lo que representa el 54% de las adquisiciones.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Bbva alerta: más de 80.000 nuevas viviendas previstas dependen de ampliar la red eléctrica</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/resydenza-compra-medio-centenar-de-viviendas-en-castellana-157-madrid-por-285-millones</guid>
       <pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
       <description>La socimi de Pryconsa adquiere 45 domicilios y 12 plazas de garaje e inicia los trámites para hacerse con otros siete en el mismo inmueble. Con esta operación, la firma amplía su modelo de negocio hacia el alquiler tradicional.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Rivas licita tres parcelas municipales para construir más de 500 viviendas en alquiler</title>
-      <link>https://www.ejeprime.com/residencial/rivas-licita-tres-parcelas-municipales-para-construir-mas-de-500-viviendas-en-alquiler</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/rivas-licita-tres-parcelas-municipales-para-construir-mas-de-500-viviendas-en-alquiler</guid>
-      <pubDate>Tue, 11 Aug 2026 11:08:00 +0000</pubDate>
-      <description>La actuación forma parte del Plan Estratégico Municipal de Vivienda y Suelo y permitirá seguir ampliando el parque público de vivienda en alquiler, con el objetivo de duplicar la cifra de unidades que posee la localidad madrileña.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Iberdrola y Asprima firman una alianza para impulsar la electrificación de la vivienda</title>
-      <link>https://www.ejeprime.com/residencial/iberdrola-y-asprima-firman-una-alianza-para-impulsar-la-electrificacion-de-la-vivienda</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/iberdrola-y-asprima-firman-una-alianza-para-impulsar-la-electrificacion-de-la-vivienda</guid>
-      <pubDate>Tue, 11 Aug 2026 10:01:00 +0000</pubDate>
-      <description>La compañía energética y la fundación de la patronal madrileña de los promotores impulsan este acuerdo con el objetivo de mejorar juntos los estándares del mercado residencial español y la sostenibilidad de los proyectos.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
