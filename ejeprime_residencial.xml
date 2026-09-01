@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:29:21 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Mivau destina 45 millones a 1.525 unidades de alojamiento asequible para universitarios</title>
+      <link>https://www.ejeprime.com/residencial/el-mivau-destina-45-millones-a-1525-unidades-de-alojamiento-asequible-para-universitarios</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-mivau-destina-45-millones-a-1525-unidades-de-alojamiento-asequible-para-universitarios</guid>
+      <pubDate>Tue, 01 Sep 2026 12:29:21 +0000</pubDate>
+    </item>
     <item>
       <title>Las compraventas de viviendas caen un 5,7% en el segundo trimestre, según registradores</title>
       <link>https://www.ejeprime.com/residencial/las-compraventas-de-vivienda-descendieron-un-57-en-el-ultimo-trimestre-segun-registradores</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/las-compraventas-de-vivienda-descendieron-un-57-en-el-ultimo-trimestre-segun-registradores</guid>
-      <pubDate>Mon, 31 Aug 2026 14:58:55 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 11:35:00 +0000</pubDate>
+      <description>El precio de los inmuebles residenciales alcanzó un nuevo máximo histórico al situarse de media en 2.487 euros por metro cuadrado, al igual que las adquisiciones realizadas por extranjeros, que representaron el 15,98% del total.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Vivienda transfiere a las comunidades los primeros 800 millones del Plan Estatal de Vivienda</title>
@@ -195,14 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-junta-de-andalucia-licita-375000-metros-cuadrados-para-construir-3678-nuevas-viviendas</guid>
       <pubDate>Thu, 13 Aug 2026 09:21:00 +0000</pubDate>
       <description>A través del Plan Anual de Enajenación de Bienes, saca al mercado 327 parcelas, con gran impacto en Cádiz, donde los suelos ofertados permitirán promover 1.102 viviendas de las que 2.964 sean protegidas, y el resto libres.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Resydenza compra medio centenar de viviendas en Castellana 157 (Madrid) por 28,5 millones</title>
-      <link>https://www.ejeprime.com/residencial/resydenza-compra-medio-centenar-de-viviendas-en-castellana-157-madrid-por-285-millones</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/resydenza-compra-medio-centenar-de-viviendas-en-castellana-157-madrid-por-285-millones</guid>
-      <pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
-      <description>La socimi de Pryconsa adquiere 45 domicilios y 12 plazas de garaje e inicia los trámites para hacerse con otros siete en el mismo inmueble. Con esta operación, la firma amplía su modelo de negocio hacia el alquiler tradicional.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
