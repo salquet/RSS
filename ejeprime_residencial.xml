@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:12:35 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ibosa transformará la antigua fábrica de Cacaolat de Barcelona en 300 viviendas</title>
+      <link>https://www.ejeprime.com/residencial/ibosa-transformara-la-antigua-fabrica-de-cacaolat-de-barcelona-en-300-viviendas</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/ibosa-transformara-la-antigua-fabrica-de-cacaolat-de-barcelona-en-300-viviendas</guid>
+      <pubDate>Sat, 05 Sep 2026 11:12:35 +0000</pubDate>
+    </item>
     <item>
       <title>Inveravante acelera su plan inmobiliario con 1.500 entregas y proyectos en Marruecos</title>
       <link>https://www.ejeprime.com/residencial/inveravante-acelera-su-plan-inmobiliario-con-1500-entregas-y-proyectos-en-marruecos</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/inveravante-acelera-su-plan-inmobiliario-con-1500-entregas-y-proyectos-en-marruecos</guid>
-      <pubDate>Fri, 04 Sep 2026 12:03:49 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0000</pubDate>
+      <description>El hólding fundado por Manuel Jove tras la venta de Fadesa y ahora controlado por sus hijos se consolida con Avantespacia como una de las promotoras familiares con mayor actividad, con 800 viviendas a entregar en este 2026.</description>
+      <dc:creator>M. Martínez García</dc:creator>
     </item>
     <item>
       <title>El ICO activa la solicitud de instrumentos para financiar vivienda asequible en alquiler</title>
@@ -25,7 +33,7 @@
       <title>Vivla y MyInvestor firman un acuerdo para comercializar segundas residencias ‘premium’</title>
       <link>https://www.ejeprime.com/residencial/vivla-y-myinvestor-firman-un-acuerdo-para-comercializar-segundas-residencias-premium</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/vivla-y-myinvestor-firman-un-acuerdo-para-comercializar-segundas-residencias-premium</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
       <description>Los clientes de la entidad bancaria tendrán acceso a las 72 residencias de Vivla, situadas en los principales destinos vacacionales de España, así como a una comunidad de cientos de copropietarios que ya participan en este modelo.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
@@ -195,14 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/aval-joven-extremadura-moviliza-144-millones-y-se-amplia-a-familias-numerosas-y-monoparentales</guid>
       <pubDate>Tue, 18 Aug 2026 19:02:00 +0000</pubDate>
       <description>El Plan Regional de Vivienda, Rehabilitación y Suelo, de próxima aprobación, invertirá más de 950 millones de euros en el territorio en los próximos cuatro años para incrementar la oferta residencial y combatir la despoblación.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Vitoria permitirá convertir locales comerciales de plantas bajas en vivienda protegida</title>
-      <link>https://www.ejeprime.com/residencial/vitoria-permitira-convertir-locales-comerciales-de-plantas-bajas-en-vivienda-protegida</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/vitoria-permitira-convertir-locales-comerciales-de-plantas-bajas-en-vivienda-protegida</guid>
-      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
-      <description>Los activos deberán destinarse a domicilio habitual de su titular y tendrán la calificación permanentemente de VPO con un precio de venta limitado idéntico al que corresponda al régimen general de esta tipología residencial.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
