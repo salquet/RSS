@@ -5,74 +5,61 @@
     <link>https://caracol.com.co/</link>
     <description>Noticias de Caracol Radio Colombia</description>
     <language>es</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:25:28 +0000</lastBuildDate>
     <atom:link href="https://caracol.com.co/" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ordenan por segunda vez al presidente De la Espriella suspender bombardeos, esta vez en Guaviare</title>
-      <link>https://caracol.com.co/2026/09/05/ordenan-por-segunda-vez-al-presidente-de-la-espriella-suspender-bombardeos-esta-vez-en-guaviare/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/ordenan-por-segunda-vez-al-presidente-de-la-espriella-suspender-bombardeos-esta-vez-en-guaviare/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Mientras se estudia de fondo una acción de tutela que busca proteger a los niños, niñas y adolescentes, se impuso una medida cautelar. La suspensión es temporal.</description>
+      <title>“Murió como una leyenda”: conmovedor adiós de Juan Guillermo Ríos, contado por su hijo Andrés Ríos</title>
+      <link>https://caracol.com.co/programas/6am-w/</link>
+      <guid isPermaLink="true">https://caracol.com.co/programas/6am-w/</guid>
+      <pubDate>Mon, 07 Sep 2026 13:25:28 +0000</pubDate>
     </item>
     <item>
-      <title>Gobernador de Norte de Santander rechazó ataques contra la Fuerza Pública en Ocaña y Guamalito</title>
-      <link>https://caracol.com.co/2026/09/06/gobernador-de-norte-de-santander-rechazo-ataques-contra-la-fuerza-publica-en-ocana-y-guamalito/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/gobernador-de-norte-de-santander-rechazo-ataques-contra-la-fuerza-publica-en-ocana-y-guamalito/</guid>
+      <title>Presidente visitará Chocó junto a empresarios para trazar el camino de la reconstrucción tras sismo</title>
+      <link>https://caracol.com.co/2026/09/07/presidente-visitara-al-choco-junto-empresarios-para-trazar-el-camino-de-la-reconstruccion-tras-sismo/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/presidente-visitara-al-choco-junto-empresarios-para-trazar-el-camino-de-la-reconstruccion-tras-sismo/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extrema derecha arrasa en Sajonia-Anhalt, pero necesitará alianzas para gobernar en Alemania</title>
+      <link>https://caracol.com.co/2026/09/07/extrema-derecha-arrasa-en-sajonia-anhalt-pero-necesitara-alianzas-para-gobernar-en-alemania/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/extrema-derecha-arrasa-en-sajonia-anhalt-pero-necesitara-alianzas-para-gobernar-en-alemania/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incendio en Yumbo no logra ser controlado, se espera la llegada del Bambi Bucket</title>
+      <link>https://caracol.com.co/2026/09/07/incendio-en-yumbo-no-logra-ser-controlado-se-espera-la-llegada-del-bambi-bucket/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/incendio-en-yumbo-no-logra-ser-controlado-se-espera-la-llegada-del-bambi-bucket/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Una triste equivocación”: MinInterior responde a la Defensoría del Pueblo sobre cuestionamientos</title>
+      <link>https://caracol.com.co/2026/09/07/una-triste-equivocacion-mininterior-responde-a-la-defensoria-del-pueblo-sobre-cuestionamientos/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/una-triste-equivocacion-mininterior-responde-a-la-defensoria-del-pueblo-sobre-cuestionamientos/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tabla de posiciones de la Liga Colombiana: así quedó tras empate de Millonarios contra Pereira</title>
+      <link>https://caracol.com.co/2026/09/04/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-tras-triunfos-de-america-y-medellin/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/04/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-tras-triunfos-de-america-y-medellin/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MinCiencias Benavides: “Si aprueban decreto, atenderemos a población mayor afectada por terremoto”</title>
+      <link>https://caracol.com.co/2026/09/07/minciencia-benavides-si-aprueban-decreto-atenderemos-a-poblacion-mayor-afectada-por-terremoto/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/minciencia-benavides-si-aprueban-decreto-atenderemos-a-poblacion-mayor-afectada-por-terremoto/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sector avícola se moviliza para apoyar la recuperación del Valle tras el terremoto</title>
+      <link>https://caracol.com.co/2026/09/06/sector-avicola-se-moviliza-para-apoyar-la-recuperacion-del-valle-tras-el-terremoto/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/sector-avicola-se-moviliza-para-apoyar-la-recuperacion-del-valle-tras-el-terremoto/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ataques del ELN en N. de Santander violaron el Derecho Internacional Humanitario: MinDefensa</title>
-      <link>https://caracol.com.co/2026/09/05/ataques-del-eln-en-n-de-santander-dejan-tres-militares-muertos-y-una-aeronave-afectada-mindefensa/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/ataques-del-eln-en-n-de-santander-dejan-tres-militares-muertos-y-una-aeronave-afectada-mindefensa/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ya son tres muertos por ataque con enjambre de drones en Ocaña, confirmó alcalde Cañizares</title>
-      <link>https://caracol.com.co/2026/09/05/ya-son-tres-muertos-por-ataque-con-enjambre-de-drones-en-ocana-confirmo-alcalde-canizares/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/ya-son-tres-muertos-por-ataque-con-enjambre-de-drones-en-ocana-confirmo-alcalde-canizares/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Directora del ICBF sobre menores en bombardeos: “niñez no puede ser el escudo de criminales”</title>
-      <link>https://caracol.com.co/2026/09/05/directora-del-icbf-sobre-menores-en-bombardeos-ninez-no-puede-ser-el-escudo-de-criminales/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/directora-del-icbf-sobre-menores-en-bombardeos-ninez-no-puede-ser-el-escudo-de-criminales/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gobernador de Nariño respondió al presidente De la Espriella tras advertencia sobre diálogos de paz</title>
-      <link>https://caracol.com.co/2026/09/05/gobernador-de-narino-respondio-al-presidente-tras-advertencia-sobre-dialogos-de-paz/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/gobernador-de-narino-respondio-al-presidente-tras-advertencia-sobre-dialogos-de-paz/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ningún gobernador o alcalde puede adelantar contactos con estructuras terroristas: De la Espriella</title>
-      <link>https://caracol.com.co/2026/09/05/ningun-gobernador-o-alcalde-puede-adelantar-contactos-con-estructuras-terroristas-de-la-espriella/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/ningun-gobernador-o-alcalde-puede-adelantar-contactos-con-estructuras-terroristas-de-la-espriella/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca</title>
-      <link>https://caracol.com.co/2026/09/05/concluyen-las-negociaciones-sobre-ucrania-entre-putin-y-los-emisarios-de-la-casa-blanca/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/concluyen-las-negociaciones-sobre-ucrania-entre-putin-y-los-emisarios-de-la-casa-blanca/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alias ‘La Bebecita’ tenía aprobado un preacuerdo con la Fiscalía</title>
-      <link>https://caracol.com.co/2026/09/05/alias-la-bebecita-tenia-aprobado-un-preacuerdo-con-la-fiscalia/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/alias-la-bebecita-tenia-aprobado-un-preacuerdo-con-la-fiscalia/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Presidente De la Espriella anunció nuevas medidas para atención de vivienda tras terremoto en Cali</title>
       <link>https://caracol.com.co/2026/09/06/presidente-anuncia-medidas-para-la-atencion-de-vivienda-a-victimas-del-terremoto-en-cali/</link>
       <guid isPermaLink="true">https://caracol.com.co/2026/09/06/presidente-anuncia-medidas-para-la-atencion-de-vivienda-a-victimas-del-terremoto-en-cali/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tabla de posiciones de la Liga Colombiana: así quedó tras empates de Santa Fe y Junior</title>
-      <link>https://caracol.com.co/2026/09/04/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-tras-triunfos-de-america-y-medellin/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/04/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-tras-triunfos-de-america-y-medellin/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fedelonjas solicita restablecer subsidios para compra de vivienda en zonas afectadas por terremoto</title>
@@ -177,58 +164,46 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La torre de la Basílica Menor de Quimbaya, Quindío, se debe desmontar porque es un riesgo: párroco</title>
-      <link>https://caracol.com.co/2026/08/28/la-torre-de-la-basilica-menor-de-quimbaya-quindio-se-debe-desmontar-porque-amenaza-riesgo-parroco/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/08/28/la-torre-de-la-basilica-menor-de-quimbaya-quindio-se-debe-desmontar-porque-amenaza-riesgo-parroco/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Alberto Gamero sobre su asistente en Millonarios: “Tengo un par de nombres que estoy esperando”</title>
+      <link>https://caracol.com.co/2026/09/07/alberto-gamero-sobre-su-asistente-en-millonarios-tengo-un-par-de-nombres-que-estoy-esperando/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/alberto-gamero-sobre-su-asistente-en-millonarios-tengo-un-par-de-nombres-que-estoy-esperando/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pereira espera anuncios para la reconstrucción durante la visita del presidente De La Espriella</title>
-      <link>https://caracol.com.co/2026/08/28/pereira-espera-anuncios-para-la-reconstruccion-durante-la-visita-del-presidente-de-la-espriella/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/08/28/pereira-espera-anuncios-para-la-reconstruccion-durante-la-visita-del-presidente-de-la-espriella/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sebastián Viera debutó con empate como DT del Junior: resumen del partido contra Jaguares por Liga</title>
-      <link>https://caracol.com.co/2026/09/06/en-vivo-junior-vs-jaguares-por-la-liga-colombiana-2026-ll-transmision-y-minuto-a-minuto/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/en-vivo-junior-vs-jaguares-por-la-liga-colombiana-2026-ll-transmision-y-minuto-a-minuto/</guid>
+      <title>Millonarios araña un punto en el regreso de Alberto Gamero: Así fue el partido</title>
+      <link>https://caracol.com.co/2026/09/06/en-vivo-pereira-vs-millonarios-siga-la-transmision-y-el-minuto-a-minuto-del-juego-por-la-fecha-9/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/en-vivo-pereira-vs-millonarios-siga-la-transmision-y-el-minuto-a-minuto-del-juego-por-la-fecha-9/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Luis Suárez marca gol y se harta en Portugal: “Que digan lo que quieran”</title>
-      <link>https://caracol.com.co/2026/09/06/luis-suarez-marca-gol-y-se-harta-en-portugal-que-digan-lo-que-quieran/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/luis-suarez-marca-gol-y-se-harta-en-portugal-que-digan-lo-que-quieran/</guid>
+      <title>¿Sonríe Santa Fe? Vasco Da Gama viajó a Bogotá sin cuatro titulares, entre ellos figura colombiana</title>
+      <link>https://caracol.com.co/2026/09/06/sonrie-santa-fe-vasco-da-gama-viajo-a-bogota-sin-cuatro-titulares-entre-ellos-figura-colombiana/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/sonrie-santa-fe-vasco-da-gama-viajo-a-bogota-sin-cuatro-titulares-entre-ellos-figura-colombiana/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rafael Dudamel: “A los 18 años, Matías Orozco es más que Gustavo Puerta”</title>
-      <link>https://caracol.com.co/2026/09/05/rafeael-dudamel-a-los-18-anos-matias-orozco-es-mas-que-gustavo-puerta/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/rafeael-dudamel-a-los-18-anos-matias-orozco-es-mas-que-gustavo-puerta/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Kevin Mantilla sobre JuanFer Quintero: “Es una locura todo lo que nos aporta en la cancha y fuera”</title>
+      <link>https://caracol.com.co/2026/09/06/kevin-mantilla-sobre-juanfer-quintero-es-una-locura-todo-lo-que-nos-aporta-dentro-y-fuera-de-ella/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/kevin-mantilla-sobre-juanfer-quintero-es-una-locura-todo-lo-que-nos-aporta-dentro-y-fuera-de-ella/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Santa Fe deja ir el triunfo de forma agónica contra Fortaleza: resumen y goles del partido</title>
-      <link>https://caracol.com.co/2026/09/05/en-vivo-santa-fe-vs-fortaleza-por-liga-colombiana-transmision-y-minuto-a-minuto/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/en-vivo-santa-fe-vs-fortaleza-por-liga-colombiana-transmision-y-minuto-a-minuto/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Clasificación general y de la montaña: así quedó Santiago Buitrago luego de la etapa 15</title>
+      <link>https://caracol.com.co/2026/09/06/clasificacion-general-y-de-la-montana-asi-quedo-santiago-buitrago-luego-de-la-etapa-15/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/clasificacion-general-y-de-la-montana-asi-quedo-santiago-buitrago-luego-de-la-etapa-15/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Video: Cristiano Ronaldo le dio la bienvenida a Richard Ríos a la Liga saudí con cariñoso saludo</title>
-      <link>https://caracol.com.co/2026/09/05/video-cristiano-ronaldo-le-dio-la-bienvenida-a-richard-rios-a-la-liga-saudi-con-carinoso-saludo/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/video-cristiano-ronaldo-le-dio-la-bienvenida-a-richard-rios-a-la-liga-saudi-con-carinoso-saludo/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Concluye la reunión de Zelenski con los emisarios de EEUU</title>
+      <link>https://caracol.com.co/2026/09/06/concluye-la-reunion-de-zelenski-con-los-emisarios-de-eeuu/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/concluye-la-reunion-de-zelenski-con-los-emisarios-de-eeuu/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Policía hace acompañamiento a las elecciones cafeteras en Caldas con más de 1.300 hombres</title>
-      <link>https://caracol.com.co/2026/09/05/policia-hace-acompanamiento-a-las-elecciones-cafeteras-en-caldas-con-mas-de-1300-hombres/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/policia-hace-acompanamiento-a-las-elecciones-cafeteras-en-caldas-con-mas-de-1300-hombres/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ecopetrol restringe operaciones en Tibú, Norte de Santander, por robo de crudo</title>
-      <link>https://caracol.com.co/2026/09/05/ecopetrol-restringe-operaciones-en-tibu-norte-de-santander-por-robo-de-crudo/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/ecopetrol-restringe-operaciones-en-tibu-norte-de-santander-por-robo-de-crudo/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Gobernador Verano busca impulsar consulado de EE. UU. en Barranquilla durante visita de Marco Rubio</title>
+      <link>https://caracol.com.co/2026/09/07/gobernador-verano-busca-impulsar-consulado-de-ee-uu-en-barranquilla-durante-visita-de-marco-rubio/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/gobernador-verano-busca-impulsar-consulado-de-ee-uu-en-barranquilla-durante-visita-de-marco-rubio/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>¿Quién es el gobernador de Nariño que recibió advertencia de De la Espriella y de qué partido es?</title>
@@ -237,10 +212,10 @@
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Netanyahu acusa a su seguridad de no despertarlo el 7-O y su mujer insinúa una traición</title>
-      <link>https://caracol.com.co/2026/09/05/netanyahu-acusa-a-su-seguridad-de-no-despertarlo-el-7-o-y-su-mujer-insinua-una-traicion/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/netanyahu-acusa-a-su-seguridad-de-no-despertarlo-el-7-o-y-su-mujer-insinua-una-traicion/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Gobierno libera 17 cocodrilos y se compromete a salvar a esta especie en riesgo de extinción</title>
+      <link>https://caracol.com.co/2026/09/06/gobierno-libera-17-cocodrilos-y-se-compromete-a-salvar-esta-especie-en-riesgo-de-extincion/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/gobierno-libera-17-cocodrilos-y-se-compromete-a-salvar-esta-especie-en-riesgo-de-extincion/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“Volvimos a ser escuchados”: gobernador de Córdoba tras encuentro en Mompox, Bolívar</title>
@@ -249,22 +224,22 @@
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Venezolanos tienen 60 días para reclamar más de 150.000 permisos PPT pendientes</title>
-      <link>https://caracol.com.co/2026/09/05/venezolanos-tienen-60-dias-para-reclamar-mas-de-150000-permisos-ppt-pendientes/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/venezolanos-tienen-60-dias-para-reclamar-mas-de-150000-permisos-ppt-pendientes/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Explotación sexual infantil: Operativo internacional contra la pornografía deja cuatro capturados</title>
+      <link>https://caracol.com.co/2026/09/06/explotacion-sexual-infantil-operativo-internacional-contra-la-pornografia-deja-cuatro-capturados/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/explotacion-sexual-infantil-operativo-internacional-contra-la-pornografia-deja-cuatro-capturados/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ocaña, Norte de Santander, será sede de la nueva ofensiva contra el ELN</title>
-      <link>https://caracol.com.co/2026/09/05/ocana-norte-de-santander-sera-sede-de-la-nueva-ofensiva-contra-el-eln/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/ocana-norte-de-santander-sera-sede-de-la-nueva-ofensiva-contra-el-eln/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Denuncian el lanzamiento de un explosivo entre Segovia y sur de Bolívar que afectó varias viviendas</title>
+      <link>https://caracol.com.co/2026/09/06/denuncian-el-lanzamiento-de-un-explosivo-entre-segovia-y-sur-de-bolivar-que-afecto-varias-viviendas/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/denuncian-el-lanzamiento-de-un-explosivo-entre-segovia-y-sur-de-bolivar-que-afecto-varias-viviendas/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mi Casa Ya: así golpeó a las familias el fin del programa en el gobierno Petro</title>
-      <link>https://caracol.com.co/2026/09/05/del-sueno-a-la-incertidumbre-asi-golpeo-a-las-familias-el-fin-de-mi-casa-ya-en-el-gobierno-petro/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/del-sueno-a-la-incertidumbre-asi-golpeo-a-las-familias-el-fin-de-mi-casa-ya-en-el-gobierno-petro/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Liberados 28 tripulantes de dos embarcaciones interceptadas y hundidas por EEUU en altamar</title>
+      <link>https://caracol.com.co/2026/09/06/liberados-28-tripulantes-de-dos-embarcaciones-interceptadas-y-hundidas-por-eeuu-en-altamar/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/liberados-28-tripulantes-de-dos-embarcaciones-interceptadas-y-hundidas-por-eeuu-en-altamar/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Falsos médicos habrían practicado procedimientos estéticos a más de 200 personas en Bogotá</title>
@@ -285,27 +260,27 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sisbén 2026: Así cambian los trámites para encuesta y certificados con la llegada del RUI</title>
-      <link>https://caracol.com.co/2026/09/06/sisben-2026-asi-cambian-los-tramites-para-encuesta-y-certificados-con-la-llegada-del-rui/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/sisben-2026-asi-cambian-los-tramites-para-encuesta-y-certificados-con-la-llegada-del-rui/</guid>
+      <title>Declaración de renta 2026: ¿qué opciones hay si no puede pagar el impuesto? Esto dice la DIAN</title>
+      <link>https://caracol.com.co/2026/09/06/declaracion-de-renta-2026-que-opciones-hay-si-no-puede-pagar-el-impuesto-esto-dice-la-dian/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/declaracion-de-renta-2026-que-opciones-hay-si-no-puede-pagar-el-impuesto-esto-dice-la-dian/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Señal de tránsito con una cruz negra con fondo: ¿Qué significa y qué se debe hacer al verla?</title>
-      <link>https://caracol.com.co/2026/09/05/senal-de-transito-con-una-cruz-negra-con-fondo-que-significa-y-que-se-debe-hacer-al-verla/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/senal-de-transito-con-una-cruz-negra-con-fondo-que-significa-y-que-se-debe-hacer-al-verla/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>RUI: ¿Qué significa la clasificación B01, B02, B03, B04 y B07? Condición de la familia según grupo</title>
+      <link>https://caracol.com.co/2026/09/06/rui-que-significa-la-clasificacion-b01-b02-b03-b04-y-b07-condicion-de-la-familia-segun-grupo/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/rui-que-significa-la-clasificacion-b01-b02-b03-b04-y-b07-condicion-de-la-familia-segun-grupo/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Reforma pensional: cuáles son los 4 pilares del nuevo sistema, a quiénes cobija y cómo funcionan</title>
-      <link>https://caracol.com.co/2026/09/05/reforma-pensional-cuales-son-los-4-pilares-del-nuevo-sistema-a-quienes-cobija-y-como-funcionan/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/reforma-pensional-cuales-son-los-4-pilares-del-nuevo-sistema-a-quienes-cobija-y-como-funcionan/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Icetex publicó becas del 100% para estudiar IA y analítica de datos en la India: requisitos y fechas</title>
+      <link>https://caracol.com.co/2026/09/06/icetex-publico-becas-del-100-para-estudiar-ia-y-analitica-de-datos-en-la-india-requisitos-y-fechas/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/icetex-publico-becas-del-100-para-estudiar-ia-y-analitica-de-datos-en-la-india-requisitos-y-fechas/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>¿Cómo recibir los pagos de Prosperidad Social 2026? LINK, nuevas opciones y paso a paso de registro</title>
-      <link>https://caracol.com.co/2026/09/06/como-recibir-los-pagos-de-prosperidad-social-2026-link-nuevas-opciones-y-paso-a-paso-de-registro/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/como-recibir-los-pagos-de-prosperidad-social-2026-link-nuevas-opciones-y-paso-a-paso-de-registro/</guid>
+      <title>¿Cuál es el límite de cotización en Colpensiones con la nueva reforma pensional? Así funcionará</title>
+      <link>https://caracol.com.co/2026/09/06/cual-es-el-limite-de-cotizacion-en-colpensiones-con-la-nueva-reforma-pensional-asi-funcionara/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/cual-es-el-limite-de-cotizacion-en-colpensiones-con-la-nueva-reforma-pensional-asi-funcionara/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -327,126 +302,114 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Conmoción en Obando, Valle, por asesinato de tres personas al interior de una vivienda</title>
-      <link>https://caracol.com.co/2026/09/05/conmocion-en-obando-valle-por-asesinato-de-tres-personas-al-interior-de-una-vivienda/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/conmocion-en-obando-valle-por-asesinato-de-tres-personas-al-interior-de-una-vivienda/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Masacre en un bar de Cali: tres personas fueron asesinadas y otra quedó herida</title>
+      <link>https://caracol.com.co/2026/09/07/masacre-en-un-bar-de-cali-tres-personas-fueron-asesinadas-a-tiros-y-otra-quedo-herida/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/masacre-en-un-bar-de-cali-tres-personas-fueron-asesinadas-a-tiros-y-otra-quedo-herida/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gobierno Nacional promueve acciones para enfrentar impactos por creciente del río Manzanares</title>
-      <link>https://caracol.com.co/2026/09/05/gobierno-nacional-promueve-acciones-para-enfrentar-impactos-por-creciente-del-rio-manzanares/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/gobierno-nacional-promueve-acciones-para-enfrentar-impactos-por-creciente-del-rio-manzanares/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Gobierno Nacional anunció recursos y alivios para recuperar la red de salud de Risaralda</title>
+      <link>https://caracol.com.co/2026/09/07/gobierno-nacional-anuncio-recursos-y-alivios-para-recuperar-la-red-de-salud-de-risaralda/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/gobierno-nacional-anuncio-recursos-y-alivios-para-recuperar-la-red-de-salud-de-risaralda/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“El presidente De La Espriella ha venido más veces que Petro”: secretario de Seguridad del Valle</title>
-      <link>https://caracol.com.co/2026/09/05/el-presidente-de-la-espriella-ha-venido-mas-veces-que-petro-secretario-de-seguridad-del-valle/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/el-presidente-de-la-espriella-ha-venido-mas-veces-que-petro-secretario-de-seguridad-del-valle/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>IDEAM emite alerta roja por ola de calor en la Costa Caribe</title>
+      <link>https://caracol.com.co/2026/09/07/ideam-emite-alerta-roja-por-ola-de-calor-en-la-costa-caribe/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/ideam-emite-alerta-roja-por-ola-de-calor-en-la-costa-caribe/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Un intenso vendaval afectó siete veredas y el área urbana de Campamento, Antioquia</title>
-      <link>https://caracol.com.co/2026/09/05/un-intenso-vendaval-afecto-siete-veredas-y-el-area-urbana-de-campamento-antioquia/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/un-intenso-vendaval-afecto-siete-veredas-y-el-area-urbana-de-campamento-antioquia/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Atentado contra el padre del parlamentario Ariel Rodríguez</title>
+      <link>https://caracol.com.co/2026/09/07/atentado-contra-el-padre-del-parlamentario-ariel-rodriguez/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/atentado-contra-el-padre-del-parlamentario-ariel-rodriguez/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Valle espera avanzar en construcción de batallón en Jamundí con nuevo comandante de Tercera División</title>
-      <link>https://caracol.com.co/2026/09/05/valle-espera-avanzar-en-construccion-de-batallon-en-jamundi-con-nuevo-comandante-de-tercera-division/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/valle-espera-avanzar-en-construccion-de-batallon-en-jamundi-con-nuevo-comandante-de-tercera-division/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>En Guachaca zona rural de Santa Marta familiares despidieron a ‘La Bebecita’</title>
+      <link>https://caracol.com.co/2026/09/07/en-guachaca-zona-rural-de-santa-marta-familiares-despidieron-a-la-bebecita/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/en-guachaca-zona-rural-de-santa-marta-familiares-despidieron-a-la-bebecita/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sectores sin energía en Barranquilla este domingo, 6 de septiembre</title>
-      <link>https://caracol.com.co/2026/09/05/sectores-sin-energia-en-barranquilla-este-domingo-6-de-septiembre/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/sectores-sin-energia-en-barranquilla-este-domingo-6-de-septiembre/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Detonó artefacto explosivo en el sur de Bogotá: Policía adelanta investigaciones</title>
+      <link>https://caracol.com.co/2026/09/07/detono-artefacto-explosivo-en-el-sur-de-bogota-policia-adelanta-investigaciones/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/detono-artefacto-explosivo-en-el-sur-de-bogota-policia-adelanta-investigaciones/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Comunidades de Cajamarca amenazan con bloquear la vía hacia La Línea por trancones de hasta 10 horas</title>
-      <link>https://caracol.com.co/2026/09/04/comunidades-de-ibague-amenazan-con-bloquear-la-via-hacia-la-linea-por-trancones-de-hasta-10-horas/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/04/comunidades-de-ibague-amenazan-con-bloquear-la-via-hacia-la-linea-por-trancones-de-hasta-10-horas/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Ofensiva contra la extorsión en Bogotá: capturaron a 20 delincuentes, entre esos del Tren de Aragua</title>
+      <link>https://caracol.com.co/2026/09/07/ofensiva-contra-la-extorsion-en-bogota-capturaron-a-20-delincuentes-entre-esos-del-tren-de-aragua/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/ofensiva-contra-la-extorsion-en-bogota-capturaron-a-20-delincuentes-entre-esos-del-tren-de-aragua/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>En Bogotá se abre nueva convocatoria de Arrendamiento Temporal Solidario: conozca cómo participar</title>
-      <link>https://caracol.com.co/2026/09/05/en-bogota-se-abre-nueva-convocatoria-de-arrendamiento-temporal-solidario-conozca-como-participar/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/en-bogota-se-abre-nueva-convocatoria-de-arrendamiento-temporal-solidario-conozca-como-participar/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Murió Liliana Caballero, funcionaria del Distrito: Alcalde Galán envió condolencias</title>
+      <link>https://caracol.com.co/2026/09/07/murio-liliana-caballero-funcionaria-del-distrito-alcalde-galan-envio-condolencias/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/murio-liliana-caballero-funcionaria-del-distrito-alcalde-galan-envio-condolencias/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Concejo de Soacha actualizó el Plan de Ordenamiento Territorial tras 26 años</title>
-      <link>https://caracol.com.co/2026/09/05/concejo-de-soacha-actualizo-el-plan-de-ordenamiento-territorial-tras-26-anos/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/concejo-de-soacha-actualizo-el-plan-de-ordenamiento-territorial-tras-26-anos/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Vandalizan sede del ICBF en Bogotá en medio de protestas por la eliminación de la palabra “niñas”</title>
+      <link>https://caracol.com.co/2026/09/07/vandalizan-sede-del-icbf-en-bogota-en-medio-de-protestas-por-la-eliminacion-de-la-palabra-ninas/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/vandalizan-sede-del-icbf-en-bogota-en-medio-de-protestas-por-la-eliminacion-de-la-palabra-ninas/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pareja se hizo pasar por vidente para robar a una anciana en Bogotá: Policía recuperó pulsera de oro</title>
-      <link>https://caracol.com.co/2026/09/05/pareja-se-hizo-pasar-por-vidente-para-robar-a-una-anciana-en-bogota-policia-recupero-pulsera-de-oro/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/pareja-se-hizo-pasar-por-vidente-para-robar-a-una-anciana-en-bogota-policia-recupero-pulsera-de-oro/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Cayó una red que captaba a víctimas en Colombia para explotarlas laboralmente en España</title>
+      <link>https://caracol.com.co/2026/09/07/cayo-una-red-que-captaba-a-victimas-en-colombia-para-explotarlas-laboralmente-en-espana/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/cayo-una-red-que-captaba-a-victimas-en-colombia-para-explotarlas-laboralmente-en-espana/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Más de 30 personas fueron detenidas y 57 potenciales víctimas fueron liberadas.</description>
     </item>
     <item>
-      <title>Intervienen fachada de sindicato en Bogotá con 47 menores de edad: había drogas y armas</title>
-      <link>https://caracol.com.co/2026/09/05/intervienen-fachada-de-sindicato-en-bogota-con-47-menores-de-edad-habia-drogas-y-armas/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/intervienen-fachada-de-sindicato-en-bogota-con-47-menores-de-edad-habia-drogas-y-armas/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Mueren 11 alpinistas en una avalancha en el Cáucaso ruso</title>
+      <link>https://caracol.com.co/2026/09/07/mueren-11-alpinistas-en-una-avalancha-en-el-caucaso-ruso/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/mueren-11-alpinistas-en-una-avalancha-en-el-caucaso-ruso/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Putin recibe la propuesta de Trump para poner fin a la guerra en Ucrania</title>
-      <link>https://caracol.com.co/2026/09/06/putin-recibe-la-propuesta-de-trump-para-poner-fin-a-la-guerra-en-ucrania/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/putin-recibe-la-propuesta-de-trump-para-poner-fin-a-la-guerra-en-ucrania/</guid>
+      <title>La ONU pide esfuerzo internacional antes de que la IA más avanzada se vuelva incontrolable</title>
+      <link>https://caracol.com.co/2026/09/07/la-onu-pide-esfuerzo-internacional-antes-de-que-la-ia-mas-avanzada-se-vuelva-incontrolable/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/la-onu-pide-esfuerzo-internacional-antes-de-que-la-ia-mas-avanzada-se-vuelva-incontrolable/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 personas murieron tras ataques israelíes en el sur del Líbano</title>
+      <link>https://caracol.com.co/2026/09/07/11-personas-murieron-tras-ataques-israelies-en-el-sur-del-libano/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/11-personas-murieron-tras-ataques-israelies-en-el-sur-del-libano/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carín León hizo historia como primer latino en la Sphere y consiguió ‘sold-out’</title>
+      <link>https://caracol.com.co/2026/09/07/carin-leon-hizo-historia-como-primer-latino-en-el-sphere-y-consiguio-sold-out/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/carin-leon-hizo-historia-como-primer-latino-en-el-sphere-y-consiguio-sold-out/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>¿Cuál es la diferencia entre ‘migrante’, ‘emigrante’ e ‘inmigrante’? Definiciones, según expertos</title>
+      <link>https://caracol.com.co/2026/09/07/cual-es-la-diferencia-entre-migrante-emigrante-e-inmigrante-definiciones-segun-expertos/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/07/cual-es-la-diferencia-entre-migrante-emigrante-e-inmigrante-definiciones-segun-expertos/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chayanne regresa a Colombia, se presentará en Medellín en noviembre de 2026</title>
+      <link>https://caracol.com.co/2026/09/06/chayanne-regresa-a-colombia-se-presentara-en-medellin-en-noviembre-de-2026/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/chayanne-regresa-a-colombia-se-presentara-en-medellin-en-noviembre-de-2026/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Putin recibió en el Palacio del Kremlin a los enviados del presidente de Estados Unidos, Donald Trump, quien aseguró que estos llevaban a Moscú y a Kiev “una propuesta para poner fin a la guerra”.</description>
+      <description>El cantante puertorriqueño volverá a encontrarse con el público de Medellín después de siete años, como parte de su “Bailemos Otra Vez Tour”.</description>
     </item>
     <item>
-      <title>Explosión en cuartel militar en Bolivia deja dos muertos, 14 desaparecidos y 81 heridos</title>
-      <link>https://caracol.com.co/2026/09/05/explosion-en-cuartel-militar-en-bolivia-deja-dos-muertos-14-desaparecidos-y-81-heridos/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/explosion-en-cuartel-militar-en-bolivia-deja-dos-muertos-14-desaparecidos-y-81-heridos/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers publican 1,4 millones de datos, incluidos planes sensibles de Cancillería alemana</title>
-      <link>https://caracol.com.co/2026/09/05/hackers-publican-14-millones-de-datos-incluidos-planes-sensibles-de-cancilleria-alemana/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/hackers-publican-14-millones-de-datos-incluidos-planes-sensibles-de-cancilleria-alemana/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Presidente salvadoreño destaca evaluación de plan piloto con IA en escuelas públicas</title>
-      <link>https://caracol.com.co/2026/09/05/presidente-salvadoreno-destaca-evaluacion-de-plan-piloto-con-ia-en-escuelas-publicas/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/presidente-salvadoreno-destaca-evaluacion-de-plan-piloto-con-ia-en-escuelas-publicas/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SENA amplió el plazo de inscripción para la Cuarta Oferta 2026: fechas y programas disponibles</title>
-      <link>https://caracol.com.co/2026/09/06/sena-amplio-el-plazo-de-inscripcion-para-la-cuarta-oferta-2026-fechas-y-programas-disponibles/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/sena-amplio-el-plazo-de-inscripcion-para-la-cuarta-oferta-2026-fechas-y-programas-disponibles/</guid>
+      <title>Shakira hace historia en Billboard: ‘Dai Dai’ llega al No. 1 de Rhythmic Airplay</title>
+      <link>https://caracol.com.co/2026/09/06/shakira-hace-historia-en-billboard-dai-dai-llega-al-no-1-de-rhythmic-airplay/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/shakira-hace-historia-en-billboard-dai-dai-llega-al-no-1-de-rhythmic-airplay/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Resultados Lotería de Boyacá, Cauca y Baloto HOY sábado 5 de septiembre: sorteos y números ganadores</title>
-      <link>https://caracol.com.co/2026/09/06/resultados-loteria-de-boyaca-cauca-y-baloto-hoy-sabado-5-de-septiembre-sorteos-y-numeros-ganadores/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/resultados-loteria-de-boyaca-cauca-y-baloto-hoy-sabado-5-de-septiembre-sorteos-y-numeros-ganadores/</guid>
+      <title>Shakira alcanza los 1.000 millones de reproducciones con ‘Dai Dai’, el himno del Mundial</title>
+      <link>https://caracol.com.co/2026/09/06/shakira-alcanza-los-1000-millones-de-reproducciones-con-dai-dai-el-himno-del-mundial/</link>
+      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/shakira-alcanza-los-1000-millones-de-reproducciones-con-dai-dai-el-himno-del-mundial/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resultados sorteo de la Lotería de Boyacá de HOY 5 de septiembre 2026: premio mayor y ganadores</title>
-      <link>https://caracol.com.co/2026/09/06/reviva-el-sorteo-de-la-loteria-de-boyaca-de-hoy-5-de-septiembre-2026-premio-mayor-y-ganadores/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/06/reviva-el-sorteo-de-la-loteria-de-boyaca-de-hoy-5-de-septiembre-2026-premio-mayor-y-ganadores/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Vea el sorteo de la Lotería de Boyacá y no se pierda los números ganadores.</description>
-    </item>
-    <item>
-      <title>Maluma y Beyoncé sorprenden con nueva colaboración que rinde homenaje a Celia Cruz</title>
-      <link>https://caracol.com.co/2026/09/05/maluma-y-beyonce-sorprenden-con-nueva-colaboracion-que-rinde-homenaje-a-celia-cruz/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/maluma-y-beyonce-sorprenden-con-nueva-colaboracion-que-rinde-homenaje-a-celia-cruz/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cédulas que deben declarar renta la semana del 7 al 14 de septiembre 2026: calendario y plazos</title>
-      <link>https://caracol.com.co/2026/09/05/cedulas-que-deben-declarar-renta-la-semana-del-7-al-14-de-septiembre-2026-calendario-y-plazos/</link>
-      <guid isPermaLink="true">https://caracol.com.co/2026/09/05/cedulas-que-deben-declarar-renta-la-semana-del-7-al-14-de-septiembre-2026-calendario-y-plazos/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
