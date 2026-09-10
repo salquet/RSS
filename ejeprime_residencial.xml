@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:09:40 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El ICO da 31,8 millones para financiar 316 viviendas de alquiler asequible en Toledo</title>
+      <link>https://www.ejeprime.com/residencial/el-ico-aporta-318-millones-para-financiar-316-viviendas-de-alquiler-asequible-en-toledo</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-ico-aporta-318-millones-para-financiar-316-viviendas-de-alquiler-asequible-en-toledo</guid>
+      <pubDate>Thu, 10 Sep 2026 12:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Gobierno destaca que ya cumple las normas que aborda la Comisión Europea en vivienda</title>
+      <link>https://www.ejeprime.com/residencial/el-gobierno-destaca-que-ya-cumple-las-normas-que-aborda-la-comision-europea-en-vivienda</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-gobierno-destaca-que-ya-cumple-las-normas-que-aborda-la-comision-europea-en-vivienda</guid>
+      <pubDate>Wed, 09 Sep 2026 15:43:00 +0000</pubDate>
+      <description>La ministra Rodríguez presume del respaldo europeo a las zonas tensionadas, los suelos residenciales y el alquiler vacacional. Sin embargo, su aplicación obligatoria en los Estados miembros podría retrasarse hasta finales de 2027.</description>
+      <dc:creator>J. García</dc:creator>
+    </item>
     <item>
       <title>Europa autoriza a ayuntamientos a declarar zonas tensionadas y limitar alquileres turísticos</title>
       <link>https://www.ejeprime.com/residencial/europa-autoriza-a-ayuntamientos-a-declarar-zonas-tensionadas-y-limitar-alquileres-turisticos</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/europa-autoriza-a-ayuntamientos-a-declarar-zonas-tensionadas-y-limitar-alquileres-turisticos</guid>
-      <pubDate>Wed, 09 Sep 2026 12:14:58 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
+      <description>La Comisión ratifica un reglamento, Affordable Housing Act, que no interfiere en medidas adoptadas y deberá pasar el trámite del Parlamento y el Consejo antes de entrar en vigor sin necesidad de su trasposición a leyes nacionales.</description>
+      <dc:creator>M. Martínez García</dc:creator>
     </item>
     <item>
       <title>Ocho comunidades podrán emplear parte de su superávit para financiar inversiones en vivienda</title>
@@ -188,22 +204,6 @@
       <pubDate>Wed, 26 Aug 2026 15:52:00 +0000</pubDate>
       <description>La inversión dedicada a proyectos para el desarrollo de vivienda se estima en 216 millones de euros desde 2023, de los que 96 millones corresponden a vivienda pública protegida y 120 millones a promociones privadas de libre.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>La firma de hipotecas sobre viviendas despierta en junio al crecer el 10,8% interanual</title>
-      <link>https://www.ejeprime.com/residencial/la-firma-de-hipotecas-despierta-en-junio-al-crecer-el-108-interanual</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-firma-de-hipotecas-despierta-en-junio-al-crecer-el-108-interanual</guid>
-      <pubDate>Wed, 26 Aug 2026 09:05:00 +0000</pubDate>
-      <description>Los datos del INE avalan el mayor ritmo de aumento en un mes de junio desde 2010 hasta totalizar 45.907 préstamos, tras el retroceso del 0,1% de mayo. El importe medio subió en este caso, un 6% interanual, hasta los 178.365 euros.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Vía Célere ultima la venta de 1.400 viviendas BTR a Norges tras caer un 30% sus ingresos</title>
-      <link>https://www.ejeprime.com/residencial/via-celere-ultima-la-venta-de-1400-viviendas-btr-a-norges-tras-caer-un-30-sus-ingresos</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/via-celere-ultima-la-venta-de-1400-viviendas-btr-a-norges-tras-caer-un-30-sus-ingresos</guid>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
-      <description>La promotora controlada por Varde, Cbre GI y Cross Ocean y su socio Greystar negocian el traspaso de 18 edificios de pisos en alquiler valorados en 500 millones, tras cerrar su último ejercicio con una caída del beneficio del 20%.</description>
-      <dc:creator>Rocío Ruiz</dc:creator>
     </item>
   </channel>
 </rss>
