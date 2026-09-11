@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:07:40 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aedifica y Eurostate invierten 12,5 millones en una residencia de mayores en Alicante</title>
+      <link>https://www.ejeprime.com/residencial/aedifica-y-eurostate-invierten-125-millones-en-una-residencia-de-mayores-en-alicante</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/aedifica-y-eurostate-invierten-125-millones-en-una-residencia-de-mayores-en-alicante</guid>
+      <pubDate>Fri, 11 Sep 2026 12:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campamento logra la aprobación del Ayuntamiento de Madrid a su Junta de Compensación</title>
+      <link>https://www.ejeprime.com/residencial/campamento-logra-la-aprobacion-del-ayuntamiento-de-madrid-a-su-junta-de-compensacion</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/campamento-logra-la-aprobacion-del-ayuntamiento-de-madrid-a-su-junta-de-compensacion</guid>
+      <pubDate>Thu, 10 Sep 2026 17:37:00 +0000</pubDate>
+      <description>La junta de Gobierno municipal da el visto bueno a la constitución del órgano de gobierno del mayor desarrollo residencial público actualmente en marcha en España donde Casa 47 tiene previsto construir 10.700 viviendas asequibles.</description>
+      <dc:creator>EjePrime</dc:creator>
+    </item>
     <item>
       <title>El ICO da 31,8 millones para financiar 316 viviendas de alquiler asequible en Toledo</title>
       <link>https://www.ejeprime.com/residencial/el-ico-aporta-318-millones-para-financiar-316-viviendas-de-alquiler-asequible-en-toledo</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-ico-aporta-318-millones-para-financiar-316-viviendas-de-alquiler-asequible-en-toledo</guid>
-      <pubDate>Thu, 10 Sep 2026 12:09:40 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 13:30:00 +0000</pubDate>
+      <description>El proyecto prevé una inversión total cercana a los 49,7 millones de euros, se levantará sobre una parcela de titularidad pública adjudicada a Clibeal 2030, mediante cesión del derecho de superficie por un plazo de 75 años.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>El Gobierno destaca que ya cumple las normas que aborda la Comisión Europea en vivienda</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-compraventa-de-viviendas-cae-un-4-interanual-en-junio-segun-los-notarios</guid>
       <pubDate>Thu, 27 Aug 2026 09:22:00 +0000</pubDate>
       <description>En el sexto mes de 2026 se registraron de 67.529 operaciones, mientras que la firma de préstamos hipotecarios para la compra crecieron el 0,2%, hasta alcanzar las 36.249 firmas, lo que representa el 54% de las adquisiciones.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Bbva alerta: más de 80.000 nuevas viviendas previstas dependen de ampliar la red eléctrica</title>
-      <link>https://www.ejeprime.com/residencial/bbva-alerta-mas-de-80000-nuevas-viviendas-previstas-dependen-de-ampliar-la-red-electrica</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/bbva-alerta-mas-de-80000-nuevas-viviendas-previstas-dependen-de-ampliar-la-red-electrica</guid>
-      <pubDate>Wed, 26 Aug 2026 16:23:00 +0000</pubDate>
-      <description>El servicio de estudios de la entidad recuerda que España dispone de capacidad eléctrica suficiente pero no siempre se localiza donde existe mayor demanda residencial y pone el foco en Madrid, Valencia, Alicante, Sevilla y Murcia.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Boadilla del Monte dispara la inversión en residencial hasta los 216 millones</title>
-      <link>https://www.ejeprime.com/residencial/boadilla-dispara-la-inversion-en-residencial-hasta-los-216-millones-de-euros</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/boadilla-dispara-la-inversion-en-residencial-hasta-los-216-millones-de-euros</guid>
-      <pubDate>Wed, 26 Aug 2026 15:52:00 +0000</pubDate>
-      <description>La inversión dedicada a proyectos para el desarrollo de vivienda se estima en 216 millones de euros desde 2023, de los que 96 millones corresponden a vivienda pública protegida y 120 millones a promociones privadas de libre.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
