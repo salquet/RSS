@@ -5,7 +5,7 @@
     <link>https://observatorioinmobiliario.es/</link>
     <description>Noticias del mercado inmobiliario - Observatorio Inmobiliario</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:33:20 +0000</lastBuildDate>
     <atom:link href="https://observatorioinmobiliario.es/" rel="self" type="application/rss+xml" />
     <item>
       <title>Hotei vende a GS Bacares el hotel Nômade Madrid por 105 millones</title>
@@ -20,6 +20,18 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Aedifica invertirá 12,5 millones en un activo de healthcare en Gandía</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/aedifica-invertir%C3%A1-125-millones-en-un-activo-de-healthcare-en-gand%C3%ADa/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/aedifica-invertir%C3%A1-125-millones-en-un-activo-de-healthcare-en-gand%C3%ADa/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SmartRental operará la residencia y el coliving de Celta360</title>
+      <link>https://observatorioinmobiliario.es/noticias/residencial/smartrental-operar%C3%A1-la-residencia-y-el-coliving-de-celta360/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/smartrental-operar%C3%A1-la-residencia-y-el-coliving-de-celta360/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Homming prevé alcanzar las 120.000 unidades de alquiler gestionadas en 2026</title>
       <link>https://observatorioinmobiliario.es/noticias/residencial/homming-prev%C3%A9-alcanzar-las-120000-unidades-de-alquiler-gestionadas-en-2026/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/homming-prev%C3%A9-alcanzar-las-120000-unidades-de-alquiler-gestionadas-en-2026/</guid>
@@ -29,18 +41,6 @@
       <title>Premier entrega 13 chalets en Pozuelo de Alarcón</title>
       <link>https://observatorioinmobiliario.es/noticias/residencial/premier-entrega-13-chalets-en-pozuelo-de-alarcon-2/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/premier-entrega-13-chalets-en-pozuelo-de-alarcon-2/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LRI21 sitúa a David Ares al frente de su área de retail en España</title>
-      <link>https://observatorioinmobiliario.es/noticias/nombramientos/lri21-sit%C3%BAa-a-david-ares-al-frente-de-su-%C3%A1rea-de-retail-en-espa%C3%B1a/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/nombramientos/lri21-sit%C3%BAa-a-david-ares-al-frente-de-su-%C3%A1rea-de-retail-en-espa%C3%B1a/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Árima vende a Arkéa una nave logística en Madrid por 28,1 millones de euros</title>
-      <link>https://observatorioinmobiliario.es/noticias/logistica/%C3%A1rima-vende-a-ark%C3%A9a-una-nave-log%C3%ADstica-en-madrid-por-281-millones-de-euros/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/logistica/%C3%A1rima-vende-a-ark%C3%A9a-una-nave-log%C3%ADstica-en-madrid-por-281-millones-de-euros/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -86,12 +86,6 @@
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Franklin Templeton compra una participación mayoritaria en Stoneshield Capital</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/franklin-templeton-compra-una-participaci%C3%B3n-mayoritaria-en-stoneshield-capital/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/franklin-templeton-compra-una-participaci%C3%B3n-mayoritaria-en-stoneshield-capital/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La disponibilidad en el high street de Zaragoza baja al 8%</title>
       <link>https://observatorioinmobiliario.es/noticias/retail/la-disponibilidad-en-el-high-street-de-zaragoza-baja-al-8/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/retail/la-disponibilidad-en-el-high-street-de-zaragoza-baja-al-8/</guid>
@@ -110,12 +104,6 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Madrid aprueba la constitución de la Junta de Compensación de Campamento</title>
-      <link>https://observatorioinmobiliario.es/noticias/residencial/madrid-aprueba-la-constituci%C3%B3n-de-la-junta-de-compensaci%C3%B3n-de-campamento/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/madrid-aprueba-la-constituci%C3%B3n-de-la-junta-de-compensaci%C3%B3n-de-campamento/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Silex vende un edificio de 27 apartamentos turísticos en Madrid</title>
       <link>https://observatorioinmobiliario.es/noticias/hoteles/silex-vende-un-edificio-de-27-apartamentos-tur%C3%ADsticos-en-madrid/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/silex-vende-un-edificio-de-27-apartamentos-tur%C3%ADsticos-en-madrid/</guid>
@@ -126,6 +114,12 @@
       <link>https://observatorioinmobiliario.es/noticias/hoteles/bb-hotels-ampl%C3%ADa-su-cartera-en-salamanca/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/bb-hotels-ampl%C3%ADa-su-cartera-en-salamanca/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Árima vende a Arkéa una nave logística en Madrid por 28,1 millones de euros</title>
+      <link>https://observatorioinmobiliario.es/noticias/logistica/%C3%A1rima-vende-a-ark%C3%A9a-una-nave-log%C3%ADstica-en-madrid-por-281-millones-de-euros/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/logistica/%C3%A1rima-vende-a-ark%C3%A9a-una-nave-log%C3%ADstica-en-madrid-por-281-millones-de-euros/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Davidson Kempner, ECS y Magna crean una joint venture logística en Iberia</title>
