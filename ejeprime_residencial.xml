@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:48:47 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naiz Homes cierra la compra de un nuevo suelo residencial en Zaragoza</title>
+      <link>https://www.ejeprime.com/residencial/naiz-homes-cierra-la-compra-de-un-nuevo-suelo-residencial-en-zaragoza</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/naiz-homes-cierra-la-compra-de-un-nuevo-suelo-residencial-en-zaragoza</guid>
+      <pubDate>Mon, 14 Sep 2026 13:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>La producción de la construcción cae el 9,8% en julio y acumula siete meses de deterioro</title>
+      <link>https://www.ejeprime.com/residencial/la-produccion-de-la-construccion-cae-el-98-en-julio-y-acumula-7-meses-de-deterioro</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-produccion-de-la-construccion-cae-el-98-en-julio-y-acumula-7-meses-de-deterioro</guid>
+      <pubDate>Mon, 14 Sep 2026 09:59:00 +0000</pubDate>
+      <description>Este comportamiento es el resultado del desplome de la construcción de edificios en un 35,2% interanual, junto a la caída del 4,6% en el sector de ingeniería civil. La producción especializada moderó su deterioro hasta el 0,8%.</description>
+      <dc:creator>EjePrime</dc:creator>
+    </item>
     <item>
       <title>El Gobierno financiará con 200 millones a promotores para hacer viviendas en suelos de Casa 47</title>
       <link>https://www.ejeprime.com/residencial/el-gobierno-financiara-con-200-millones-a-promotores-para-hacer-viviendas-en-suelos-de-casa-47</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-gobierno-financiara-con-200-millones-a-promotores-para-hacer-viviendas-en-suelos-de-casa-47</guid>
-      <pubDate>Sun, 13 Sep 2026 12:38:53 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 15:20:00 +0000</pubDate>
+      <description>El Ejecutivo amplía de los 50.000 euros por piso que ofrecía a través de los fondos Next Gen hasta más de 83.000 euros para la promoción de vivienda en alquiler asequible en terrenos que licitará a través de concesión pública.</description>
+      <dc:creator>R. Ruiz</dc:creator>
     </item>
     <item>
       <title>El euríbor anticipa el mayor alza de hipotecas en tres años tras la subida de tipos del BCE</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/leire-iglesias-nueva-secretaria-de-estado-de-vivienda-y-maribel-ramos-presidenta-de-casa-47</guid>
       <pubDate>Tue, 01 Sep 2026 16:05:00 +0000</pubDate>
       <description>El Ministerio liderado por Isabel Rodríguez escoge a la hasta ahora responsable de la entidad pública de vivienda como nueva número dos y promociona a la hasta ahora directora general del área de Vivienda Asequible como sustituta.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El Mivau destina 45 millones a 1.525 unidades de alojamiento asequible para universitarios</title>
-      <link>https://www.ejeprime.com/residencial/el-mivau-destina-45-millones-a-1525-unidades-de-alojamiento-asequible-para-universitarios</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-mivau-destina-45-millones-a-1525-unidades-de-alojamiento-asequible-para-universitarios</guid>
-      <pubDate>Mon, 31 Aug 2026 19:20:00 +0000</pubDate>
-      <description>La iniciativa se enmarca en el Plan Estatal de Vivienda 2026-2030 y supone financiación directa a seis universidades y un Ayuntamiento con proyectos viables a corto plazo. Casi todas las actuaciones se ubican en suelos públicos.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Las compraventas de viviendas caen un 5,7% en el segundo trimestre, según registradores</title>
-      <link>https://www.ejeprime.com/residencial/las-compraventas-de-vivienda-descendieron-un-57-en-el-ultimo-trimestre-segun-registradores</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/las-compraventas-de-vivienda-descendieron-un-57-en-el-ultimo-trimestre-segun-registradores</guid>
-      <pubDate>Fri, 28 Aug 2026 11:35:00 +0000</pubDate>
-      <description>El precio de los inmuebles residenciales alcanzó un nuevo máximo histórico al situarse de media en 2.487 euros por metro cuadrado, al igual que las adquisiciones realizadas por extranjeros, que representaron el 15,98% del total.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
