@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:49:51 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El FC Barcelona vende sus terrenos en Can Rigalt para levantar 378 viviendas</title>
+      <link>https://www.ejeprime.com/residencial/el-fc-barcelona-vende-sus-terrenos-en-can-rigalt-para-levantar-378-viviendas</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-fc-barcelona-vende-sus-terrenos-en-can-rigalt-para-levantar-378-viviendas</guid>
+      <pubDate>Mon, 21 Sep 2026 13:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Culmia y Meag crean una Socimi para impulsar su plataforma de vivienda asequible</title>
+      <link>https://www.ejeprime.com/residencial/culmia-y-meag-crean-una-socimi-para-impulsar-su-plataforma-de-vivienda-asequible</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/culmia-y-meag-crean-una-socimi-para-impulsar-su-plataforma-de-vivienda-asequible</guid>
+      <pubDate>Mon, 21 Sep 2026 05:00:00 +0000</pubDate>
+      <description>La promotora de Oaktree y el fondo de infraestructuras han constituido un vehículo a través del que gestionar los proyectos, concesiones y derechos de superficie que tienen. En total, 2.500 pisos asequibles en Valencia y Madrid.</description>
+      <dc:creator>Rocío Ruiz</dc:creator>
+    </item>
     <item>
       <title>Las 532 viviendas de Ca n’Escandell empezarán a construirse en 2027, asegura Vivienda</title>
       <link>https://www.ejeprime.com/residencial/las-532-viviendas-de-ca-nescandell-empezaran-a-construirse-en-2027-asegura-vivienda</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/las-532-viviendas-de-ca-nescandell-empezaran-a-construirse-en-2027-asegura-vivienda</guid>
-      <pubDate>Sun, 20 Sep 2026 12:11:27 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 10:28:00 +0000</pubDate>
+      <description>Casa 47 levantará 362 viviendas en dos de las parcelas de la actuación que son de su propiedad, y colaborará con las administraciones local y autonómica para desarrollar las 170 restantes de otro solar con un 60% de la propiedad.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Merkel vende tres Pbsa con 1.400 camas al fondo Westwind Capital</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/ocho-comunidades-podran-emplear-parte-de-su-superavit-para-financiar-inversiones-en-vivienda</guid>
       <pubDate>Wed, 09 Sep 2026 10:02:00 +0000</pubDate>
       <description>Con el objetivo de reducir la falta de pisos, el Gobierno aprueba un real decreto que abre esta vía por la que podrán utilizar este excedente de sus cuentas para la financiación de inversiones sostenibles en 2026 y 2027.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>La Ley de Vivienda de la UE permitirá a ayuntamientos y CCAA limitar los alquileres turísticos</title>
-      <link>https://www.ejeprime.com/residencial/la-ley-de-vivienda-de-la-ue-permitira-a-ayuntamientos-y-ccaa-limitar-los-alquileres-turisticos</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-ley-de-vivienda-de-la-ue-permitira-a-ayuntamientos-y-ccaa-limitar-los-alquileres-turisticos</guid>
-      <pubDate>Tue, 08 Sep 2026 18:10:00 +0000</pubDate>
-      <description>La Comisión Europea presenta el miércoles la normativa, que no entra a regular los precios de los arrendamientos pero sí posibilita a administraciones locales y regionales prohibir esta modalidad si se cumplen varios requisitos.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Talvion desarrollará un complejo de ‘healthcare’ en Gandía (Valencia) con 160 plazas</title>
-      <link>https://www.ejeprime.com/residencial/talvion-desarrollara-un-complejo-de-healthcare-en-gandia-valencia-con-160-plazas</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/talvion-desarrollara-un-complejo-de-healthcare-en-gandia-valencia-con-160-plazas</guid>
-      <pubDate>Tue, 08 Sep 2026 12:55:00 +0000</pubDate>
-      <description>La infraestructura, de casi 7.500 metros cuadrados y que integra residencia de mayores y de salud mental, inicia su ejecución tras completar los trámites urbanísticos y ambientales. Novaedat se hará cargo de su gestión operativa.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
