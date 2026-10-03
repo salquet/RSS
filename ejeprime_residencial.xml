@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:23:19 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Congreso rechaza los dos reales decretos de medidas para regular el mercado de la vivienda</title>
+      <link>https://www.ejeprime.com/residencial/el-congreso-rechaza-los-dos-reales-decretos-de-medidas-para-regular-el-mercado-de-la-vivienda</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-congreso-rechaza-los-dos-reales-decretos-de-medidas-para-regular-el-mercado-de-la-vivienda</guid>
+      <pubDate>Sat, 03 Oct 2026 12:23:19 +0000</pubDate>
+    </item>
     <item>
       <title>Cuerpo avanza 34 proyectos de alquiler asequible vinculados a España Crece por 700 millones</title>
       <link>https://www.ejeprime.com/residencial/cuerpo-avanza-34-proyectos-de-alquiler-asequible-vinculados-a-espana-crece-por-700-millones</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/cuerpo-avanza-34-proyectos-de-alquiler-asequible-vinculados-a-espana-crece-por-700-millones</guid>
-      <pubDate>Fri, 02 Oct 2026 13:43:57 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 11:44:00 +0000</pubDate>
+      <description>El titular de Economía ha afirmado que el objetivo es diseñar los instrumentos para canalizar la financiación y anticipar el trabajo para que los proyectos puedan empezar a ejecutarse, además elogiar la recepción de los fondos.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Fitch no prevé que las medidas del Gobierno corrijan el desequilibrio del mercado inmobiliario</title>
@@ -196,14 +204,6 @@
       <pubDate>Wed, 23 Sep 2026 16:35:00 +0000</pubDate>
       <description>La sociedad conjunta amplía sus inversiones con la adquisición de Vía Lusitana 21 para transformarlo en 162 viviendas. Dazia participará como coinversor y asumirá la gestión y promoción del proyecto, a través de Darya Homes.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El Banco de España pide políticas de oferta eficaces ante el aumento de precios de la vivienda</title>
-      <link>https://www.ejeprime.com/residencial/el-banco-de-espana-pide-politicas-de-oferta-eficaces-ante-el-aumento-de-precios-de-la-vivienda</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-banco-de-espana-pide-politicas-de-oferta-eficaces-ante-el-aumento-de-precios-de-la-vivienda</guid>
-      <pubDate>Wed, 23 Sep 2026 14:08:00 +0000</pubDate>
-      <description>Mientras que la renta real disponible de los hogares se ha multiplicado por 1,8 en España desde 1980, frente al 1,6 en la Unión Monetaria Europea (UEM), los precios reales de la vivienda se han revalorizado hasta por 3,5.</description>
-      <dc:creator>J. G.</dc:creator>
     </item>
   </channel>
 </rss>
