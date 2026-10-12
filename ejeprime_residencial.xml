@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:38:12 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patrizia anuncia una inversión de más de 1.100 millones para vivienda asequible en Reino Unido</title>
+      <link>https://www.ejeprime.com/residencial/patrizia-movilizara-1181-millones-para-impulsar-la-vivienda-asequible-en-reino-unido</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/patrizia-movilizara-1181-millones-para-impulsar-la-vivienda-asequible-en-reino-unido</guid>
+      <pubDate>Mon, 12 Oct 2026 16:38:12 +0000</pubDate>
+    </item>
     <item>
       <title>El Banco de España alerta de que la inversión residencial crece menos de lo previsto</title>
       <link>https://www.ejeprime.com/residencial/el-banco-de-espana-alerta-de-que-la-inversion-residencial-crece-menos-de-lo-previsto</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-banco-de-espana-alerta-de-que-la-inversion-residencial-crece-menos-de-lo-previsto</guid>
-      <pubDate>Sun, 11 Oct 2026 13:53:28 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
+      <description>Señala como principales factores que están limitando la producción de vivienda a las dificultades en el acceso y conexión a la red eléctrica de muchas promociones, los costes productivos, así como a la falta de mano de obra.</description>
+      <dc:creator>J. García</dc:creator>
     </item>
     <item>
       <title>Atitlan confirma su apuesta por el residencial valenciano con un nuevo proyecto junto a Éfer</title>
@@ -195,14 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-congreso-rechaza-los-dos-reales-decretos-de-medidas-para-regular-el-mercado-de-la-vivienda</guid>
       <pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
       <description>El resultado de la votación supone su derogación tras poco más de 24 horas de vigencia. PP, Vox, Junts y UPN han votado en contra de ambas propuestas, mientras que PNV y CC han dado su ‘no’ a la segunda tras apoyar la primera.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Cuerpo avanza 34 proyectos de alquiler asequible vinculados a España Crece por 700 millones</title>
-      <link>https://www.ejeprime.com/residencial/cuerpo-avanza-34-proyectos-de-alquiler-asequible-vinculados-a-espana-crece-por-700-millones</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/cuerpo-avanza-34-proyectos-de-alquiler-asequible-vinculados-a-espana-crece-por-700-millones</guid>
-      <pubDate>Fri, 02 Oct 2026 11:44:00 +0000</pubDate>
-      <description>El titular de Economía ha afirmado que el objetivo es diseñar los instrumentos para canalizar la financiación y anticipar el trabajo para que los proyectos puedan empezar a ejecutarse, además elogiar la recepción de los fondos.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
