@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:13:21 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
     <item>
-      <title>Culmia traspasa suelos para 900 viviendas a una joint venture liderada por Cross Ocean</title>
-      <link>https://www.ejeprime.com/residencial/culmia-traspasa-suelos-para-900-viviendas-a-una-joint-venture-liderada-por-cross-ocean</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/culmia-traspasa-suelos-para-900-viviendas-a-una-joint-venture-liderada-por-cross-ocean</guid>
-      <pubDate>Thu, 15 Oct 2026 12:33:37 +0000</pubDate>
+      <title>La incertidumbre regulatoria y política llega al ‘flex living’, que frena sus inversiones</title>
+      <link>https://www.ejeprime.com/residencial/la-incertidumbre-regulatoria-y-politica-se-traslada-al-flex-living-que-frena-sus-inversiones</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-incertidumbre-regulatoria-y-politica-se-traslada-al-flex-living-que-frena-sus-inversiones</guid>
+      <pubDate>Fri, 16 Oct 2026 12:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Diputación Permanente del Congreso votará los decretos de vivienda más cerca de elecciones</title>
+      <link>https://www.ejeprime.com/residencial/la-diputacion-permanente-del-congreso-votara-los-decretos-de-vivienda-mas-cerca-de-elecciones</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-diputacion-permanente-del-congreso-votara-los-decretos-de-vivienda-mas-cerca-de-elecciones</guid>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
+      <description>El orden del día de la reunión de este viernes incluye someter a la aprobación de este órgano extraordinario que funciona con las Cortes disueltas solo las medidas frente a la Dana y la prórroga de ayudas por la crisis de Irán.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>La compraventa de vivienda por parte extranjeros cae un 13% en España, según los notarios</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 06 Oct 2026 13:40:00 +0000</pubDate>
       <description>El presidente del Gobierno compareció tras el Consejo de Ministros para desgranar algunas de las 21 medidas que se recogen en los nuevos textos de los decretos de vivienda. Señaló que mantiene la esencia de la primera redacción.</description>
       <dc:creator>J. García</dc:creator>
-    </item>
-    <item>
-      <title>DWS adquiere Palm Studios, una residencia de estudiantes en Sevilla, a LaSalle Investment</title>
-      <link>https://www.ejeprime.com/residencial/dws-adquiere-palm-studios-una-residencia-de-estudiantes-en-sevilla</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/dws-adquiere-palm-studios-una-residencia-de-estudiantes-en-sevilla</guid>
-      <pubDate>Tue, 06 Oct 2026 12:50:00 +0000</pubDate>
-      <description>La operación, que se ha llevado a cabo a través de uno de sus fondos inmobiliarios institucionales, se ha convertido en la primera inversión de la firma en el segmento Pbsa en España. El activo cuenta con un total de 544 camas.</description>
-      <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
 </rss>
