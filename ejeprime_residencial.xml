@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:30:37 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El precio de la vivienda aumenta un 14,2% interanual en septiembre, según Tinsa</title>
+      <link>https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</guid>
+      <pubDate>Sat, 17 Oct 2026 11:30:37 +0000</pubDate>
+    </item>
     <item>
       <title>La incertidumbre regulatoria y política llega al ‘flex living’, que frena sus inversiones</title>
       <link>https://www.ejeprime.com/residencial/la-incertidumbre-regulatoria-y-politica-se-traslada-al-flex-living-que-frena-sus-inversiones</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-incertidumbre-regulatoria-y-politica-se-traslada-al-flex-living-que-frena-sus-inversiones</guid>
-      <pubDate>Fri, 16 Oct 2026 12:13:21 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+      <description>El sector advierte de una salida de inversores, ante la desconfianza que está afectando también a un buen número de operaciones que estaban previstas y que ahora permanecen en stand by. Piden seguridad jurídica en el largo plazo.</description>
+      <dc:creator>J. García</dc:creator>
     </item>
     <item>
       <title>La Diputación Permanente del Congreso votará los decretos de vivienda más cerca de elecciones</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 06 Oct 2026 17:50:00 +0000</pubDate>
       <description>Advierte de que la nueva aprobación aboca a un escenario en el que la incertidumbre condicionará la disponibilidad de vivienda e insiste en la necesidad de analizar por qué las políticas aplicadas no han logrado mejorar el acceso.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El Gobierno moviliza 10.000 millones de euros para la compra de la primera vivienda</title>
-      <link>https://www.ejeprime.com/residencial/el-gobierno-moviliza-10000-millones-de-euros-para-la-compra-de-la-primera-vivienda</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-gobierno-moviliza-10000-millones-de-euros-para-la-compra-de-la-primera-vivienda</guid>
-      <pubDate>Tue, 06 Oct 2026 13:40:00 +0000</pubDate>
-      <description>El presidente del Gobierno compareció tras el Consejo de Ministros para desgranar algunas de las 21 medidas que se recogen en los nuevos textos de los decretos de vivienda. Señaló que mantiene la esencia de la primera redacción.</description>
-      <dc:creator>J. García</dc:creator>
     </item>
   </channel>
 </rss>
