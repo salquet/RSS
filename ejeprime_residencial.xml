@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:31:33 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La oferta de alquiler sigue cayendo y podría perder el 2,27%, unas 7.705 viviendas este año</title>
+      <link>https://www.ejeprime.com/residencial/la-oferta-de-alquiler-sigue-cayendo-y-podria-perder-el-227-unas-7705-viviendas-este-ano</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-oferta-de-alquiler-sigue-cayendo-y-podria-perder-el-227-unas-7705-viviendas-este-ano</guid>
+      <pubDate>Mon, 19 Oct 2026 14:31:33 +0000</pubDate>
+    </item>
     <item>
       <title>El precio de la vivienda aumenta un 14,2% interanual en septiembre, según Tinsa</title>
       <link>https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</guid>
-      <pubDate>Sun, 18 Oct 2026 12:00:07 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 09:15:00 +0000</pubDate>
+      <description>Las viviendas situadas en la costa mediterránea son las que han sufrido un mayor incremento interanual en sus precios, alcanzando un 17,2%, seguido muy de cerca por las áreas metropolitanas con un 16,6% y las islas el 15,2%.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>La incertidumbre regulatoria y política llega al ‘flex living’, que frena sus inversiones</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 06 Oct 2026 18:00:00 +0000</pubDate>
       <description>El nuevo texto introduce las entidades que cuenten con la condición de gran tenedor de inmuebles. Mantiene el límite del 70% del valor de mercado e incluye la participación de una tasadora homologada independiente de las partes.</description>
       <dc:creator>J. García</dc:creator>
-    </item>
-    <item>
-      <title>El sector se muestra preocupado por la reactivación de los decretos y pide normas “duraderas”</title>
-      <link>https://www.ejeprime.com/residencial/el-sector-se-muestra-preocupado-por-la-reactivacion-de-los-decretos-y-pide-normas-duraderas</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-sector-se-muestra-preocupado-por-la-reactivacion-de-los-decretos-y-pide-normas-duraderas</guid>
-      <pubDate>Tue, 06 Oct 2026 17:50:00 +0000</pubDate>
-      <description>Advierte de que la nueva aprobación aboca a un escenario en el que la incertidumbre condicionará la disponibilidad de vivienda e insiste en la necesidad de analizar por qué las políticas aplicadas no han logrado mejorar el acceso.</description>
-      <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
 </rss>
