@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:49:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:52:52 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Ayuntamiento de Madrid licitará suelos para 700 viviendas en alquiler con opción a compra</title>
+      <link>https://www.ejeprime.com/residencial/el-ayuntamiento-de-madrid-licitara-suelos-para-700-viviendas-en-alquiler-con-opcion-a-compra</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-ayuntamiento-de-madrid-licitara-suelos-para-700-viviendas-en-alquiler-con-opcion-a-compra</guid>
+      <pubDate>Thu, 22 Oct 2026 12:52:52 +0000</pubDate>
+    </item>
     <item>
       <title>Euskadi compra 510 viviendas protegidas a Testa, la Socimi de Blackstone</title>
       <link>https://www.ejeprime.com/residencial/euskadi-anuncia-un-acuerdo-para-comprar-510-viviendas-a-testa-la-socimi-de-blackstone</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/euskadi-anuncia-un-acuerdo-para-comprar-510-viviendas-a-testa-la-socimi-de-blackstone</guid>
-      <pubDate>Wed, 21 Oct 2026 12:49:57 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 10:47:00 +0000</pubDate>
+      <description>El Ejecutivo del País Vasco ha llegado a un acuerdo con la compañía del fondo estadounidense para adquirir este medio millar de pisos destinados al alquiler cuyo régimen de protección oficial terminaba a finales de 2028.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Los decretos de vivienda favorecerán a los actuales inquilinos frente a los propietarios</title>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
       <description>El sector residencial pone en valor su rol en la creación de vivienda, exige reglas de juego estables al Ejecutivo y alerta de que el nuevo marco regulatorio tras los reales decretos expulsa al capital del alquiler asequible.</description>
       <dc:creator>Rocío Ruiz</dc:creator>
-    </item>
-    <item>
-      <title>Casa 47 pide al Ayuntamiento de Valencia licencia para construir 47 nuevas viviendas</title>
-      <link>https://www.ejeprime.com/residencial/casa-47-pide-al-ayuntamiento-de-valencia-licencia-para-construir-47-nuevas-viviendas</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/casa-47-pide-al-ayuntamiento-de-valencia-licencia-para-construir-47-nuevas-viviendas</guid>
-      <pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
-      <description>La entidad pública solicita el permiso de obras al Consistorio de la capital levantina para estas unidades residenciales destinadas al alquiler asequible, que se sumarán a las 62 que ya fueron adjudicadas el pasado julio.</description>
-      <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
 </rss>
