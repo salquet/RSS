@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:52:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:31:20 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De Puertollano a Calviá: la brecha de pagar de 50.000 a un millón de euros por una vivienda</title>
+      <link>https://www.ejeprime.com/residencial/de-puertollano-a-calvia-la-brecha-de-pagar-de-50000-a-un-millon-de-euros-por-una-vivienda</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/de-puertollano-a-calvia-la-brecha-de-pagar-de-50000-a-un-millon-de-euros-por-una-vivienda</guid>
+      <pubDate>Fri, 23 Oct 2026 12:31:20 +0000</pubDate>
+    </item>
     <item>
       <title>El Ayuntamiento de Madrid licitará suelos para 700 viviendas en alquiler con opción a compra</title>
       <link>https://www.ejeprime.com/residencial/el-ayuntamiento-de-madrid-licitara-suelos-para-700-viviendas-en-alquiler-con-opcion-a-compra</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-ayuntamiento-de-madrid-licitara-suelos-para-700-viviendas-en-alquiler-con-opcion-a-compra</guid>
-      <pubDate>Thu, 22 Oct 2026 12:52:52 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+      <description>La renta asequible de un modelo tipo de tres dormitorios y 90 metros construidos se situaría entorno a los 949,5 euros al mes, las actualizaciones de precios no podrán pasar el 2% y podrán comprarse transcurridos los siete años.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Euskadi compra 510 viviendas protegidas a Testa, la Socimi de Blackstone</title>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 08 Oct 2026 11:11:00 +0000</pubDate>
       <description>El Ayuntamiento de la capital aprueba dos planes especiales para construir VPO en alquiler y otras modalidades de hospedaje en más de 240 parcelas de uso industrial donde antes solo se permitían hoteles situadas en ocho distritos.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Promotores e inversores reivindican su papel en vivienda: “No soy un fondo buitre”</title>
-      <link>https://www.ejeprime.com/residencial/promotores-e-inversores-reivindican-su-papel-en-vivienda-no-soy-un-fondo-buitre</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/promotores-e-inversores-reivindican-su-papel-en-vivienda-no-soy-un-fondo-buitre</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <description>El sector residencial pone en valor su rol en la creación de vivienda, exige reglas de juego estables al Ejecutivo y alerta de que el nuevo marco regulatorio tras los reales decretos expulsa al capital del alquiler asequible.</description>
-      <dc:creator>Rocío Ruiz</dc:creator>
     </item>
   </channel>
 </rss>
