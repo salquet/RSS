@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:55:27 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cerezo y Gil Marín compran el edificio Anaya para impulsar un nuevo proyecto de ‘flex living’</title>
+      <link>https://www.ejeprime.com/residencial/cerezo-y-gil-compran-el-edificio-anaya-para-impulsar-un-nuevo-proyecto-de-flex-living</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/cerezo-y-gil-compran-el-edificio-anaya-para-impulsar-un-nuevo-proyecto-de-flex-living</guid>
+      <pubDate>Sat, 24 Oct 2026 11:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consumo exige a dos plataformas la retirada de 8.300 anuncios de alojamientos turísticos</title>
+      <link>https://www.ejeprime.com/residencial/consumo-exige-a-dos-plataformas-la-retirada-de-8300-anuncios-de-alojamientos-turisticos</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/consumo-exige-a-dos-plataformas-la-retirada-de-8300-anuncios-de-alojamientos-turisticos</guid>
+      <pubDate>Fri, 23 Oct 2026 09:12:00 +0000</pubDate>
+      <description>El ministerio advierte que estos anuncios son ilícitos por publicitar viviendas turísticas como alojamientos de temporada, una condición que permite realizar reservas por menos de 31 días, incumpliendo las nuevas regulaciones.</description>
+      <dc:creator>EjePrime</dc:creator>
+    </item>
     <item>
       <title>De Puertollano a Calviá: la brecha de pagar de 50.000 a un millón de euros por una vivienda</title>
       <link>https://www.ejeprime.com/residencial/de-puertollano-a-calvia-la-brecha-de-pagar-de-50000-a-un-millon-de-euros-por-una-vivienda</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/de-puertollano-a-calvia-la-brecha-de-pagar-de-50000-a-un-millon-de-euros-por-una-vivienda</guid>
-      <pubDate>Fri, 23 Oct 2026 12:31:20 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+      <description>La ciudad manchega cierra el ránking con el menor precio medio de venta, unos 58.000 euros, mientras que la localidad balear lo lidera con cerca de un millón. Madrid concentra 14 barrios con los mayores costes por metro cuadrado.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>El Ayuntamiento de Madrid licitará suelos para 700 viviendas en alquiler con opción a compra</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-construccion-de-vpo-se-acelera-hasta-11270-unidades-en-el-primer-semestre</guid>
       <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
       <description>Las comunidades de Madrid y Cataluña acaparan el 73% de las nuevas viviendas protegidas calificadas hasta junio. Dentro de esta tipología, destaca la destinada al alquiler asequible, que se ha triplicado, frente a la de propiedad.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El segmento ‘prime’ madrileño aumenta sus precios un 9% y pierde accesibilidad respecto a 2025</title>
-      <link>https://www.ejeprime.com/residencial/el-segmento-prime-madrileno-aumenta-sus-precios-un-9-y-pierde-accesibilidad-respecto-a-2025</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-segmento-prime-madrileno-aumenta-sus-precios-un-9-y-pierde-accesibilidad-respecto-a-2025</guid>
-      <pubDate>Thu, 08 Oct 2026 15:15:00 +0000</pubDate>
-      <description>Los últimos datos del informe de la consultora inmobiliaria Diza muestran que en 11 zonas residenciales premium, de las 20 analizadas en el estudio, el importe medio para adquirir una vivienda supera ya el millón de euros.</description>
-      <dc:creator>L. Campillo</dc:creator>
-    </item>
-    <item>
-      <title>Madrid podrá edificar 18.400 viviendas protegidas en suelo dotacional y terciario hasta 2028</title>
-      <link>https://www.ejeprime.com/residencial/madrid-podra-edificar-18400-viviendas-protegidas-en-suelo-dotacional-y-terciario-hasta-2028</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/madrid-podra-edificar-18400-viviendas-protegidas-en-suelo-dotacional-y-terciario-hasta-2028</guid>
-      <pubDate>Thu, 08 Oct 2026 11:11:00 +0000</pubDate>
-      <description>El Ayuntamiento de la capital aprueba dos planes especiales para construir VPO en alquiler y otras modalidades de hospedaje en más de 240 parcelas de uso industrial donde antes solo se permitían hoteles situadas en ocho distritos.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://observatorioinmobiliario.es/</link>
     <description>Noticias del mercado inmobiliario - Observatorio Inmobiliario</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:55:33 +0000</lastBuildDate>
     <atom:link href="https://observatorioinmobiliario.es/" rel="self" type="application/rss+xml" />
     <item>
       <title>Colonial SFL negocia la venta del complejo MV49, sede de Iberia en Madrid</title>
@@ -14,9 +14,21 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>TM Grupo Inmobiliario invertirá 73 millones de euros en 239 viviendas en Torrevieja</title>
-      <link>https://observatorioinmobiliario.es/noticias/residencial/tm-grupo-inmobiliario-invertira-73-millones-de-euros-en-239-viviendas-en-torrevieja-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/tm-grupo-inmobiliario-invertira-73-millones-de-euros-en-239-viviendas-en-torrevieja-2/</guid>
+      <title>Activos alternativos: “No puedes cambiar las reglas del juego sobre la marcha”</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/activos-alternativos-no-puedes-cambiar-las-reglas-del-juego-sobre-la-marcha-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/activos-alternativos-no-puedes-cambiar-las-reglas-del-juego-sobre-la-marcha-2/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La IA impulsa la demanda de oficinas flexibles en España</title>
+      <link>https://observatorioinmobiliario.es/noticias/oficinas/la-ia-impulsa-la-demanda-de-oficinas-flexibles-en-espa%C3%B1a/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/oficinas/la-ia-impulsa-la-demanda-de-oficinas-flexibles-en-espa%C3%B1a/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grupo Sounds alquila el Teatro Barceló de Madrid</title>
+      <link>https://observatorioinmobiliario.es/noticias/retail/grupo-sounds-alquila-el-teatro-barcel%C3%B3-de-madrid/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/retail/grupo-sounds-alquila-el-teatro-barcel%C3%B3-de-madrid/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -32,22 +44,10 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Activos alternativos: “No puedes cambiar las reglas del juego sobre la marcha”</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/activos-alternativos-no-puedes-cambiar-las-reglas-del-juego-sobre-la-marcha-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/activos-alternativos-no-puedes-cambiar-las-reglas-del-juego-sobre-la-marcha-2/</guid>
+      <title>TM Grupo Inmobiliario invertirá 73 millones de euros en 239 viviendas en Torrevieja</title>
+      <link>https://observatorioinmobiliario.es/noticias/residencial/tm-grupo-inmobiliario-invertira-73-millones-de-euros-en-239-viviendas-en-torrevieja-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/tm-grupo-inmobiliario-invertira-73-millones-de-euros-en-239-viviendas-en-torrevieja-2/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa ingresa 465 millones hasta septiembre, un 75% más</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/metrovacesa-ingresa-465-millones-hasta-septiembre-un-75-mas-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/metrovacesa-ingresa-465-millones-hasta-septiembre-un-75-mas-2/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DWS ultima una alianza con Neinor para promover 1.000 viviendas protegidas en alquiler</title>
-      <link>https://observatorioinmobiliario.es/noticias/residencial/dws-ultima-una-alianza-con-neinor-para-promover-1000-viviendas-protegidas-en-alquiler/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/dws-ultima-una-alianza-con-neinor-para-promover-1000-viviendas-protegidas-en-alquiler/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Qué busca hoy el inversor internacional y cómo la tecnología ayuda a rentabilizar sus activos</title>
@@ -86,6 +86,12 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metrovacesa ingresa 465 millones hasta septiembre, un 75% más</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/metrovacesa-ingresa-465-millones-hasta-septiembre-un-75-mas-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/metrovacesa-ingresa-465-millones-hasta-septiembre-un-75-mas-2/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La inversión inmobiliaria suma 16.383 millones en el primer semestre, un 25% más</title>
       <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/la-inversi%C3%B3n-inmobiliaria-suma-16383-millones-en-el-primer-semestre-un-25-m%C3%A1s/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/la-inversi%C3%B3n-inmobiliaria-suma-16383-millones-en-el-primer-semestre-un-25-m%C3%A1s/</guid>
@@ -102,12 +108,6 @@
       <link>https://observatorioinmobiliario.es/noticias/retail/aew-compra-a-ares-un-retail-park-de-26700-m2-en-granaita/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/retail/aew-compra-a-ares-un-retail-park-de-26700-m2-en-granaita/</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patrizia adquiere ocho activos inmobiliarios alquilados a Lidl en España</title>
-      <link>https://observatorioinmobiliario.es/noticias/retail/patrizia-adquiere-ocho-activos-inmobiliarios-alquilados-a-lidl-en-espa%C3%B1a/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/retail/patrizia-adquiere-ocho-activos-inmobiliarios-alquilados-a-lidl-en-espa%C3%B1a/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>GuestReady gestiona 120 apartamentos turísticos en edificios completos en España</title>
@@ -144,12 +144,6 @@
       <link>https://observatorioinmobiliario.es/noticias/oficinas/skylight-madrid-alquila-12500-m2-y-alcanza-cerca-del-60-de-ocupaci%C3%B3n/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/oficinas/skylight-madrid-alquila-12500-m2-y-alcanza-cerca-del-60-de-ocupaci%C3%B3n/</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veracruz Properties compra el complejo de oficinas NOBO en Alicante</title>
-      <link>https://observatorioinmobiliario.es/noticias/oficinas/veracruz-properties-compra-el-complejo-de-oficinas-nobo-en-alicante/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/oficinas/veracruz-properties-compra-el-complejo-de-oficinas-nobo-en-alicante/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
