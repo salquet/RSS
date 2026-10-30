@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:56:45 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aliseda y Edicenter lanzan un proyecto en Oviedo con flex living y vivienda tradicional</title>
+      <link>https://www.ejeprime.com/residencial/aliseda-y-edicenter-compran-un-suelo-en-oviedo-para-promover-123-viviendas</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/aliseda-y-edicenter-compran-un-suelo-en-oviedo-para-promover-123-viviendas</guid>
+      <pubDate>Fri, 30 Oct 2026 13:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insur eleva su beneficio un 18% por la mejora de los márgenes de su área promotora</title>
+      <link>https://www.ejeprime.com/residencial/insur-eleva-su-beneficio-un-18-por-la-mejora-de-los-margenes-de-su-area-promotora</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/insur-eleva-su-beneficio-un-18-por-la-mejora-de-los-margenes-de-su-area-promotora</guid>
+      <pubDate>Thu, 29 Oct 2026 18:21:00 +0000</pubDate>
+      <description>La inmobiliaria de la familia Pumar logra unas ganancias de 18,5 millones en los nueve primeros meses de 2026, a pesar de que su cifra de negocio cae casi un 20% hasta 96 millones, por menor cifra de entregas y ventas de suelo.</description>
+      <dc:creator>EjePrime</dc:creator>
+    </item>
     <item>
       <title>La compraventa de viviendas cae un 9,8% en agosto y los precios suben un 12,8%, según notarios</title>
       <link>https://www.ejeprime.com/residencial/la-compraventa-de-viviendas-cae-un-98-en-agosto-y-los-precios-suben-un-128-segun-notarios</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-compraventa-de-viviendas-cae-un-98-en-agosto-y-los-precios-suben-un-128-segun-notarios</guid>
-      <pubDate>Thu, 29 Oct 2026 14:02:40 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 11:38:00 +0000</pubDate>
+      <description>Los préstamos hipotecarios descendieron un 5,6% interanual en agosto, hasta las 19.875 operaciones. No obstante, la cuantía media de estos préstamos aumentó un 1,3% respecto al mismo mes de 2025, hasta situarse en 164.978 euros.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>José María García Gómez, nuevo consejero de Vivienda de la Comunidad de Madrid</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</guid>
       <pubDate>Fri, 16 Oct 2026 09:15:00 +0000</pubDate>
       <description>Las viviendas situadas en la costa mediterránea son las que han sufrido un mayor incremento interanual en sus precios, alcanzando un 17,2%, seguido muy de cerca por las áreas metropolitanas con un 16,6% y las islas el 15,2%.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>La incertidumbre regulatoria y política llega al ‘flex living’, que frena sus inversiones</title>
-      <link>https://www.ejeprime.com/residencial/la-incertidumbre-regulatoria-y-politica-se-traslada-al-flex-living-que-frena-sus-inversiones</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-incertidumbre-regulatoria-y-politica-se-traslada-al-flex-living-que-frena-sus-inversiones</guid>
-      <pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-      <description>El sector advierte de una salida de inversores, ante la desconfianza que está afectando también a un buen número de operaciones que estaban previstas y que ahora permanecen en stand by. Piden seguridad jurídica en el largo plazo.</description>
-      <dc:creator>J. García</dc:creator>
-    </item>
-    <item>
-      <title>La Diputación Permanente del Congreso votará los decretos de vivienda más cerca de elecciones</title>
-      <link>https://www.ejeprime.com/residencial/la-diputacion-permanente-del-congreso-votara-los-decretos-de-vivienda-mas-cerca-de-elecciones</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-diputacion-permanente-del-congreso-votara-los-decretos-de-vivienda-mas-cerca-de-elecciones</guid>
-      <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
-      <description>El orden del día de la reunión de este viernes incluye someter a la aprobación de este órgano extraordinario que funciona con las Cortes disueltas solo las medidas frente a la Dana y la prórroga de ayudas por la crisis de Irán.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
