@@ -5,7 +5,7 @@
     <link>https://observatorioinmobiliario.es/</link>
     <description>Noticias del mercado inmobiliario - Observatorio Inmobiliario</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:56:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:29:45 +0000</lastBuildDate>
     <atom:link href="https://observatorioinmobiliario.es/" rel="self" type="application/rss+xml" />
     <item>
       <title>Neinor plantea repartir 220 millones y lanzar una OPA de exclusión sobre Aedas</title>
@@ -20,6 +20,18 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Las entregas residenciales impulsan el beneficio de Realia hasta septiembre</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/las-entregas-residenciales-impulsan-el-beneficio-de-realia-hasta-septiembre-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/las-entregas-residenciales-impulsan-el-beneficio-de-realia-hasta-septiembre-2/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leonardo Hotels renovará su hotel de Torremolinos</title>
+      <link>https://observatorioinmobiliario.es/noticias/hoteles/leonardo-hotels-renovara-su-hotel-de-torremolinos-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/leonardo-hotels-renovara-su-hotel-de-torremolinos-2/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Alibuilding inicia las obras de 138 viviendas en Alicante</title>
       <link>https://observatorioinmobiliario.es/noticias/residencial/alibuilding-inicia-las-obras-de-138-viviendas-en-alicante-2/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/residencial/alibuilding-inicia-las-obras-de-138-viviendas-en-alicante-2/</guid>
@@ -30,18 +42,6 @@
       <link>https://observatorioinmobiliario.es/noticias/retail/hlre-socimi-eleva-un-78-las-ventas-de-sus-activos-comerciales-2/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/retail/hlre-socimi-eleva-un-78-las-ventas-de-sus-activos-comerciales-2/</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RIU compra el Grand Hyatt Barcelona, antiguo Hotel Princesa Sofía</title>
-      <link>https://observatorioinmobiliario.es/noticias/hoteles/riu-compra-el-grand-hyatt-barcelona-antiguo-hotel-princesa-sofia-2/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/riu-compra-el-grand-hyatt-barcelona-antiguo-hotel-princesa-sofia-2/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grupo Insur eleva un 18,1% su beneficio neto hasta septiembre</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/grupo-insur-eleva-un-181-su-beneficio-neto-hasta-septiembre/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/grupo-insur-eleva-un-181-su-beneficio-neto-hasta-septiembre/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>José María García Gómez, nuevo consejero de Vivienda de la Comunidad de Madrid</title>
@@ -86,10 +86,10 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Molins aumenta un 13% sus ventas comparables y eleva el margen EBITDA al 22,6%</title>
-      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/molins-aumenta-un-13-sus-ventas-comparables-y-eleva-el-margen-ebitda-al-226/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/molins-aumenta-un-13-sus-ventas-comparables-y-eleva-el-margen-ebitda-al-226/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Grupo Insur eleva un 18,1% su beneficio neto hasta septiembre</title>
+      <link>https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/grupo-insur-eleva-un-181-su-beneficio-neto-hasta-septiembre/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/inversion-inmobiliaria/grupo-insur-eleva-un-181-su-beneficio-neto-hasta-septiembre/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grupo Sounds alquila el Teatro Barceló de Madrid</title>
@@ -110,15 +110,15 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>RIU compra el Grand Hyatt Barcelona, antiguo Hotel Princesa Sofía</title>
+      <link>https://observatorioinmobiliario.es/noticias/hoteles/riu-compra-el-grand-hyatt-barcelona-antiguo-hotel-princesa-sofia-2/</link>
+      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/riu-compra-el-grand-hyatt-barcelona-antiguo-hotel-princesa-sofia-2/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kategora invertirá 36 millones de euros en un complejo hotelero en Málaga</title>
       <link>https://observatorioinmobiliario.es/noticias/hoteles/kategora-invertira-36-millones-de-euros-en-un-complejo-hotelero-en-malaga-2/</link>
       <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/kategora-invertira-36-millones-de-euros-en-un-complejo-hotelero-en-malaga-2/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Renta 4, Grupo Lar y Westmont compran un edificio en Málaga para promover un hotel</title>
-      <link>https://observatorioinmobiliario.es/noticias/hoteles/renta-4-grupo-lar-y-westmont-compran-un-edificio-en-m%C3%A1laga-para-promover-un-hotel/</link>
-      <guid isPermaLink="true">https://observatorioinmobiliario.es/noticias/hoteles/renta-4-grupo-lar-y-westmont-compran-un-edificio-en-m%C3%A1laga-para-promover-un-hotel/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

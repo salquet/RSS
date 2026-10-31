@@ -5,13 +5,21 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:29:39 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gortázar de CaixaBank afirma: “No estamos construyendo suficientes casas como economía”</title>
+      <link>https://www.ejeprime.com/residencial/gortazar-de-caixabank-afirma-no-estamos-construyendo-suficientes-casas-como-economia</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/gortazar-de-caixabank-afirma-no-estamos-construyendo-suficientes-casas-como-economia</guid>
+      <pubDate>Sat, 31 Oct 2026 13:29:39 +0000</pubDate>
+    </item>
     <item>
       <title>Aliseda y Edicenter lanzan un proyecto en Oviedo con flex living y vivienda tradicional</title>
       <link>https://www.ejeprime.com/residencial/aliseda-y-edicenter-compran-un-suelo-en-oviedo-para-promover-123-viviendas</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/aliseda-y-edicenter-compran-un-suelo-en-oviedo-para-promover-123-viviendas</guid>
-      <pubDate>Fri, 30 Oct 2026 13:56:45 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 12:50:00 +0000</pubDate>
+      <description>Las compañías se han aliado para adquirir una parcela en el solar de La Gruta con 4.860 metros cuadrados de superficie y una edificabilidad sobre rasante de 10.900, donde prevén construir 123 pisos en dos torres residenciales.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Insur eleva su beneficio un 18% por la mejora de los márgenes de su área promotora</title>
@@ -195,14 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-oferta-de-alquiler-sigue-cayendo-y-podria-perder-el-227-unas-7705-viviendas-este-ano</guid>
       <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
       <description>El Observatorio del Alquiler cifra en 676.215 inmuebles la oferta, mientras que se mantiene una presión elevada de 133 interesados por activo ofertado. El precio medio en el tercer trimestre alcanza los 1.214 euros al mes.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El precio de la vivienda aumenta un 14,2% interanual en septiembre, según Tinsa</title>
-      <link>https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-aumenta-un-14-interanual-en-septiembre-segun-tinsa</guid>
-      <pubDate>Fri, 16 Oct 2026 09:15:00 +0000</pubDate>
-      <description>Las viviendas situadas en la costa mediterránea son las que han sufrido un mayor incremento interanual en sus precios, alcanzando un 17,2%, seguido muy de cerca por las áreas metropolitanas con un 16,6% y las islas el 15,2%.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
