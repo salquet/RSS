@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:10:59 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
     <item>
       <title>Riu cierra la compra del hotel Princesa Sofía y aterriza por primera vez en Barcelona</title>
@@ -29,18 +29,18 @@
       <description>Así de contundente se ha mostrado Rosa Gallego, consejera delegada de Q-Living, durante unas jornadas que ha reunido a inversores, promotores, operadores y representantes institucionales para analizar los retos y oportunidades del mercado del alquiler</description>
     </item>
     <item>
-      <title>Denis Itxaso: "Hay que dejar de subastar suelo al mejor postor porque contribuye a la especulación"</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>En un momento en el que el acceso a una vivienda se ha convertido como uno de los principales focos de tensión social y política en España, muchas miradas se dirigen hacia el País Vasco</description>
-    </item>
-    <item>
       <title>Sixth Street, el fondo socio de Florentino Pérez, hace caja con la venta de sus hoteles españoles</title>
       <link>https://www.elconfidencial.com/inmobiliario/hoteles/2026-10-28/sixth-street-vende-hoteles-swiss-life_4453579/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/hoteles/2026-10-28/sixth-street-vende-hoteles-swiss-life_4453579/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>El fondo estadounidense deshace posiciones en el sector hotelero y traspasa a Swiss Life dos establecimientos en la Costa Brava y en Almería por debajo del precio al que los tasó al sacarlos a bolsa</description>
+    </item>
+    <item>
+      <title>Denis Itxaso: "Hay que dejar de subastar suelo al mejor postor porque contribuye a la especulación"</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>En un momento en el que el acceso a una vivienda se ha convertido como uno de los principales focos de tensión social y política en España, muchas miradas se dirigen hacia el País Vasco</description>
     </item>
     <item>
       <title>Ernesto Tarazona, el hombre que dirigió el suelo de Sareb, lanza al mercado su propia firma inmobiliaria</title>
@@ -160,15 +160,15 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>De Castellana a Atocha: cómo renovar la arquitectura de las grandes ciudades sin borrar su historia</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>El alza del precio de la vivienda envía a la pobreza a 770.000 personas con empleo en España</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-20/pobreza-laboral-crisis-vivienda-intermon-oxfam_4448223/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-20/pobreza-laboral-crisis-vivienda-intermon-oxfam_4448223/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De Castellana a Atocha: cómo renovar la arquitectura de las grandes ciudades sin borrar su historia</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -214,6 +214,18 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>El motor inmobiliario de la costa se gripa: las compras de extranjeros caen un 13%</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-15/extranjeros-residentes-compraventas-notarios_4444949/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-15/extranjeros-residentes-compraventas-notarios_4444949/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El 'arquitecto' de la Ciudad del Santander tiene un plan para salvar Los Ángeles de San Rafael</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-15/angeles-san-rafael-vivienda-gil-marin-roundshield_4433778/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-15/angeles-san-rafael-vivienda-gil-marin-roundshield_4433778/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La Guardia Civil ve indicios de delito en la guerra de Los Ángeles de San Rafael: "Se quería eliminar a Gil Marín"</title>
       <link>https://www.elconfidencial.com/inmobiliario/2026-10-15/guardia-civil-informe-roundshield-gil-marin-roundshield_4445009/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-15/guardia-civil-informe-roundshield-gil-marin-roundshield_4445009/</guid>
@@ -226,27 +238,15 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El 'arquitecto' de la Ciudad del Santander tiene un plan para salvar Los Ángeles de San Rafael</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-10-15/angeles-san-rafael-vivienda-gil-marin-roundshield_4433778/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-15/angeles-san-rafael-vivienda-gil-marin-roundshield_4433778/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El motor inmobiliario de la costa se gripa: las compras de extranjeros caen un 13%</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-15/extranjeros-residentes-compraventas-notarios_4444949/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-15/extranjeros-residentes-compraventas-notarios_4444949/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Del decreto de vivienda al próximo Gobierno: qué puede ocurrir tras las elecciones del 29-N</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-14/decreto-vivienda-29n-elecciones-nuevo-gobierno_4443909/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-14/decreto-vivienda-29n-elecciones-nuevo-gobierno_4443909/</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El antiguo El Corte Inglés de Portal del Ángel en Barcelona sale a bolsa valorado en 113 M</title>
-      <link>https://www.elconfidencial.com/inmobiliario/comercial/2026-10-14/corte-ingles-portal-angel-bolsa-redevco-ares_4444278/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/comercial/2026-10-14/corte-ingles-portal-angel-bolsa-redevco-ares_4444278/</guid>
+      <title>Cuando el problema no es solo que suba el precio de la vivienda, sino que no da tiempo a ahorrar</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-14/hipotecas-financiacion-compraventa-vivienda_4439530/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-14/hipotecas-financiacion-compraventa-vivienda_4439530/</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
