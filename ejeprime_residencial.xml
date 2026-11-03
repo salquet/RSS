@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:56:23 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El BEI invertirá 495 millones para ampliar en 5.000 viviendas el parque público de Cataluña</title>
+      <link>https://www.ejeprime.com/residencial/el-bei-invertira-495-millones-para-ampliar-en-5000-viviendas-el-parque-publico-de-cataluna</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-bei-invertira-495-millones-para-ampliar-en-5000-viviendas-el-parque-publico-de-cataluna</guid>
+      <pubDate>Tue, 03 Nov 2026 14:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Berzeus recupera la joya de los Santoña para su último proyecto residencial de lujo</title>
+      <link>https://www.ejeprime.com/residencial/berzeus-recupera-la-joya-de-los-santona-para-su-ultimo-proyecto-residencial-de-lujo</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/berzeus-recupera-la-joya-de-los-santona-para-su-ultimo-proyecto-residencial-de-lujo</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <description>La compañía, liderada por ex Metrovacesa y Ferrovial así como directivos argentinos, transforma un edificio centenario en plena plaza de Santa Ana para crear unas de las pocas viviendas de más alta gama del centro de Madrid.</description>
+      <dc:creator>R. R.</dc:creator>
+    </item>
     <item>
       <title>Valdecarros subasta 36.000 metros cuadrados de suelo para VPO a partir de 740 euros</title>
       <link>https://www.ejeprime.com/residencial/valdecarros-subasta-36000-metros-cuadrados-de-suelo-para-vpo-a-partir-de-740-euros</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/valdecarros-subasta-36000-metros-cuadrados-de-suelo-para-vpo-a-partir-de-740-euros</guid>
-      <pubDate>Mon, 02 Nov 2026 16:56:36 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 16:32:00 +0000</pubDate>
+      <description>Según las previsiones, la comercialización de la totalidad de estos aprovechamientos permitirá obtener más de 1.000 millones de euros de ingresos, con los que se espera cubrir alrededor del 70% de los costes totales estimados.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>El antiguo edificio de la Telefónica de San Sebastián se transforma en 13 viviendas de lujo</title>
@@ -187,22 +203,6 @@
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/los-decretos-de-vivienda-favoreceran-a-los-actuales-inquilinos-frente-a-los-propietarios</guid>
       <pubDate>Wed, 21 Oct 2026 09:33:00 +0000</pubDate>
       <description>Fedea sostiene que las prórrogas anuales de los contratos por ampliaciones obligatorias de cinco años (siete si el arrendador es persona jurídica) y la indemnización por no renovación genera una especie de ‘coste de despido’.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>Gobierno y PP inician la campaña electoral con el millón de viviendas en el centro de la pugna</title>
-      <link>https://www.ejeprime.com/residencial/gobierno-y-pp-inician-la-campana-electoral-con-el-millon-de-viviendas-en-el-centro-de-la-pugna</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/gobierno-y-pp-inician-la-campana-electoral-con-el-millon-de-viviendas-en-el-centro-de-la-pugna</guid>
-      <pubDate>Tue, 20 Oct 2026 19:07:00 +0000</pubDate>
-      <description>La ministra de Vivienda recoge el guante de Feijóo y destaca las 940.000 viviendas visadas desde 2018. Insiste en que el programa del Ejecutivo será ambicioso como el actual, aunque la falta de votos ha impedido su aplicación.</description>
-      <dc:creator>J. García</dc:creator>
-    </item>
-    <item>
-      <title>Madrid adjudica dos suelos para 95 viviendas destinadas a mayores en Hortaleza y Ciudad Lineal</title>
-      <link>https://www.ejeprime.com/residencial/madrid-adjudica-dos-suelos-para-95-viviendas-destinadas-a-mayores-en-hortaleza-y-ciudad-lineal</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/madrid-adjudica-dos-suelos-para-95-viviendas-destinadas-a-mayores-en-hortaleza-y-ciudad-lineal</guid>
-      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
-      <description>El Ayuntamiento de la capital dedica a dos proyectos de cohousing senior terrenos que suman cerca de 8.700 metros cuadrados y que se han cedido en régimen de concesión demanial por un plazo 75 años a entidades sin ánimo de lucro.</description>
       <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
