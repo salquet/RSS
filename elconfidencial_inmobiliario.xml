@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:15:11 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
     <item>
       <title>Gran Vía 40 volverá a ser un hotel un siglo después y se sumará a la fiebre hotelera</title>
@@ -36,18 +36,18 @@
       <description>Empezó a pie de calle en 1998, pateando el madrileño barrio de La Ventilla para captar pisos en plena antesala del boom inmobiliario, y ha terminado intermediando algunas de las operaciones residenciales más exclusivas de La Moraleja</description>
     </item>
     <item>
-      <title>De la especulación a priorizar la vivienda: el giro regulatorio para desbloquear la red eléctrica</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>La crisis de acceso a la red eléctrica en España ha alcanzado un punto de inflexión en el que el urbanismo y la infraestructura energética se verán obligados a entenderse</description>
-    </item>
-    <item>
       <title>La ola de jubilaciones en el campo allana el desembarco récord de capital extranjero</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-11-09/inmobiliario-fincas-rusticas-agricolas-jll-transferencia_4419670/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-11-09/inmobiliario-fincas-rusticas-agricolas-jll-transferencia_4419670/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <description>El sector agrícola español se encuentra ante una encrucijada demográfica que amenaza la estructura de la propiedad en el campo y puede reconfigurar el mapa rural del país</description>
+    </item>
+    <item>
+      <title>De la especulación a priorizar la vivienda: el giro regulatorio para desbloquear la red eléctrica</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>La crisis de acceso a la red eléctrica en España ha alcanzado un punto de inflexión en el que el urbanismo y la infraestructura energética se verán obligados a entenderse</description>
     </item>
     <item>
       <title>La española Mazabi se hace con la suite de cinco hoteles de lujo internacionales por 200 millones de euros</title>
@@ -70,15 +70,15 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La socimi de los futbolistas (Telco) y Telefónica retrasan su gran operación inmobiliaria a 2027</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-11-02/telefonica-inmobiliario-inversion-paul-gomero-telco-building_4448209/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-02/telefonica-inmobiliario-inversion-paul-gomero-telco-building_4448209/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Azora pone a la venta un futuro hotel de lujo de cinco estrellas en una de las zonas más emblemáticas de Lisboa</title>
       <link>https://www.elconfidencial.com/inmobiliario/hoteles/2026-11-02/azora-hotel-de-lujo-cinco-estrellas-venta-inmobiliario_4453878/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/hoteles/2026-11-02/azora-hotel-de-lujo-cinco-estrellas-venta-inmobiliario_4453878/</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La socimi de los futbolistas (Telco) y Telefónica retrasan su gran operación inmobiliaria a 2027</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-11-02/telefonica-inmobiliario-inversion-paul-gomero-telco-building_4448209/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-02/telefonica-inmobiliario-inversion-paul-gomero-telco-building_4448209/</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -106,9 +106,9 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ernesto Tarazona, el hombre que dirigió el suelo de Sareb, lanza al mercado su propia firma inmobiliaria</title>
-      <link>https://www.elconfidencial.com/inmobiliario/suelo/2026-10-28/ernesto-tarazona-suelo-sareb-firma-inmobiliaria_4454359/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/suelo/2026-10-28/ernesto-tarazona-suelo-sareb-firma-inmobiliaria_4454359/</guid>
+      <title>Denis Itxaso: "Hay que dejar de subastar suelo al mejor postor porque contribuye a la especulación"</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -178,15 +178,15 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inversores mexicanos ponen el 'todo vendido' en su edificio del barrio Salamanca a más de 23.000 €/m²</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-10-23/mexicanos-edificio-barrio-salamanca-madrid-vendido-atico-lujo_4450602/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-23/mexicanos-edificio-barrio-salamanca-madrid-vendido-atico-lujo_4450602/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cerezo y Gil saltan al campo inmobiliario tras vender el Atleti: compran un proyecto de 'flex living'</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-10-23/cerezo-gil-atletico-madrid-edificio-anaya_4450722/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-10-23/cerezo-gil-atletico-madrid-edificio-anaya_4450722/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inversores mexicanos ponen el 'todo vendido' en su edificio del barrio Salamanca a más de 23.000 €/m²</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-23/mexicanos-edificio-barrio-salamanca-madrid-vendido-atico-lujo_4450602/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-23/mexicanos-edificio-barrio-salamanca-madrid-vendido-atico-lujo_4450602/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -232,21 +232,21 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>De Castellana a Atocha: cómo renovar la arquitectura de las grandes ciudades sin borrar su historia</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>El alza del precio de la vivienda envía a la pobreza a 770.000 personas con empleo en España</title>
       <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-20/pobreza-laboral-crisis-vivienda-intermon-oxfam_4448223/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-20/pobreza-laboral-crisis-vivienda-intermon-oxfam_4448223/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pitido final: Dani Olmo y Álvaro Negredo enfilan la liquidación de su socimi</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-10-19/dani-olmo-alvaro-negredo-liquidan-su-socimi_4446540/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-10-19/dani-olmo-alvaro-negredo-liquidan-su-socimi_4446540/</guid>
+      <title>De Castellana a Atocha: cómo renovar la arquitectura de las grandes ciudades sin borrar su historia</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-20/arquitectura-atemporal-diseno-interiores-bra_4444045/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Velzia busca el sello Big Four para HYI: PwC auditará sus cuentas tras aprobar su reestructuración</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-19/velzia-house-flipping-plan-de-reestructuracion-pwc-auditor-auditoria_4446065/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-19/velzia-house-flipping-plan-de-reestructuracion-pwc-auditor-auditoria_4446065/</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
