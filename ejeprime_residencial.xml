@@ -5,20 +5,28 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:59:10 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Ayuntamiento de Barcelona cede suelo a HMB para levantar 410 pisos de alquiler asequible</title>
+      <link>https://www.ejeprime.com/residencial/el-ayuntamiento-de-barcelona-cede-suelo-a-hmb-para-levantar-410-pisos-de-alquiler-asequible</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-ayuntamiento-de-barcelona-cede-suelo-a-hmb-para-levantar-410-pisos-de-alquiler-asequible</guid>
+      <pubDate>Fri, 20 Nov 2026 15:59:10 +0000</pubDate>
+    </item>
     <item>
       <title>Montebalito invierte 20 millones en un proyecto de 119 viviendas en Bucarest</title>
       <link>https://www.ejeprime.com/residencial/montebalito-invierte-20-millones-en-un-proyecto-de-119-viviendas-en-bucarest</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/montebalito-invierte-20-millones-en-un-proyecto-de-119-viviendas-en-bucarest</guid>
-      <pubDate>Thu, 19 Nov 2026 16:28:13 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 15:52:00 +0000</pubDate>
+      <description>La promotora canaria levantará en una parcela de 4.211 metros cuadrados un inmueble de dos bloques en el centro de la ciudad rumana, con una cifra de ventas estimada de más de 30 millones y apertura prevista para finales de 2029.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>El precio de la vivienda moderará su subida al 7,2% y el déficit cerrará en 816.000 en 2027</title>
       <link>https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-se-moderara-al-72-en-2027-y-el-deficit-cerrara-en-816000-este-ano</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-se-moderara-al-72-en-2027-y-el-deficit-cerrara-en-816000-este-ano</guid>
       <pubDate>Thu, 19 Nov 2026 12:05:00 +0000</pubDate>
-      <description>Caixabank Research alerta del deterioro de la ratio de accesibilidad, especialmente intenso en Madrid, donde ha pasado de 13,6 a 18,2 años de renta en cuatro años, así como en Málaga (de 8,3 a 11,6) y Valencia (de 6,5 a 9,7).</description>
+      <description>Caixabank Research alerta del deterioro de la ratio de accesibilidad, especialmente intenso en Madrid, donde ha pasado de 13,6 a 18,2 años de renta de 2022 a 2026, así como en Málaga (de 8,3 a 11,6) y en Valencia (de 6,5 a 9,7).</description>
       <dc:creator>J. G.</dc:creator>
     </item>
     <item>
@@ -196,14 +204,6 @@
       <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
       <description>La compañía catalana ultima promociones en Andalucía, Comunidad Valenciana, Castilla y León y Murcia de un modelo dirigido a jóvenes que buscan comprar primera residencia. Prevé lanzar entre 11 y 15 nuevos desarrollos en 12 meses.</description>
       <dc:creator>M. Martínez García</dc:creator>
-    </item>
-    <item>
-      <title>Casa 47 incorpora 442 nuevas viviendas de alquiler asequible que se suman a las 807 publicadas</title>
-      <link>https://www.ejeprime.com/residencial/casa-47-incorpora-442-nuevas-viviendas-de-alquiler-asequible-que-se-suman-a-las-807-publicadas</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/casa-47-incorpora-442-nuevas-viviendas-de-alquiler-asequible-que-se-suman-a-las-807-publicadas</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
-      <description>Los alquileres de estas viviendas se ajustarán al modelo de asequibilidad, estabilidad y transparencia que contempla Casa 47, que recoge unos precios por debajo del 30% de los ingresos de cada hogar y contratos de hasta 75 años.</description>
-      <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
 </rss>
