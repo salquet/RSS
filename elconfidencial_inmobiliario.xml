@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/inmobiliario/</link>
     <description>Noticias inmobiliarias de El Confidencial</description>
     <language>es</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:12:59 +0000</lastBuildDate>
     <atom:link href="https://www.elconfidencial.com/inmobiliario/" rel="self" type="application/rss+xml" />
     <item>
       <title>Nuevo reto para el Ibex: sacar de la calle a 75 personas y comprar abrigo a otras 1.000 en solo 10 h</title>
@@ -57,11 +57,11 @@
       <description>La venta de viviendas cae, lo que podría apuntar hacia un cambio de tendencia en el sector que, de consolidarse, supondría entrar en una nueva etapa del ciclo inmobiliario</description>
     </item>
     <item>
-      <title>CaixaBank insta la subasta de un 'Mercadona' de Rodrigo Rato por una deuda de 2,3 M</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-11-18/rodrigo-rato-deuda-subasta-mercadona-castellanos-guell-pasquin-lazard-caixabank_4465801/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-18/rodrigo-rato-deuda-subasta-mercadona-castellanos-guell-pasquin-lazard-caixabank_4465801/</guid>
+      <title>El 'peaje' por cambiar de piso: un contrato nuevo sale mucho más caro que renovar</title>
+      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-11-18/alquiler-arrendamiento-renta-inquilino-caixabank-research_4464561/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-11-18/alquiler-arrendamiento-renta-inquilino-caixabank-research_4464561/</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>CaixaBank ha instado la subasta notarial, por el impago de una hipoteca, sobre un activo comercial alquilado a la cadena de supermercados. Reclaman 2,3 millones</description>
+      <description>Mientras que el importe medio de los contratos vigentes subió un 9,5% entre 2022 y 2026, el precio de los nuevos alquileres se disparó un 13,5%</description>
     </item>
     <item>
       <title>El 'house flipping' gripa: otro de los referentes del sector se ve obligado a bajar precios</title>
@@ -70,9 +70,9 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>El 'peaje' por cambiar de piso: un contrato nuevo sale mucho más caro que renovar</title>
-      <link>https://www.elconfidencial.com/inmobiliario/residencial/2026-11-18/alquiler-arrendamiento-renta-inquilino-caixabank-research_4464561/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/residencial/2026-11-18/alquiler-arrendamiento-renta-inquilino-caixabank-research_4464561/</guid>
+      <title>CaixaBank insta la subasta de un 'Mercadona' de Rodrigo Rato por una deuda de 2,3 M</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-11-18/rodrigo-rato-deuda-subasta-mercadona-castellanos-guell-pasquin-lazard-caixabank_4465801/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-18/rodrigo-rato-deuda-subasta-mercadona-castellanos-guell-pasquin-lazard-caixabank_4465801/</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -124,15 +124,15 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>De la especulación a priorizar la vivienda: el giro regulatorio para desbloquear la red eléctrica</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La ola de jubilaciones en el campo allana el desembarco récord de capital extranjero</title>
       <link>https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-11-09/inmobiliario-fincas-rusticas-agricolas-jll-transferencia_4419670/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-11-09/inmobiliario-fincas-rusticas-agricolas-jll-transferencia_4419670/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De la especulación a priorizar la vivienda: el giro regulatorio para desbloquear la red eléctrica</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-11-09/electricidad-viviendas-promotores-inmobiliarios-potencia_4434733/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -190,12 +190,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Denis Itxaso: "Hay que dejar de subastar suelo al mejor postor porque contribuye a la especulación"</title>
-      <link>https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</link>
-      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ernesto Tarazona, el hombre que dirigió el suelo de Sareb, lanza al mercado su propia firma inmobiliaria</title>
       <link>https://www.elconfidencial.com/inmobiliario/suelo/2026-10-28/ernesto-tarazona-suelo-sareb-firma-inmobiliaria_4454359/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/suelo/2026-10-28/ernesto-tarazona-suelo-sareb-firma-inmobiliaria_4454359/</guid>
@@ -205,6 +199,12 @@
       <title>Sixth Street, el fondo socio de Florentino Pérez, hace caja con la venta de sus hoteles españoles</title>
       <link>https://www.elconfidencial.com/inmobiliario/hoteles/2026-10-28/sixth-street-vende-hoteles-swiss-life_4453579/</link>
       <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/hoteles/2026-10-28/sixth-street-vende-hoteles-swiss-life_4453579/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denis Itxaso: "Hay que dejar de subastar suelo al mejor postor porque contribuye a la especulación"</title>
+      <link>https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</link>
+      <guid isPermaLink="true">https://www.elconfidencial.com/inmobiliario/2026-10-28/entrevista-denis-itxaso-consejero-gobierno-vasco-vivienda-asequible-protegida-blackstone_4452932/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
