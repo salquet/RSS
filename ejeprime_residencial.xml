@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:53:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:38:27 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El precio de la vivienda crece el 6,9% en Madrid y un 4,9% en Barcelona, según Gloval</title>
+      <link>https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-crece-el-69-en-madrid-frente-al-49-que-se-registra-en-barcelona</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-crece-el-69-en-madrid-frente-al-49-que-se-registra-en-barcelona</guid>
+      <pubDate>Thu, 26 Nov 2026 17:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>El inversor inmobiliario nacional salta fronteras y pone sus ojos en el continente americano</title>
+      <link>https://www.ejeprime.com/residencial/el-inversor-inmobiliario-nacional-salta-fronteras-y-pone-sus-ojos-en-el-continente-americano</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-inversor-inmobiliario-nacional-salta-fronteras-y-pone-sus-ojos-en-el-continente-americano</guid>
+      <pubDate>Thu, 26 Nov 2026 05:00:00 +0000</pubDate>
+      <description>México, Miami, Panamá, Paraguay y República Dominicana canalizan el mayor flujo de capital de los españoles en esta región, por sus mejores precios, unas mayores rentabilidades de los activos y un tratamiento tributario más laxo.</description>
+      <dc:creator>J. García</dc:creator>
+    </item>
     <item>
       <title>El ICO impulsa la construcción industrializada de viviendas con 1.160 millones</title>
       <link>https://www.ejeprime.com/residencial/el-ico-impulsa-la-construccion-industrializada-de-viviendas-con-1160-millones</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-ico-impulsa-la-construccion-industrializada-de-viviendas-con-1160-millones</guid>
-      <pubDate>Wed, 25 Nov 2026 17:53:42 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 17:31:00 +0000</pubDate>
+      <description>El nuevo programa de la entidad pública se integra en España Crece y acompasa los desembolsos al momento en el que se genera la necesidad financiera gracias a fondos que cubren todo el proceso de edificación residencial.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>Brosh invierte 175 millones en la promoción de más de 200 viviendas de lujo en Madrid y Málaga</title>
@@ -188,22 +204,6 @@
       <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
       <description>Los expertos advierten del caos regulatorio que propicia la norma, lo que va a hacer muy difícil aplicar las medidas y generará una gran conflictividad. Ha contribuido a frenar importantes inversiones a la espera de una reversión.</description>
       <dc:creator>M. Martínez García</dc:creator>
-    </item>
-    <item>
-      <title>El Gobierno eleva hasta 6 GW la potencia eléctrica para vivienda hasta 2030</title>
-      <link>https://www.ejeprime.com/residencial/el-gobierno-eleva-hasta-6-gw-la-potencia-electrica-para-vivienda-hasta-2030</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-gobierno-eleva-hasta-6-gw-la-potencia-electrica-para-vivienda-hasta-2030</guid>
-      <pubDate>Thu, 12 Nov 2026 17:13:00 +0000</pubDate>
-      <description>La ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, presenta en la Diputación Permanente del Congreso un ‘megaplan’ de 17.142 millones para impulsar 47 GW de nueva demanda que priorizará el residencial.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>La Diputación Permanente del Congreso valida el primer decreto de vivienda que tumbó el pleno</title>
-      <link>https://www.ejeprime.com/residencial/la-diputacion-permanente-del-congreso-valida-el-primer-decreto-de-vivienda-que-tumbo-el-pleno</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-diputacion-permanente-del-congreso-valida-el-primer-decreto-de-vivienda-que-tumbo-el-pleno</guid>
-      <pubDate>Thu, 12 Nov 2026 14:14:00 +0000</pubDate>
-      <description>El texto aprueba medidas como la ayuda de 50.000 euros para la entrada de una casa, endurece las condiciones para la compra especulativa por parte de los llamados ‘fondos buitre’ e incluye una prórroga extraordinaria de dos años.</description>
-      <dc:creator>EjePrime</dc:creator>
     </item>
   </channel>
 </rss>
