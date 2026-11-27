@@ -5,13 +5,29 @@
     <link>https://www.ejeprime.com/residencial</link>
     <description>Noticias sobre promociones residenciales - EjePrime</description>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:21:08 +0000</lastBuildDate>
     <atom:link href="https://www.ejeprime.com/residencial" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kutxabank acelera en el negocio promotor con un volumen de financiación de 900 millones</title>
+      <link>https://www.ejeprime.com/residencial/kutxabank-acelera-en-el-negocio-promotor-con-un-volumen-de-financiacion-de-900-millones</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/kutxabank-acelera-en-el-negocio-promotor-con-un-volumen-de-financiacion-de-900-millones</guid>
+      <pubDate>Fri, 27 Nov 2026 17:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>El déficit de vivienda conquista las propuestas de los partidos ante la cita electoral del 29N</title>
+      <link>https://www.ejeprime.com/residencial/el-deficit-de-vivienda-conquista-las-propuestas-de-los-partidos-ante-la-cita-electoral-del-29n</link>
+      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-deficit-de-vivienda-conquista-las-propuestas-de-los-partidos-ante-la-cita-electoral-del-29n</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
+      <description>EjePrime analiza las medidas de las cuatro principales fuerzas políticas que concurren a las elecciones del próximo domingo, con iniciativas dispares para aumentar el parque público y mejorar de ese modo el acceso a una casa.</description>
+      <dc:creator>M. Martínez García</dc:creator>
+    </item>
     <item>
       <title>El precio de la vivienda crece el 6,9% en Madrid y un 4,9% en Barcelona, según Gloval</title>
       <link>https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-crece-el-69-en-madrid-frente-al-49-que-se-registra-en-barcelona</link>
       <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-precio-de-la-vivienda-crece-el-69-en-madrid-frente-al-49-que-se-registra-en-barcelona</guid>
-      <pubDate>Thu, 26 Nov 2026 17:38:27 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 15:15:00 +0000</pubDate>
+      <description>El área metropolitana de la capital aumenta el precio de sus inmuebles hasta septiembre un 13,3% interanual, mientras que en la ciudad catalana se registra una subida en 12 meses del 12,8%, hasta 3.347 euros por metro cuadrado.</description>
+      <dc:creator>EjePrime</dc:creator>
     </item>
     <item>
       <title>El inversor inmobiliario nacional salta fronteras y pone sus ojos en el continente americano</title>
@@ -188,22 +204,6 @@
       <pubDate>Fri, 13 Nov 2026 11:50:00 +0000</pubDate>
       <description>El proyecto, situado en el distrito de Villaverde y operado por la plataforma Sharing Co, cuenta con una un total de 126 unidades y su comercialización contempla la venta individual de los activos alojativos a inversores.</description>
       <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>La construcción de edificios se desploma el 34,7% anual y arrastra al conjunto del sector</title>
-      <link>https://www.ejeprime.com/residencial/la-construccion-de-edificios-se-desploma-el-347-anual-y-arrastra-al-conjunto-del-sector</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/la-construccion-de-edificios-se-desploma-el-347-anual-y-arrastra-al-conjunto-del-sector</guid>
-      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
-      <description>Según el INE, su producción encadena nueve meses de bajadas registrando en septiembre un retroceso del 9,8% anual. La ingeniería civil cayó un 8,6%, mientras que la construcción especializada disminuyó su producción en un 2,7%.</description>
-      <dc:creator>EjePrime</dc:creator>
-    </item>
-    <item>
-      <title>El sector mide el impacto del decreto de vivienda: inseguridad jurídica y pérdida de confianza</title>
-      <link>https://www.ejeprime.com/residencial/el-sector-mide-el-impacto-del-decreto-de-vivienda-inseguridad-juridica-y-perdida-de-confianza</link>
-      <guid isPermaLink="true">https://www.ejeprime.com/residencial/el-sector-mide-el-impacto-del-decreto-de-vivienda-inseguridad-juridica-y-perdida-de-confianza</guid>
-      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
-      <description>Los expertos advierten del caos regulatorio que propicia la norma, lo que va a hacer muy difícil aplicar las medidas y generará una gran conflictividad. Ha contribuido a frenar importantes inversiones a la espera de una reversión.</description>
-      <dc:creator>M. Martínez García</dc:creator>
     </item>
   </channel>
 </rss>
